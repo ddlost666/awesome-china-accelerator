@@ -1,0 +1,31 @@
+name: Markdown Link Check
+
+on:
+  schedule:
+    # 每周一 UTC 00:00 自动检测一次死链 / Run every Monday at 00:00 UTC
+    - cron: '0 0 * * 1'
+  push:
+    branches: [main]
+    paths:
+      - '**.md'
+  pull_request:
+    branches: [main]
+    paths:
+      - '**.md'
+
+jobs:
+  link-check:
+    name: Check Markdown links
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run markdown-link-check
+        uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+          use-quiet-mode: 'yes'
+          use-verbose-mode: 'yes'
+          config-file: '.github/workflows/mlc_config.json'
+          folder-path: 'docs/'
+          file-path: './README.md, ./CONTRIBUTING.md, ./CHANGELOG.md'

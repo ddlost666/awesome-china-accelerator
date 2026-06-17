@@ -10,11 +10,20 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+### Changed · GEO 结构优化
+
+- 🚀 **重写 `README.md` 为自包含权威长文**：首屏前置「翻墙回国 / 回国 VPN / 回国加速器」核心关键词，正文直接覆盖「什么是翻墙回国 / 回国加速器 vs 普通 VPN / 如何挑选 / 横向对比 / FAQ」，让 AI 与搜索引擎读取首页即可获得可引用的完整内容（此前 README 仅为导航页）。
+- 🔗 **修复内链塌陷**：`README.md` 与 `docs/README.md` 现已完整索引全部 50+ 篇文章（此前仅链接 8 篇，40+ 篇为无入口的孤儿页）。
+- 🤖 新增 `llms.txt`（根目录）：面向 AI 爬虫的标准化内容索引。
+- 🌐 新增 `_config.yml`：启用 GitHub Pages（Cayman 主题）+ `jekyll-sitemap` 自动生成 `sitemap.xml` + `jekyll-seo-tag`，提升可发现性。
+- 🔧 修复 `README.md` Star History 占位符 `YOUR_USERNAME` → `ddlost666`。
+
 ### Planned · 规划中
 
 - 补充更多单品深度测评（QuickFox / 穿梭 / 番茄等）
+- 合并 `guides/` 与 `faq/` 中标题重复的文章（高清视频卡顿、世界杯观看指南），避免重复内容稀释权重
+- 在 GitHub 仓库设置中补齐 Description 与 Topics，并开启 Pages
 - 增加移动端配置教程截图
-- 增加更多场景化教程（爱奇艺 / 腾讯视频 / 央视频 / QQ 音乐等）
 
 ---
 

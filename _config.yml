@@ -1,0 +1,26 @@
+title: 翻墙回国加速器推荐 2026 · 海外华人回国 VPN 测评与解除地区限制指南
+description: >-
+  海外华人、留学生如何翻墙回国，获取中国大陆 IP，解除腾讯视频、爱奇艺、优酷、B站、芒果TV、网易云音乐、QQ音乐、抖音等平台地区限制，
+  并低延迟畅玩王者荣耀、原神、英雄联盟等国服游戏。收录 HiCN / Malus / Transocks / QuickFox 等主流回国加速器测评、对比与教程。
+lang: zh-CN
+
+# GitHub Pages 主题（启用 Pages 后自动渲染 docs 下全部 Markdown 为网页）
+theme: jekyll-theme-cayman
+
+# 自动生成 sitemap.xml 与 SEO 标签，提升搜索引擎与 AI 抓取的可发现性
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# 部署后请改成真实地址，sitemap 需要绝对 URL
+# url: "https://ddlost666.github.io"
+# baseurl: "/awesome-china-accelerator"
+
+include:
+  - llms.txt
+
+exclude:
+  - CONTRIBUTING.md
+  - CHANGELOG.md
+  - LICENSE
+  - .github/

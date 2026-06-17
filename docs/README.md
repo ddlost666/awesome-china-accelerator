@@ -1,51 +1,118 @@
 # 📚 内容索引 · Content Index
 
-本目录收录所有测评、对比、教程和 FAQ 文章。所有内容由开源社区共同维护。
-This directory hosts all reviews, comparisons, guides, and FAQ articles maintained by the community.
+本目录收录全部 **50+ 篇**回国加速器测评、横向对比、场景化使用教程和 FAQ。覆盖海外华人翻墙回国看视频、听歌、看体育直播、玩国服游戏、回国上网等真实需求。所有内容由开源社区共同维护。
+
+A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on China-bound accelerators (回国加速器 / 回国 VPN), maintained by the community.
+
+> 🔙 返回项目首页与综合推荐：[README](../README.md)
 
 ---
 
 ## 📝 单品测评 · Reviews
 
 深度评测单款回国加速器，覆盖游戏延迟、视频解锁、稳定性、价格、易用性五大维度。
-In-depth reviews of individual accelerators across gaming latency, streaming, stability, pricing, and usability.
 
-- [主流回国加速器测评（综合横评）](reviews/主流回国加速器测评.md)
-- [**HiCN 2026 深度测评**](reviews/hicn-deep-review-2026.md) · ⭐ 推荐阅读
-- [Malus 加速器评测](reviews/malus-review.md)
+- [主流回国加速器测评：优缺点全对比（2026 年版）](reviews/主流回国加速器测评.md)
+- [**HiCN 回国加速器深度测评（2026 年最新版）**](reviews/hicn-deep-review-2026.md) · ⭐ 推荐阅读
+- [Malus 加速器评测（2026 年版）](reviews/malus-review.md)
 
 ---
 
 ## ⚖️ 横向对比 · Comparisons
 
 针对热门组合的深度对比，帮你在两款产品之间快速决策。
-Head-to-head comparisons to help you decide between popular options.
 
-- [HiCN vs Malus 全面对比](comparisons/hicn-vs-malus.md)
-- [HiCN vs QuickFox 对比](comparisons/hicn-vs-quickfox.md)
+- [HiCN vs Malus 全面对比（2026 年版）](comparisons/hicn-vs-malus.md)
+- [HiCN vs QuickFox 对比（2026 年版）](comparisons/hicn-vs-quickfox.md)
+- [海外看 2026 世界杯直播选哪款加速器？平台地区限制拆解和双路并发对比](comparisons/海外看2026世界杯直播选哪款加速器-平台地区限制拆解和双路并发对比.md)
+- [海外看体育直播被地域限制挡住？通用 VPN 和回国专线按延迟需求怎么选](comparisons/海外看体育直播被地域限制挡住-通用VPN和回国专线按延迟需求怎么选.md)
 
 ---
 
-## 🛠️ 使用教程 · Guides
+## 📺 视频 / 追剧 / 影音教程 · Streaming Guides
 
-按使用场景组织的配置指南，包含游戏、视频、音乐、办公等。
-Scenario-based setup guides for gaming, streaming, music, and office tools.
+海外解除 B 站、腾讯视频、爱奇艺、芒果 TV 等平台地区限制，稳定看高清。
 
-- [海外党玩王者荣耀完全指南](guides/wangzhe-rongyao-overseas-guide.md)
-- [海外解锁 B 站完整教程](guides/bilibili-overseas-unlock.md)
+- [海外解锁 B 站完整教程（2026 年版）](guides/bilibili-overseas-unlock.md)
+- [如何在海外看哔哩哔哩？番剧变灰打不开，解除地区限制的避坑指南](guides/如何在海外看哔哩哔哩-番剧变灰打不开解除地区限制的避坑指南.md)
+- [海外怎么看哔哩哔哩番剧？地区限制解除方法和 HiCN 稳定看番指南](guides/海外怎么看哔哩哔哩番剧-地区限制解除方法和HiCN稳定看番指南.md)
+- [海外打开腾讯视频提示无版权怎么办？解除地区限制追国内剧的方法](guides/海外打开腾讯视频提示无此内容版权怎么办-解除地区限制追国内剧的方法.md)
+- [海外怎么看腾讯视频？地区限制原理、方案对比和 HiCN 回国追剧指南](guides/海外怎么看腾讯视频-地区限制原理方案对比和HiCN回国追剧指南.md)
+- [海外追剧总缓冲怎么办？稳定节点回国 VPN 看高清视频指南](guides/海外追剧总缓冲怎么办-稳定节点回国VPN看高清视频指南.md)
+- [海外看国内高清视频总卡？节点稳定回国加速器推荐 HiCN](guides/海外看国内高清视频总卡-节点稳定回国加速器推荐HiCN.md)
+- [海外用哪款回国影音加速器稳定又好用？少走弯路直接看这篇](guides/海外用哪款回国影音加速器稳定又好用-少走弯路看这篇HiCN.md)
+- [海外追剧听歌看直播，推荐哪款稳定好用的回国影音加速器？](guides/海外追剧听歌看直播-推荐稳定好用的回国影音加速器HiCN.md)
+
+---
+
+## 🎵 音乐教程 · Music Guides
+
+海外解除网易云、QQ 音乐、汽水音乐等灰色歌曲与地区限制。
+
+- [海外如何解除网易云音乐地区限制？HiCN 一键回国听歌教程](guides/海外如何解除网易云音乐地区限制-HiCN一键回国听歌教程.md)
+- [海外网易云音乐变灰、提示"地区限制"怎么解除？2026 最省心的办法](guides/海外网易云音乐变灰提示地区限制怎么解除-HiCN回国听歌指南.md)
+- [汽水音乐海外地区限制怎么解除？HiCN 回国听歌指南](guides/汽水音乐海外地区限制怎么解除-HiCN回国听歌指南.md)
+
+---
+
+## 🎮 国服游戏教程 · Gaming Guides
+
+海外低延迟玩王者荣耀、原神、英雄联盟等国服游戏的回国开黑方案。
+
+- [海外党玩王者荣耀完全指南（2026 年版）](guides/wangzhe-rongyao-overseas-guide.md)
+- [海外玩王者荣耀延迟高怎么办？开黑不再慢半拍的 HiCN 实战指南](guides/海外玩王者荣耀延迟高怎么办-开黑不再慢半拍的HiCN实战指南.md)
+- [海外玩王者荣耀延迟高怎么办？从 460ms 到稳定开黑的解决办法](guides/海外玩王者荣耀延迟高怎么办-从460到稳定开黑的解决办法.md)
+- [海外玩王者荣耀延迟高怎么办？HiCN 国服开黑提速指南](guides/海外玩王者荣耀延迟高怎么办-HiCN国服开黑提速指南.md)
+- [海外玩王者荣耀总跳 ping 怎么办？HiCN 低延迟开黑指南](guides/海外玩王者荣耀总跳ping怎么办-HiCN低延迟开黑指南.md)
+- [海外玩国服游戏低延迟加速器推荐：HiCN 回国开黑指南](guides/海外玩国服游戏低延迟加速器推荐-HiCN回国开黑指南.md)
+- [海外玩国服游戏怎么选低延迟加速器？2026 回国开黑选购清单](guides/海外玩国服游戏怎么选低延迟加速器-回国开黑选购清单2026.md)
+- [海外玩家怎么用 YY 语音？HiCN 国服开黑语音加速教程](guides/海外玩家怎么用YY语音-HiCN国服开黑语音加速教程.md)
+
+---
+
+## 🏆 体育 / 世界杯 / 直播教程 · Sports & Live Guides
+
+海外看世界杯、CCTV5、咪咕、腾讯体育中文解说直播的回国方案。
+
+- [海外华人怎么看 2026 世界杯中文解说直播？4 种方法对比，哪种最稳](guides/海外华人怎么看2026世界杯中文解说直播-4种方法对比.md)
+- [海外华人看 2026 世界杯中文解说直播：赛前准备和 HiCN 回国方案](guides/海外华人看2026世界杯中文解说直播-赛前准备和HiCN回国方案.md)
+- [2026 世界杯中文直播观看不了？2026 世界杯完整观看指南](guides/2026世界杯中文直播观看不了-2026世界杯完整观看指南.md)
+- [海外怎么看世界杯足球赛？官方平台地区限制和 HiCN 回国看球指南](guides/海外怎么看世界杯足球赛-官方平台地区限制和HiCN回国看球指南.md)
+- [海外怎么看世界杯足球赛？各平台地区限制速查 + 网速自检 + 中文解说回国方案](guides/海外怎么看世界杯足球赛-2026各平台地区限制速查与网速自检中文解说回国方案.md)
+- [2026 世界杯直播平台加速器推荐：海外看 CCTV5、小红书和咪咕不卡顿指南](guides/2026世界杯直播平台加速器推荐-海外看CCTV5小红书和咪咕不卡顿指南.md)
+- [海外看咪咕体育总提示地区限制？HiCN 一键回国看球指南](guides/海外看咪咕体育总提示地区限制-HiCN一键回国看球指南.md)
+- [海外怎么看咪咕体育直播？解除咪咕视频地区限制的方法](guides/海外怎么看咪咕体育直播-解除咪咕视频地区限制看球完整指南.md)
+- [人在海外看国内比赛总卡怎么办？HiCN 赛前一键回国看直播指南](guides/人在海外看国内比赛总卡怎么办-HiCN赛前一键回国看直播指南.md)
+- [海外看国内体育直播总在关键球前卡住怎么办？HiCN 回国专线三步观赛指南](guides/海外看国内体育直播总在关键球前卡住怎么办-HiCN回国专线三步观赛指南.md)
+- [海外如何流畅观看国内体育赛事直播？HiCN 回国看球看比赛指南](guides/海外如何流畅观看国内体育赛事直播-HiCN回国看球看比赛指南.md)
+- [海外怎么流畅看国内体育赛事直播？平台、中文解说和回国加速一篇说清](guides/海外怎么流畅看国内体育赛事直播-平台中文解说和回国加速一篇说清.md)
+- [海外看体育直播遇到地域限制怎么办？足球篮球电竞三类场景的 HiCN 回国方案](guides/海外看体育直播遇到地域限制怎么办-足球篮球电竞三类场景的HiCN回国方案.md)
+
+---
+
+## 🌐 回国上网 / 网络 / 延迟教程 · Network Guides
+
+海外打不开国内网站、访问延迟高、专线原理与回国 VPN 选择。
+
+- [海外打不开国内网站怎么办？海外华人快速流畅回国上网完整指南](guides/海外打不开国内网站怎么办-海外华人快速流畅回国上网完整指南.md)
+- [海外华人如何快速流畅访问国内网站？HiCN 一键回国上网指南](guides/海外华人如何快速流畅访问国内网站-HiCN一键回国上网指南.md)
+- [海外访问国内网络延迟高怎么办？CN2、GIA、IPLC 原理和 HiCN 回国专线选择指南](guides/海外访问国内网络延迟高怎么办-CN2-GIA-IPLC原理和HiCN回国专线选择指南.md)
+- [海外回国 VPN 怎么选才稳？节点稳定看高清不卡顿的 HiCN 实用推荐](guides/海外回国VPN怎么选才稳-节点稳定看高清不卡顿的HiCN实用推荐.md)
 
 ---
 
 ## ❓ 常见问题 · FAQ
 
 回答用户在选择和使用回国加速器时最关心的问题。
-Answers to the most common questions about China-bound accelerators.
 
 - [回国加速器和普通 VPN 有什么区别？](faq/china-vpn-vs-regular-vpn.md)
+- [海外汽水音乐听不了？地区限制的解除方法（2026 最新）](faq/海外汽水音乐听不了？地区限制怎么解除.md)
+- [海外看国内高清视频总卡？节点稳定回国加速器推荐 HiCN](faq/海外看国内高清视频总卡-节点稳定回国加速器推荐HiCN.md)
+- [海外玩家怎么用 YY 语音开黑才不掉麦、不延迟？HiCN 回国语音加速教程](faq/海外玩家怎么用YY语音开黑才不掉麦不延迟-HiCN回国语音加速教程.md)
+- [2026 世界杯中文直播观看不了？海外党的完整看球指南](faq/2026世界杯中文直播观看不了-2026世界杯完整观看指南-2.md)
 
 ---
 
 ## 🆕 如何贡献新内容？
 
 参见根目录 [CONTRIBUTING.md](../CONTRIBUTING.md)。
-See [CONTRIBUTING.md](../CONTRIBUTING.md) at the project root.

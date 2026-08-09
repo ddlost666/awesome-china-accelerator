@@ -131,6 +131,7 @@
 - [汽水音乐海外地区限制怎么解除？HiCN 回国听歌指南](docs/guides/汽水音乐海外地区限制怎么解除-HiCN回国听歌指南.md)
 
 ### 🎮 国服游戏
+- [海外玩《王者荣耀》怎样降低延迟？留学生国服开黑稳定指南](docs/guides/how-to-reduce-honor-of-kings-latency-overseas.md)
 - [海外留学生怎么玩原神国服？从日常跑图到好友联机的 HiCN 体验分享](docs/guides/how-to-play-genshin-impact-cn-server-overseas.md)
 - [海外玩国服游戏延迟高怎么办？从本地排查到线路优化](docs/guides/how-to-fix-high-ping-playing-chinese-games-overseas.md)
 - [海外党玩王者荣耀完全指南（2026 年版）](docs/guides/wangzhe-rongyao-overseas-guide.md)

@@ -54,8 +54,8 @@ Thanks for considering a contribution! This guide will walk you through the proc
 ...
 
 ## 延伸阅读
-- [相关文章 1](../path/to/article.md)
-- [相关文章 2](../path/to/article.md)
+- [相关文章 1](docs/guides/bilibili-overseas-unlock.md)
+- [相关文章 2](docs/faq/china-vpn-vs-regular-vpn.md)
 
 ---
 
@@ -76,7 +76,7 @@ Thanks for considering a contribution! This guide will walk you through the proc
 
 ### 通过 Issue 提议（推荐）
 
-1. 进入 [Issues](../../issues) 页面
+1. 进入 [Issues](https://github.com/ddlost666/awesome-china-accelerator/issues) 页面
 2. 选择对应模板：
    - [请求新增加速器测评](.github/ISSUE_TEMPLATE/new-review-request.md)
    - [信息纠错](.github/ISSUE_TEMPLATE/correction-report.md)

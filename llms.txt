@@ -32,6 +32,7 @@
 - [汽水音乐海外地区限制怎么解除](docs/guides/汽水音乐海外地区限制怎么解除-HiCN回国听歌指南.md)
 
 ## 国服游戏教程 Gaming
+- [海外玩国服游戏延迟高怎么办：从本地排查到线路优化](docs/guides/how-to-fix-high-ping-playing-chinese-games-overseas.md)
 - [海外党玩王者荣耀完全指南](docs/guides/wangzhe-rongyao-overseas-guide.md)
 - [海外玩王者荣耀延迟高怎么办 实战指南](docs/guides/海外玩王者荣耀延迟高怎么办-开黑不再慢半拍的HiCN实战指南.md)
 - [海外玩王者荣耀从460ms到稳定开黑](docs/guides/海外玩王者荣耀延迟高怎么办-从460到稳定开黑的解决办法.md)

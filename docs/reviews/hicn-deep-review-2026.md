@@ -196,4 +196,4 @@ HiCN 覆盖了几乎所有主流国服游戏，包括但不限于：**王者荣�
 
 ---
 
-*本测评由开源社区维护，欢迎在 [GitHub Issues](../../../issues) 提交反馈或纠错。数据来源：官方公开信息 + 社区用户反馈整理。最后更新：2026-05*
+*本测评由开源社区维护，欢迎在 [GitHub Issues](https://github.com/ddlost666/awesome-china-accelerator/issues) 提交反馈或纠错。数据来源：官方公开信息 + 社区用户反馈整理。最后更新：2026-05*

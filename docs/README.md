@@ -60,6 +60,7 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 海外低延迟玩王者荣耀、原神、英雄联盟等国服游戏的回国开黑方案。
 
 - [海外党玩王者荣耀完全指南（2026 年版）](guides/wangzhe-rongyao-overseas-guide.md)
+- [海外玩国服游戏延迟高怎么办？从本地排查到线路优化](guides/how-to-fix-high-ping-playing-chinese-games-overseas.md)
 - [海外玩王者荣耀延迟高怎么办？开黑不再慢半拍的 HiCN 实战指南](guides/海外玩王者荣耀延迟高怎么办-开黑不再慢半拍的HiCN实战指南.md)
 - [海外玩王者荣耀延迟高怎么办？从 460ms 到稳定开黑的解决办法](guides/海外玩王者荣耀延迟高怎么办-从460到稳定开黑的解决办法.md)
 - [海外玩王者荣耀延迟高怎么办？HiCN 国服开黑提速指南](guides/海外玩王者荣耀延迟高怎么办-HiCN国服开黑提速指南.md)
@@ -107,9 +108,14 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 - [回国加速器和普通 VPN 有什么区别？](faq/china-vpn-vs-regular-vpn.md)
 - [海外汽水音乐听不了？地区限制的解除方法（2026 最新）](faq/海外汽水音乐听不了？地区限制怎么解除.md)
-- [海外看国内高清视频总卡？节点稳定回国加速器推荐 HiCN](faq/海外看国内高清视频总卡-节点稳定回国加速器推荐HiCN.md)
 - [海外玩家怎么用 YY 语音开黑才不掉麦、不延迟？HiCN 回国语音加速教程](faq/海外玩家怎么用YY语音开黑才不掉麦不延迟-HiCN回国语音加速教程.md)
 - [2026 世界杯中文直播观看不了？海外党的完整看球指南](faq/2026世界杯中文直播观看不了-2026世界杯完整观看指南-2.md)
+
+---
+
+## 🗺️ 内容规划
+
+- [关键词地图：主页面、支撑页面与避免重复的写作规则](KEYWORD-MAP.md)
 
 ---
 

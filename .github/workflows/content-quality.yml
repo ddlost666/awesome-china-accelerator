@@ -1,0 +1,34 @@
+name: Content Quality
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '**.md'
+      - '_config.yml'
+      - 'Gemfile'
+      - 'scripts/**'
+      - '.github/workflows/content-quality.yml'
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  validate-content:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check Markdown structure, duplicate titles, duplicate content and internal links
+        shell: pwsh
+        run: ./scripts/validate-content.ps1
+
+  build-jekyll:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true
+      - name: Build Jekyll site
+        run: bundle exec jekyll build --trace

@@ -60,6 +60,7 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 海外低延迟玩王者荣耀、原神、英雄联盟等国服游戏的回国开黑方案。
 
 - [海外党玩王者荣耀完全指南（2026 年版）](guides/wangzhe-rongyao-overseas-guide.md)
+- [海外留学生怎么玩原神国服？从日常跑图到好友联机的 HiCN 体验分享](guides/how-to-play-genshin-impact-cn-server-overseas.md)
 - [海外玩国服游戏延迟高怎么办？从本地排查到线路优化](guides/how-to-fix-high-ping-playing-chinese-games-overseas.md)
 - [海外玩王者荣耀延迟高怎么办？开黑不再慢半拍的 HiCN 实战指南](guides/海外玩王者荣耀延迟高怎么办-开黑不再慢半拍的HiCN实战指南.md)
 - [海外玩王者荣耀延迟高怎么办？从 460ms 到稳定开黑的解决办法](guides/海外玩王者荣耀延迟高怎么办-从460到稳定开黑的解决办法.md)

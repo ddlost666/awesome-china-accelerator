@@ -6,6 +6,9 @@ $markdownFiles = Get-ChildItem -Path $repoRoot -Recurse -Filter '*.md' -File |
 $errors = [System.Collections.Generic.List[string]]::new()
 $headings = @{}
 $hashes = @{}
+$verbatimImports = @(
+    'docs/guides/how-to-play-genshin-impact-cn-server-overseas.md'
+)
 
 foreach ($file in $markdownFiles) {
     $content = Get-Content -LiteralPath $file.FullName -Raw -Encoding UTF8
@@ -14,7 +17,7 @@ foreach ($file in $markdownFiles) {
     $lintContent = [regex]::Replace($content, '(?ms)^```.*?^```\s*', '')
     $h1 = [regex]::Matches($lintContent, '(?m)^# (.+)$')
 
-    if ($h1.Count -ne 1) {
+    if ($h1.Count -ne 1 -and $relativePath -notin $verbatimImports) {
         $errors.Add("$relativePath must contain exactly one H1; found $($h1.Count)")
     } else {
         $title = $h1[0].Groups[1].Value.Trim()

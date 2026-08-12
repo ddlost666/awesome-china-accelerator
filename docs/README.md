@@ -124,3 +124,4 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 ## 🆕 如何贡献新内容？
 
 参见根目录 [CONTRIBUTING.md](../CONTRIBUTING.md)。
+- [海外玩国服游戏延迟高怎么解决？低延迟加速与网络排查方法](guides/how-to-solve-high-latency-in-chinese-games-overseas.md)

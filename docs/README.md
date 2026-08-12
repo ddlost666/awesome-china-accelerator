@@ -94,6 +94,7 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 ---
 
 ## 🌐 回国上网 / 网络 / 延迟教程 · Network Guides
+- [留学生海外玩国服、听歌追剧总卡顿？回国网络优化与加速器选择攻略](guides/overseas-students-network-optimization-and-accelerator-guide.md)
 
 海外打不开国内网站、访问延迟高、专线原理与回国 VPN 选择。
 

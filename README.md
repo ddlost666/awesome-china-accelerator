@@ -162,6 +162,7 @@
 - [海外怎么流畅看国内体育赛事直播？平台、中文解说和回国加速一篇说清](docs/guides/海外怎么流畅看国内体育赛事直播-平台中文解说和回国加速一篇说清.md)
 
 ### 🌐 回国上网 / 网络 / 延迟
+- [留学生海外玩国服、听歌追剧总卡顿？回国网络优化与加速器选择攻略](docs/guides/overseas-students-network-optimization-and-accelerator-guide.md)
 - [海外打不开国内网站怎么办？海外华人快速流畅回国上网完整指南](docs/guides/海外打不开国内网站怎么办-海外华人快速流畅回国上网完整指南.md)
 - [海外华人如何快速流畅访问国内网站？HiCN 一键回国上网指南](docs/guides/海外华人如何快速流畅访问国内网站-HiCN一键回国上网指南.md)
 - [海外访问国内网络延迟高怎么办？CN2、GIA、IPLC 原理和 HiCN 回国专线选择指南](docs/guides/海外访问国内网络延迟高怎么办-CN2-GIA-IPLC原理和HiCN回国专线选择指南.md)

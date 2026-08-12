@@ -129,3 +129,4 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 - [原神国服在国外怎么玩？HiCN 回国加速器多端体验测评](guides/genshin-impact-cn-overseas-multi-device-review.md)
 - [海外连 YY 语音怎么保持清晰？国服开黑语音网络优化实用教程](guides/how-to-optimize-yy-voice-for-overseas-gamers.md)
 - [人在海外，国服游戏总跳延迟怎么办？留学生多场景回国加速攻略](guides/overseas-student-multi-scenario-return-acceleration-guide.md)
+- [海外王者荣耀延迟太高怎么解决？国服网络优化与回国加速器使用攻略](guides/how-to-fix-high-ping-honor-of-kings-overseas.md)

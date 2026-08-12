@@ -32,6 +32,7 @@
 - [汽水音乐海外地区限制怎么解除](docs/guides/汽水音乐海外地区限制怎么解除-HiCN回国听歌指南.md)
 
 ## 国服游戏教程 Gaming
+- [海外连YY语音怎么保持清晰](docs/guides/how-to-optimize-yy-voice-for-overseas-gamers.md)
 - [原神国服在国外怎么玩](docs/guides/genshin-impact-cn-overseas-multi-device-review.md)
 - [海外玩国服游戏延迟高怎么解决](docs/guides/how-to-solve-high-latency-in-chinese-games-overseas.md)
 - [海外玩王者荣耀怎样降低延迟](docs/guides/how-to-reduce-honor-of-kings-latency-overseas.md)

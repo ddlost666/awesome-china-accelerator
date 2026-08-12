@@ -125,3 +125,4 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 参见根目录 [CONTRIBUTING.md](../CONTRIBUTING.md)。
 - [海外玩国服游戏延迟高怎么解决？低延迟加速与网络排查方法](guides/how-to-solve-high-latency-in-chinese-games-overseas.md)
+- [原神国服在国外怎么玩？HiCN 回国加速器多端体验测评](guides/genshin-impact-cn-overseas-multi-device-review.md)

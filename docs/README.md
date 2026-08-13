@@ -33,6 +33,7 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 海外解除 B 站、腾讯视频、爱奇艺、芒果 TV 等平台地区限制，稳定看高清。
 
+- [国外看国内视频总是卡顿？四层瓶颈拆解，手把手教你快速解决](guides/fix-overseas-china-video-lag.md)
 - [海外解锁 B 站完整教程（2026 年版）](guides/bilibili-overseas-unlock.md)
 - [如何在海外看哔哩哔哩？番剧变灰打不开，解除地区限制的避坑指南](guides/如何在海外看哔哩哔哩-番剧变灰打不开解除地区限制的避坑指南.md)
 - [海外怎么看哔哩哔哩番剧？地区限制解除方法和 HiCN 稳定看番指南](guides/海外怎么看哔哩哔哩番剧-地区限制解除方法和HiCN稳定看番指南.md)

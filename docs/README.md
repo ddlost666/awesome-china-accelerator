@@ -132,3 +132,4 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 - [海外王者荣耀延迟太高怎么解决？国服网络优化与回国加速器使用攻略](guides/how-to-fix-high-ping-honor-of-kings-overseas.md)
 - [原神国服在国外怎么玩？海外低延迟登录与游戏加速指南](guides/how-to-play-genshin-impact-cn-server-overseas-2.md)
 - [海外玩和平精英用什么加速器？HiCN 低延迟体验测评与使用指南](guides/peace-elite-overseas-accelerator-review-and-guide.md)
+- [海外看爱奇艺卡顿或受限怎么办？回国加速器选择与播放优化教程](guides/how-to-watch-iqiyi-overseas-without-lag.md)

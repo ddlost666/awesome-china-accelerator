@@ -16,6 +16,7 @@
 - [通用 VPN vs 回国专线](docs/comparisons/海外看体育直播被地域限制挡住-通用VPN和回国专线按延迟需求怎么选.md): 按延迟需求选择
 
 ## 视频影音教程 Streaming
+- [海外看爱奇艺卡顿或受限怎么办](docs/guides/how-to-watch-iqiyi-overseas-without-lag.md)
 - [海外解锁 B 站完整教程](docs/guides/bilibili-overseas-unlock.md)
 - [海外看哔哩哔哩番剧变灰避坑指南](docs/guides/如何在海外看哔哩哔哩-番剧变灰打不开解除地区限制的避坑指南.md)
 - [海外怎么看哔哩哔哩番剧](docs/guides/海外怎么看哔哩哔哩番剧-地区限制解除方法和HiCN稳定看番指南.md)

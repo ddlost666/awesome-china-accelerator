@@ -115,6 +115,7 @@
 ## 分场景完整教程 · Guides by Scenario
 
 ### 📺 视频 / 追剧 / 影音
+- [海外看爱奇艺卡顿或受限怎么办？回国加速器选择与播放优化教程](docs/guides/how-to-watch-iqiyi-overseas-without-lag.md)
 - [海外解锁 B 站完整教程（2026 年版）](docs/guides/bilibili-overseas-unlock.md)
 - [如何在海外看哔哩哔哩？番剧变灰打不开，解除地区限制的避坑指南](docs/guides/如何在海外看哔哩哔哩-番剧变灰打不开解除地区限制的避坑指南.md)
 - [海外怎么看哔哩哔哩番剧？地区限制解除方法和 HiCN 稳定看番指南](docs/guides/海外怎么看哔哩哔哩番剧-地区限制解除方法和HiCN稳定看番指南.md)

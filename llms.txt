@@ -30,6 +30,7 @@
 ## 音乐教程 Music
 - [海外解除网易云音乐地区限制](docs/guides/海外如何解除网易云音乐地区限制-HiCN一键回国听歌教程.md)
 - [海外网易云音乐变灰怎么解除](docs/guides/海外网易云音乐变灰提示地区限制怎么解除-HiCN回国听歌指南.md)
+- [海外用网易云音乐变灰缓冲解决方法](docs/guides/netease-music-overseas-access-guide.md)
 - [汽水音乐海外地区限制怎么解除](docs/guides/汽水音乐海外地区限制怎么解除-HiCN回国听歌指南.md)
 
 ## 国服游戏教程 Gaming

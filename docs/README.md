@@ -51,6 +51,7 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 - [海外如何解除网易云音乐地区限制？HiCN 一键回国听歌教程](guides/海外如何解除网易云音乐地区限制-HiCN一键回国听歌教程.md)
 - [海外网易云音乐变灰、提示"地区限制"怎么解除？2026 最省心的办法](guides/海外网易云音乐变灰提示地区限制怎么解除-HiCN回国听歌指南.md)
+- [海外用网易云音乐，歌老是变灰、缓冲转圈？这份“回国听歌”傻瓜指南请收好](guides/netease-music-overseas-access-guide.md)
 - [汽水音乐海外地区限制怎么解除？HiCN 回国听歌指南](guides/汽水音乐海外地区限制怎么解除-HiCN回国听歌指南.md)
 
 ---

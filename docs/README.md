@@ -61,6 +61,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩国服三角洲行动延迟高怎么办：HiCN回国加速器低延迟方案与FPS诊断完整攻略](guides/overseas-delta-force-low-latency-hicn-accelerator-guide.md)
+
 海外低延迟玩王者荣耀、原神、英雄联盟等国服游戏的回国开黑方案。
 
 - [海外党玩王者荣耀完全指南（2026 年版）](guides/wangzhe-rongyao-overseas-guide.md)

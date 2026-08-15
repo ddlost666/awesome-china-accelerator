@@ -61,6 +61,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩国服三角洲行动延迟高怎么办：FPS玩家必看的诊断与解决方案](guides/overseas-delta-force-fps-diagnosis-and-solutions.md)
+
 - [海外原神玩家回国加速器选购手册：DNS、QoS 与电竞专线路径全梳理](guides/genshin-impact-china-accelerator-guide.md)
 
 - [北美玩家如何通过 HiCN 回国，在《王者荣耀》国服实现更稳定的竞技体验](guides/na-players-honor-of-kings-hicn-guide.md)

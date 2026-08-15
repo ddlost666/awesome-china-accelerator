@@ -37,6 +37,7 @@
 - [汽水音乐海外地区限制怎么解除](docs/guides/汽水音乐海外地区限制怎么解除-HiCN回国听歌指南.md)
 
 ## 国服游戏教程 Gaming
+- [海外玩国服三角洲行动延迟诊断与解决方案](docs/guides/overseas-delta-force-fps-diagnosis-and-solutions.md)
 - [海外原神玩家回国加速器选购手册](docs/guides/genshin-impact-china-accelerator-guide.md)
 - [北美玩家王者荣耀国服网络优化案例](docs/guides/na-players-honor-of-kings-hicn-guide.md)
 - [海外玩国服游戏 Ping 优化完整攻略](docs/guides/overseas-china-game-ping-optimization-guide.md)

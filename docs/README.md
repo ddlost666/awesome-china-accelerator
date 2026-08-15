@@ -61,6 +61,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外原神玩家回国加速器选购手册：DNS、QoS 与电竞专线路径全梳理](guides/genshin-impact-china-accelerator-guide.md)
+
 - [北美玩家如何通过 HiCN 回国，在《王者荣耀》国服实现更稳定的竞技体验](guides/na-players-honor-of-kings-hicn-guide.md)
 
 - [海外玩国服游戏 Ping 优化完整攻略：从网络诊断到回国加速器选型的三阶段方法](guides/overseas-china-game-ping-optimization-guide.md)

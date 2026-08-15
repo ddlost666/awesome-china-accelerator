@@ -61,6 +61,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [北美玩家如何通过 HiCN 回国，在《王者荣耀》国服实现更稳定的竞技体验](guides/na-players-honor-of-kings-hicn-guide.md)
+
 - [海外玩国服游戏 Ping 优化完整攻略：从网络诊断到回国加速器选型的三阶段方法](guides/overseas-china-game-ping-optimization-guide.md)
 
 - [海外玩国服三角洲行动延迟高怎么办：HiCN回国加速器低延迟方案与FPS诊断完整攻略](guides/overseas-delta-force-low-latency-hicn-accelerator-guide.md)

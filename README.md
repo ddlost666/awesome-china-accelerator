@@ -115,6 +115,7 @@
 ## 分场景完整教程 · Guides by Scenario
 
 ### 📺 视频 / 追剧 / 影音
+- [海外看哔哩哔哩卡顿怎么办？留学生国内影音体验优化方案分享](docs/guides/bilibili-overseas-lag-student-video-optimization-guide.md)
 - [国外看国内视频总是卡顿？四层瓶颈拆解，手把手教你快速解决](docs/guides/fix-overseas-china-video-lag.md)
 - [海外看B站地区限制怎么解除？HiCN回国加速器一键流畅追番](docs/guides/how-to-unblock-bilibili-overseas-with-hicn.md)
 - [海外看爱奇艺卡顿或受限怎么办？回国加速器选择与播放优化教程](docs/guides/how-to-watch-iqiyi-overseas-without-lag.md)

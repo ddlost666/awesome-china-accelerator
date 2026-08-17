@@ -68,6 +68,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩国服游戏怎么降低Ping？游戏加速软件选择与体验分析](guides/how-to-lower-ping-for-chinese-games-overseas.md)
+
 - [海外玩王者荣耀总460怎么办？华人留学生国服手游低延迟优化指南](guides/how-to-fix-high-ping-honor-of-kings-overseas-3.md)
 
 - [海外玩国服三角洲行动延迟高怎么办：FPS玩家必看的诊断与解决方案](guides/overseas-delta-force-fps-diagnosis-and-solutions.md)

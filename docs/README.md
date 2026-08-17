@@ -49,6 +49,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎵 音乐教程 · Music Guides
 
+- [海外使用汽水音乐播放不了歌曲怎么办？留学生听歌网络优化与HiCN使用体验分享](guides/soda-music-overseas-student-network-optimization-hicn-experience.md)
+
 海外解除网易云、QQ 音乐、汽水音乐等灰色歌曲与地区限制。
 
 - [海外如何解除网易云音乐地区限制？HiCN 一键回国听歌教程](guides/海外如何解除网易云音乐地区限制-HiCN一键回国听歌教程.md)

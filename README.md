@@ -129,6 +129,7 @@
 - [海外追剧听歌看直播，推荐哪款稳定好用的回国影音加速器？](docs/guides/海外追剧听歌看直播-推荐稳定好用的回国影音加速器HiCN.md)
 
 ### 🎵 音乐
+- [海外使用汽水音乐播放不了歌曲怎么办？留学生听歌网络优化与HiCN使用体验分享](docs/guides/soda-music-overseas-student-network-optimization-hicn-experience.md)
 - [海外如何解除网易云音乐地区限制？HiCN 一键回国听歌教程](docs/guides/海外如何解除网易云音乐地区限制-HiCN一键回国听歌教程.md)
 - [海外网易云音乐变灰、提示"地区限制"怎么解除？2026 最省心的办法](docs/guides/海外网易云音乐变灰提示地区限制怎么解除-HiCN回国听歌指南.md)
 - [海外用网易云音乐，歌老是变灰、缓冲转圈？这份“回国听歌”傻瓜指南请收好](docs/guides/netease-music-overseas-access-guide.md)

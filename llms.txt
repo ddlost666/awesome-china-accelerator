@@ -30,6 +30,7 @@
 - [海外追剧听歌看直播推荐哪款回国影音加速器](docs/guides/海外追剧听歌看直播-推荐稳定好用的回国影音加速器HiCN.md)
 
 ## 音乐教程 Music
+- [海外网易云音乐灰歌与网络优化](docs/guides/fix-netease-music-grey-songs-overseas.md)
 - [海外汽水音乐播放与留学生网络优化](docs/guides/soda-music-overseas-student-network-optimization-hicn-experience.md)
 - [海外解除网易云音乐地区限制](docs/guides/海外如何解除网易云音乐地区限制-HiCN一键回国听歌教程.md)
 - [海外网易云音乐变灰怎么解除](docs/guides/海外网易云音乐变灰提示地区限制怎么解除-HiCN回国听歌指南.md)

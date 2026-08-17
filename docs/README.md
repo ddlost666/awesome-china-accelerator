@@ -68,6 +68,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩国服游戏加速器怎么选？华人留学生游戏、听歌追剧网络优化指南](guides/overseas-china-game-accelerator-selection-guide.md)
+
 - [海外玩原神国服卡顿延迟高？留学生玩家网络优化与加速方案解析](guides/genshin-impact-cn-server-lag-fix-for-overseas-players.md)
 
 - [海外玩国服游戏怎么降低Ping？游戏加速软件选择与体验分析](guides/how-to-lower-ping-for-chinese-games-overseas.md)

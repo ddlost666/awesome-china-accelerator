@@ -41,6 +41,7 @@
 - [汽水音乐海外地区限制怎么解除](docs/guides/汽水音乐海外地区限制怎么解除-HiCN回国听歌指南.md)
 
 ## 国服游戏教程 Gaming
+- [海外玩王者荣耀延迟高怎么办：2026 三问排查](docs/guides/honor-of-kings-overseas-lag-2026-troubleshooting.md)
 - [海外玩王者荣耀延迟高怎么办](docs/guides/honor-of-kings-overseas-lag-fix-student-guide.md)
 - [海外玩国服游戏加速器怎么选](docs/guides/overseas-china-game-accelerator-selection-guide.md)
 - [海外玩原神国服卡顿延迟高](docs/guides/genshin-impact-cn-server-lag-fix-for-overseas-players.md)

@@ -68,6 +68,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩王者荣耀延迟高怎么办？留学生玩家低延迟游戏优化指南](guides/honor-of-kings-overseas-lag-fix-student-guide.md)
+
 - [海外玩国服游戏加速器怎么选？华人留学生游戏、听歌追剧网络优化指南](guides/overseas-china-game-accelerator-selection-guide.md)
 
 - [海外玩原神国服卡顿延迟高？留学生玩家网络优化与加速方案解析](guides/genshin-impact-cn-server-lag-fix-for-overseas-players.md)

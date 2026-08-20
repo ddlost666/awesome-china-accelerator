@@ -50,6 +50,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎵 音乐教程 · Music Guides
 
+- [海外听汽水音乐歌单变灰怎么办？HiCN回国加速器帮助优化国内音乐体验](guides/soda-music-grey-playlist-overseas-network-optimization.md)
+
 - [海外网易云音乐灰色歌曲怎么解决？地区限制解除与播放器配置完整方案](guides/netease-music-grey-songs-region-restriction-player-configuration-guide.md)
 
 - [海外听网易云音乐歌曲变灰怎么办？留学生玩家实测网络优化方案分享](guides/fix-netease-music-grey-songs-overseas.md)

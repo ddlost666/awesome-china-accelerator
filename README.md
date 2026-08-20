@@ -130,6 +130,7 @@
 - [海外追剧听歌看直播，推荐哪款稳定好用的回国影音加速器？](docs/guides/海外追剧听歌看直播-推荐稳定好用的回国影音加速器HiCN.md)
 
 ### 🎵 音乐
+- [海外网易云音乐歌曲变灰怎么办？留学生听歌网络优化方案与播放器配置指南](docs/guides/netease-music-grey-songs-student-network-player-guide.md)
 - [汽水音乐海外怎么用？2026 海外用户解除地区限制完整指南](docs/guides/soda-music-overseas-2026-region-restriction-guide.md)
 - [海外听汽水音乐歌单变灰怎么办？HiCN回国加速器帮助优化国内音乐体验](docs/guides/soda-music-grey-playlist-overseas-network-optimization.md)
 - [海外网易云音乐灰色歌曲怎么解决？地区限制解除与播放器配置完整方案](docs/guides/netease-music-grey-songs-region-restriction-player-configuration-guide.md)

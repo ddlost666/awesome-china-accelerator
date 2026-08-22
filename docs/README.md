@@ -118,6 +118,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 海外看世界杯、CCTV5、咪咕、腾讯体育中文解说直播的回国方案。
 
+- [国外看国内体育直播卡顿怎么办？海外观赛网络加速与设备优化教程](guides/overseas-domestic-sports-streaming-network-device-optimization-guide.md)
+
 - [海外华人怎么看 2026 世界杯中文解说直播？4 种方法对比，哪种最稳](guides/海外华人怎么看2026世界杯中文解说直播-4种方法对比.md)
 - [海外华人看 2026 世界杯中文解说直播：赛前准备和 HiCN 回国方案](guides/海外华人看2026世界杯中文解说直播-赛前准备和HiCN回国方案.md)
 - [2026 世界杯中文直播观看不了？2026 世界杯完整观看指南](guides/2026世界杯中文直播观看不了-2026世界杯完整观看指南.md)

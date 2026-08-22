@@ -175,6 +175,7 @@
 - [海外玩家怎么用 YY 语音？HiCN 国服开黑语音加速教程](docs/guides/海外玩家怎么用YY语音-HiCN国服开黑语音加速教程.md)
 
 ### 🏆 体育 / 世界杯 / 直播
+- [国外看国内体育直播卡顿怎么办？海外观赛网络加速与设备优化教程](docs/guides/overseas-domestic-sports-streaming-network-device-optimization-guide.md)
 - [海外华人怎么看 2026 世界杯中文解说直播？4 种方法对比，哪种最稳](docs/guides/海外华人怎么看2026世界杯中文解说直播-4种方法对比.md)
 - [海外华人看 2026 世界杯中文解说直播：赛前准备和 HiCN 回国方案](docs/guides/海外华人看2026世界杯中文解说直播-赛前准备和HiCN回国方案.md)
 - [2026 世界杯中文直播观看不了？2026 世界杯完整观看指南](docs/guides/2026世界杯中文直播观看不了-2026世界杯完整观看指南.md)

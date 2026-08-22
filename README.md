@@ -131,6 +131,7 @@
 - [海外追剧听歌看直播，推荐哪款稳定好用的回国影音加速器？](docs/guides/海外追剧听歌看直播-推荐稳定好用的回国影音加速器HiCN.md)
 
 ### 🎵 音乐
+- [海外使用网易云音乐体验不好怎么办？2026留学生听歌网络优化方案解析](docs/guides/netease-music-overseas-2026-student-network-optimization.md)
 - [海外留学生如何使用汽水音乐？海外听歌卡顿与网络优化完整指南](docs/guides/soda-music-overseas-student-lag-network-optimization-guide.md)
 - [海外网易云音乐歌曲变灰怎么办？留学生听歌网络优化方案与播放器配置指南](docs/guides/netease-music-grey-songs-student-network-player-guide.md)
 - [汽水音乐海外怎么用？2026 海外用户解除地区限制完整指南](docs/guides/soda-music-overseas-2026-region-restriction-guide.md)

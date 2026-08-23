@@ -81,6 +81,7 @@
 - [海外玩家怎么用YY语音开黑](docs/guides/海外玩家怎么用YY语音-HiCN国服开黑语音加速教程.md)
 
 ## 体育直播教程 Sports
+- [海外国内体育赛事直播卡顿与延迟优化](docs/guides/overseas-domestic-sports-streaming-smoother-lag-latency-guide.md)
 - [海外追国内体育直播减少卡顿实用方案](docs/guides/overseas-domestic-sports-streaming-lag-hicn-practical-guide.md)
 - [海外看国内体育赛事缓冲优化思路](docs/guides/sports-streaming-buffering-return-acceleration-optimization.md)
 - [国外看国内体育直播卡顿怎么办](docs/guides/overseas-domestic-sports-streaming-network-device-optimization-guide.md)

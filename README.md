@@ -134,6 +134,7 @@
 - [海外追剧听歌看直播，推荐哪款稳定好用的回国影音加速器？](docs/guides/海外追剧听歌看直播-推荐稳定好用的回国影音加速器HiCN.md)
 
 ### 🎵 音乐
+- [留学生在海外怎么听网易云音乐？海外听歌卡顿与网络优化解决方案](docs/guides/netease-music-overseas-student-lag-network-solution.md)
 - [海外留学生怎么听汽水音乐？国内音乐App播放异常的网络优化方案](docs/guides/soda-music-overseas-student-playback-network-optimization.md)
 - [海外使用网易云音乐体验不好怎么办？2026留学生听歌网络优化方案解析](docs/guides/netease-music-overseas-2026-student-network-optimization.md)
 - [海外留学生如何使用汽水音乐？海外听歌卡顿与网络优化完整指南](docs/guides/soda-music-overseas-student-lag-network-optimization-guide.md)

@@ -115,6 +115,7 @@
 ## 分场景完整教程 · Guides by Scenario
 
 ### 📺 视频 / 追剧 / 影音
+- [国外怎么看咪咕视频更顺畅？海外直播卡顿与回国网络加速方案](docs/guides/migu-video-abroad-streaming-lag-return-network-acceleration.md)
 - [海外看哔哩哔哩不流畅怎么办？华人留学生国内影音网络优化实测指南](docs/guides/how-to-fix-bilibili-lag-overseas.md)
 - [海外看B站加载慢怎么办？华人留学生追番与影音网络优化实测方案](docs/guides/bilibili-overseas-slow-loading-student-video-network-optimization.md)
 - [国外看咪咕视频直播卡顿怎么办？海外华人留学生回国加速器使用指南](docs/guides/how-to-watch-migu-video-abroad-without-lag.md)

@@ -180,6 +180,7 @@
 - [海外玩家怎么用 YY 语音？HiCN 国服开黑语音加速教程](docs/guides/海外玩家怎么用YY语音-HiCN国服开黑语音加速教程.md)
 
 ### 🏆 体育 / 世界杯 / 直播
+- [海外如何流畅观看国内体育赛事直播？华人留学生网络优化实用指南](docs/guides/how-to-watch-chinese-sports-live-overseas.md)
 - [人在海外怎么看国内体育赛事更流畅？直播卡顿与网络延迟优化攻略](docs/guides/overseas-domestic-sports-streaming-smoother-lag-latency-guide.md)
 - [海外追国内体育直播怎么减少卡顿？从观赛网络到HiCN加速的实用方案](docs/guides/overseas-domestic-sports-streaming-lag-hicn-practical-guide.md)
 - [海外看国内体育赛事总是缓冲？从直播网络到回国加速的完整优化思路](docs/guides/sports-streaming-buffering-return-acceleration-optimization.md)

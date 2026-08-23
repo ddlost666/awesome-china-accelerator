@@ -128,6 +128,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 海外看世界杯、CCTV5、咪咕、腾讯体育中文解说直播的回国方案。
 
+- [海外如何流畅观看国内体育赛事直播？华人留学生网络优化实用指南](guides/how-to-watch-chinese-sports-live-overseas.md)
+
 - [人在海外怎么看国内体育赛事更流畅？直播卡顿与网络延迟优化攻略](guides/overseas-domestic-sports-streaming-smoother-lag-latency-guide.md)
 
 - [海外追国内体育直播怎么减少卡顿？从观赛网络到HiCN加速的实用方案](guides/overseas-domestic-sports-streaming-lag-hicn-practical-guide.md)

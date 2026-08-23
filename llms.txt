@@ -35,6 +35,7 @@
 - [海外追剧听歌看直播推荐哪款回国影音加速器](docs/guides/海外追剧听歌看直播-推荐稳定好用的回国影音加速器HiCN.md)
 
 ## 音乐教程 Music
+- [海外留学生汽水音乐播放异常网络优化](docs/guides/soda-music-overseas-student-playback-network-optimization.md)
 - [海外网易云音乐2026留学生网络优化](docs/guides/netease-music-overseas-2026-student-network-optimization.md)
 - [海外留学生汽水音乐卡顿与网络优化](docs/guides/soda-music-overseas-student-lag-network-optimization-guide.md)
 - [海外网易云音乐灰歌与播放器配置指南](docs/guides/netease-music-grey-songs-student-network-player-guide.md)

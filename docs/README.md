@@ -58,6 +58,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎵 音乐教程 · Music Guides
 
+- [海外留学生怎么听汽水音乐？国内音乐App播放异常的网络优化方案](guides/soda-music-overseas-student-playback-network-optimization.md)
+
 - [海外使用网易云音乐体验不好怎么办？2026留学生听歌网络优化方案解析](guides/netease-music-overseas-2026-student-network-optimization.md)
 
 - [海外留学生如何使用汽水音乐？海外听歌卡顿与网络优化完整指南](guides/soda-music-overseas-student-lag-network-optimization-guide.md)

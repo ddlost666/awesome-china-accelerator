@@ -106,6 +106,7 @@
 - [海外看体育直播遇到地域限制怎么办](docs/guides/海外看体育直播遇到地域限制怎么办-足球篮球电竞三类场景的HiCN回国方案.md)
 
 ## 回国上网与网络 Network
+- [海外回国网络加速器怎么选](docs/guides/how-to-choose-return-to-china-accelerator.md)
 - [留学生回国网络优化与加速器选择攻略](docs/guides/overseas-students-network-optimization-and-accelerator-guide.md)
 - [海外打不开国内网站怎么办](docs/guides/海外打不开国内网站怎么办-海外华人快速流畅回国上网完整指南.md)
 - [海外华人如何快速流畅访问国内网站](docs/guides/海外华人如何快速流畅访问国内网站-HiCN一键回国上网指南.md)

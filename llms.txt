@@ -56,6 +56,7 @@
 - [汽水音乐海外地区限制怎么解除](docs/guides/汽水音乐海外地区限制怎么解除-HiCN回国听歌指南.md)
 
 ## 国服游戏教程 Gaming
+- [海外党打王者飘 460ms 延迟实战手册](docs/guides/overseas-honor-of-kings-460ms-latency-practical-guide.md)
 - [海外玩王者荣耀延迟高怎么办：2026 三问排查](docs/guides/honor-of-kings-overseas-lag-2026-troubleshooting.md)
 - [海外玩王者荣耀延迟高怎么办](docs/guides/honor-of-kings-overseas-lag-fix-student-guide.md)
 - [海外玩国服游戏加速器怎么选](docs/guides/overseas-china-game-accelerator-selection-guide.md)

@@ -98,6 +98,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外党打王者飘 460ms,别再换网线了——一份把延迟从源头讲透的实战手册](guides/overseas-honor-of-kings-460ms-latency-practical-guide.md)
+
 - [海外玩王者荣耀延迟高怎么办?2026 三问排查与极简解决路径](guides/honor-of-kings-overseas-lag-2026-troubleshooting.md)
 
 - [海外玩王者荣耀延迟高怎么办？留学生玩家低延迟游戏优化指南](guides/honor-of-kings-overseas-lag-fix-student-guide.md)

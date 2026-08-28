@@ -16,6 +16,7 @@
 - [通用 VPN vs 回国专线](docs/comparisons/海外看体育直播被地域限制挡住-通用VPN和回国专线按延迟需求怎么选.md): 按延迟需求选择
 
 ## 视频影音教程 Streaming
+- [在国外看 B 站的 5 种方法](docs/guides/how-to-watch-bilibili-overseas-2026-five-methods.md)
 - [国外追腾讯视频卡顿与影音网络优化](docs/guides/tencent-video-overseas-lag-hicn-guide.md)
 - [海外看爱奇艺卡顿与追剧网络优化](docs/guides/iqiyi-overseas-lag-student-network-optimization-guide.md)
 - [海外看腾讯视频不流畅与追剧网络优化](docs/guides/how-to-watch-tencent-video-smoothly-overseas.md)

@@ -70,6 +70,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎵 音乐教程 · Music Guides
 
+- [海外网易云音乐老是灰？换个思路选回国加速器更省心](guides/netease-cloud-music-grey-return-accelerator-guide.md)
+
 - [海外如何解除网易云音乐地区限制？一篇讲清回国加速器怎么选](guides/how-to-unblock-netease-cloud-music-overseas.md)
 
 - [留学生在海外怎么听网易云音乐？海外听歌卡顿与网络优化解决方案](guides/netease-music-overseas-student-lag-network-solution.md)

@@ -115,6 +115,7 @@
 ## 分场景完整教程 · Guides by Scenario
 
 ### 📺 视频 / 追剧 / 影音
+- [海外使用哔哩哔哩体验不佳怎么办？华人留学生网络优化与回国加速方案](docs/guides/bilibili-overseas-user-experience-network-optimization-guide.md)
 - [海外如何解除哔哩哔哩地区限制](docs/guides/how-to-unblock-bilibili-overseas.md)
 - [在国外怎么看B站？2026年8月，亲测5种方法后我留下了这套流程](docs/guides/how-to-watch-bilibili-overseas-2026-five-methods.md)
 - [国外追腾讯视频总是卡？海外影音网络加速与HiCN使用攻略](docs/guides/tencent-video-overseas-lag-hicn-guide.md)

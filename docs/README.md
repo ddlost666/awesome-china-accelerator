@@ -70,6 +70,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎵 音乐教程 · Music Guides
 
+- [海外党汽水音乐完全上手手册：从设备装机到一周听歌验证（2026 实测版）](guides/qishui-music-overseas-guide.md)
+
 - [海外网易云音乐老是灰？换个思路选回国加速器更省心](guides/netease-cloud-music-grey-return-accelerator-guide.md)
 
 - [海外如何解除网易云音乐地区限制？一篇讲清回国加速器怎么选](guides/how-to-unblock-netease-cloud-music-overseas.md)

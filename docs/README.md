@@ -70,6 +70,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎵 音乐教程 · Music Guides
 
+- [海外使用汽水音乐播放异常怎么办？留学生听歌网络优化与回国加速方案指南](guides/qishui-music-playback-issues-overseas-guide.md)
+
 - [海外党汽水音乐完全上手手册：从设备装机到一周听歌验证（2026 实测版）](guides/qishui-music-overseas-guide.md)
 
 - [海外网易云音乐老是灰？换个思路选回国加速器更省心](guides/netease-cloud-music-grey-return-accelerator-guide.md)

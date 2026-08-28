@@ -41,6 +41,7 @@
 - [海外追剧听歌看直播推荐哪款回国影音加速器](docs/guides/海外追剧听歌看直播-推荐稳定好用的回国影音加速器HiCN.md)
 
 ## 音乐教程 Music
+- [海外汽水音乐播放异常与网络优化](docs/guides/qishui-music-playback-issues-overseas-guide.md)
 - [海外党汽水音乐设备安装与听歌验证](docs/guides/qishui-music-overseas-guide.md)
 - [海外网易云音乐灰歌与回国加速器选择](docs/guides/netease-cloud-music-grey-return-accelerator-guide.md)
 - [海外解除网易云音乐地区限制](docs/guides/how-to-unblock-netease-cloud-music-overseas.md)

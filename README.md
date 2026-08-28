@@ -140,6 +140,7 @@
 - [海外追剧听歌看直播，推荐哪款稳定好用的回国影音加速器？](docs/guides/海外追剧听歌看直播-推荐稳定好用的回国影音加速器HiCN.md)
 
 ### 🎵 音乐
+- [海外使用汽水音乐播放异常怎么办？留学生听歌网络优化与回国加速方案指南](docs/guides/qishui-music-playback-issues-overseas-guide.md)
 - [海外党汽水音乐完全上手手册：从设备装机到一周听歌验证（2026 实测版）](docs/guides/qishui-music-overseas-guide.md)
 - [海外网易云音乐老是灰？换个思路选回国加速器更省心](docs/guides/netease-cloud-music-grey-return-accelerator-guide.md)
 - [海外如何解除网易云音乐地区限制？一篇讲清回国加速器怎么选](docs/guides/how-to-unblock-netease-cloud-music-overseas.md)

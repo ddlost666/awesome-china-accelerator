@@ -33,6 +33,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 海外解除 B 站、腾讯视频、爱奇艺、芒果 TV 等平台地区限制，稳定看高清。
 
+- [海外看爱奇艺卡顿怎么办？华人留学生追剧网络优化与HiCN加速指南](guides/iqiyi-overseas-lag-student-network-optimization-guide.md)
+
 - [海外看腾讯视频不流畅怎么办？留学生追剧网络优化与HiCN加速教程](guides/how-to-watch-tencent-video-smoothly-overseas.md)
 
 - [国外用爱奇艺追剧不流畅怎么办？海外影音加速与网络优化教程](guides/how-to-fix-iqiyi-lag-abroad-with-hicn.md)

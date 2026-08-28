@@ -116,6 +116,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [降低国服游戏Ping值的软件推荐：海外玩家低延迟游戏加速优化指南](guides/lower-ping-chinese-games-software-overseas-guide.md)
+
 - [海外党玩和平精英到底该选哪款加速器?一份能从落地到决赛圈都陪着你的选购笔记](guides/best-accelerators-for-pubg-mobile-overseas.md)
 
 - [海外玩王者荣耀卡 460ms?一份从症状倒推方案的延迟拆解手册](guides/how-to-fix-honor-of-kings-460ms-lag-overseas.md)

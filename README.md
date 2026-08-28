@@ -159,6 +159,7 @@
 - [汽水音乐海外地区限制怎么解除？HiCN 回国听歌指南](docs/guides/汽水音乐海外地区限制怎么解除-HiCN回国听歌指南.md)
 
 ### 🎮 国服游戏
+- [海外玩王者荣耀卡 460ms?一份从症状倒推方案的延迟拆解手册](docs/guides/how-to-fix-honor-of-kings-460ms-lag-overseas.md)
 - [海外党打王者飘 460ms,别再换网线了——一份把延迟从源头讲透的实战手册](docs/guides/overseas-honor-of-kings-460ms-latency-practical-guide.md)
 - [海外玩王者荣耀延迟高怎么办?2026 三问排查与极简解决路径](docs/guides/honor-of-kings-overseas-lag-2026-troubleshooting.md)
 - [海外玩王者荣耀延迟高怎么办？留学生玩家低延迟游戏优化指南](docs/guides/honor-of-kings-overseas-lag-fix-student-guide.md)

@@ -156,6 +156,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 海外看世界杯、CCTV5、咪咕、腾讯体育中文解说直播的回国方案。
 
+- [海外看体育直播网络不稳定怎么办？海外华人留学生观赛网络优化指南](guides/how-to-optimize-network-for-sports-live-streaming-overseas.md)
+
 - [海外咪咕视频直播总是加载？华人留学生影音网络优化与HiCN使用攻略](guides/migu-live-overseas-loading-network-optimization-hicn-guide.md)
 
 - [海外追国内体育直播:为什么通用 VPN 总是慢半拍,以及怎么破局](guides/watch-chinese-sports-live-overseas-without-lag.md)

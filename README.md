@@ -115,6 +115,7 @@
 ## 分场景完整教程 · Guides by Scenario
 
 ### 📺 视频 / 追剧 / 影音
+- [国外追腾讯视频总是卡？海外影音网络加速与HiCN使用攻略](docs/guides/tencent-video-overseas-lag-hicn-guide.md)
 - [海外看爱奇艺卡顿怎么办？华人留学生追剧网络优化与HiCN加速指南](docs/guides/iqiyi-overseas-lag-student-network-optimization-guide.md)
 - [海外看腾讯视频不流畅怎么办？留学生追剧网络优化与HiCN加速教程](docs/guides/how-to-watch-tencent-video-smoothly-overseas.md)
 - [国外用爱奇艺追剧不流畅怎么办？海外影音加速与网络优化教程](docs/guides/how-to-fix-iqiyi-lag-abroad-with-hicn.md)

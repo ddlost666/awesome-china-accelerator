@@ -164,6 +164,7 @@
 - [汽水音乐海外地区限制怎么解除？HiCN 回国听歌指南](docs/guides/汽水音乐海外地区限制怎么解除-HiCN回国听歌指南.md)
 
 ### 🎮 国服游戏
+- [海外玩原神延迟高怎么办？国服原神低延迟网络优化实用指南](docs/guides/genshin-cn-overseas-low-latency-network-optimization-guide.md)
 - [降低国服游戏Ping值的软件推荐：海外玩家低延迟游戏加速优化指南](docs/guides/lower-ping-chinese-games-software-overseas-guide.md)
 - [海外党玩和平精英到底该选哪款加速器?一份能从落地到决赛圈都陪着你的选购笔记](docs/guides/best-accelerators-for-pubg-mobile-overseas.md)
 - [海外玩王者荣耀卡 460ms?一份从症状倒推方案的延迟拆解手册](docs/guides/how-to-fix-honor-of-kings-460ms-lag-overseas.md)

@@ -116,6 +116,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩原神延迟高怎么办？国服原神低延迟网络优化实用指南](guides/genshin-cn-overseas-low-latency-network-optimization-guide.md)
+
 - [降低国服游戏Ping值的软件推荐：海外玩家低延迟游戏加速优化指南](guides/lower-ping-chinese-games-software-overseas-guide.md)
 
 - [海外党玩和平精英到底该选哪款加速器?一份能从落地到决赛圈都陪着你的选购笔记](guides/best-accelerators-for-pubg-mobile-overseas.md)

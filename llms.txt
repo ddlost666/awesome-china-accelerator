@@ -16,6 +16,7 @@
 - [通用 VPN vs 回国专线](docs/comparisons/海外看体育直播被地域限制挡住-通用VPN和回国专线按延迟需求怎么选.md): 按延迟需求选择
 
 ## 视频影音教程 Streaming
+- [海外 B 站地区限制 5 套方案横向拆解](docs/guides/bilibili-overseas-region-restriction-five-solutions-comparison-2026.md)
 - [海外哔哩哔哩使用体验与网络优化](docs/guides/bilibili-overseas-user-experience-network-optimization-guide.md)
 - [海外解除哔哩哔哩地区限制](docs/guides/how-to-unblock-bilibili-overseas.md)
 - [在国外看 B 站的 5 种方法](docs/guides/how-to-watch-bilibili-overseas-2026-five-methods.md)

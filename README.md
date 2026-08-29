@@ -115,6 +115,7 @@
 ## 分场景完整教程 · Guides by Scenario
 
 ### 📺 视频 / 追剧 / 影音
+- [海外 B 站地区限制怎么解？2026 年 8 月,5 套方案横向拆解](docs/guides/bilibili-overseas-region-restriction-five-solutions-comparison-2026.md)
 - [海外使用哔哩哔哩体验不佳怎么办？华人留学生网络优化与回国加速方案](docs/guides/bilibili-overseas-user-experience-network-optimization-guide.md)
 - [海外如何解除哔哩哔哩地区限制](docs/guides/how-to-unblock-bilibili-overseas.md)
 - [在国外怎么看B站？2026年8月，亲测5种方法后我留下了这套流程](docs/guides/how-to-watch-bilibili-overseas-2026-five-methods.md)

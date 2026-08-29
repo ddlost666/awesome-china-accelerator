@@ -116,6 +116,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [一个北美留学生,7 天试了 5 款加速器,终于能在国服吃鸡决赛圈听脚步](guides/best-game-accelerator-for-chinese-games-abroad.md)
+
 - [海外玩原神延迟高怎么办？国服原神低延迟网络优化实用指南](guides/genshin-cn-overseas-low-latency-network-optimization-guide.md)
 
 - [降低国服游戏Ping值的软件推荐：海外玩家低延迟游戏加速优化指南](guides/lower-ping-chinese-games-software-overseas-guide.md)

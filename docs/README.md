@@ -74,6 +74,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎵 音乐教程 · Music Guides
 
+- [人在海外怎么恢复网易云音乐？回国加速器选择建议](guides/restore-netease-cloud-music-overseas-accelerator-selection-guide.md)
+
 - [汽水音乐海外党速查清单：8 件事一次做完（2026 实测版）](guides/qishui-music-overseas-eight-step-checklist-2026.md)
 
 - [海外如何使用网易云音乐？留学生听歌网络优化与回国加速方案指南](guides/how-to-use-netease-cloud-music-overseas.md)

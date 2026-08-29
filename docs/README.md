@@ -33,6 +33,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 海外解除 B 站、腾讯视频、爱奇艺、芒果 TV 等平台地区限制，稳定看高清。
 
+- [腾讯视频海外播放慢怎么改善？华人留学生回国影音加速实用指南](guides/tencent-video-overseas-slow-playback-return-streaming-acceleration-guide.md)
+
 - [海外 B 站地区限制怎么解？2026 年 8 月,5 套方案横向拆解](guides/bilibili-overseas-region-restriction-five-solutions-comparison-2026.md)
 
 - [海外使用哔哩哔哩体验不佳怎么办？华人留学生网络优化与回国加速方案](guides/bilibili-overseas-user-experience-network-optimization-guide.md)

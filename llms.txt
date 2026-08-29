@@ -43,6 +43,7 @@
 - [海外追剧听歌看直播推荐哪款回国影音加速器](docs/guides/海外追剧听歌看直播-推荐稳定好用的回国影音加速器HiCN.md)
 
 ## 音乐教程 Music
+- [汽水音乐海外党 8 项速查清单](docs/guides/qishui-music-overseas-eight-step-checklist-2026.md)
 - [海外使用网易云音乐与听歌网络优化](docs/guides/how-to-use-netease-cloud-music-overseas.md)
 - [海外汽水音乐播放异常与网络优化](docs/guides/qishui-music-playback-issues-overseas-guide.md)
 - [海外党汽水音乐设备安装与听歌验证](docs/guides/qishui-music-overseas-guide.md)

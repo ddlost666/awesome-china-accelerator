@@ -219,6 +219,7 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 ---
 
 ## 🌐 回国上网 / 网络 / 延迟教程 · Network Guides
+- [海外党回国延迟卡顿?从线路原理到加速器选择的避坑实战指南](guides/overseas-domestic-network-high-latency-line-and-accelerator-guide.md)
 - [海外回国网络加速器怎么选:2026 年 8 月实测的 5 个真实答案](guides/how-to-choose-return-to-china-accelerator.md)
 - [留学生海外玩国服、听歌追剧总卡顿？回国网络优化与加速器选择攻略](guides/overseas-students-network-optimization-and-accelerator-guide.md)
 

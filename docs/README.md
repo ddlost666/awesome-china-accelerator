@@ -186,6 +186,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 海外看世界杯、CCTV5、咪咕、腾讯体育中文解说直播的回国方案。
 
+- [在洛杉矶看 CBA 决赛:一个海外党连续 3 年的踩坑实录和修好的方法](guides/los-angeles-cba-finals-three-year-troubleshooting-experience.md)
+
 - [在海外看国内体育直播，到底怎么才不卡？2026 实操手册](guides/watch-chinese-sports-live-abroad-2026-practical-guide.md)
 
 - [海外看咪咕视频直播总是缓冲？从网络链路到HiCN回国加速的实用方案](guides/migu-video-live-overseas-buffering-network-hicn-guide.md)

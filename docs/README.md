@@ -124,6 +124,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [跨洋组队不掉线：一位海外《Honor of Kings》玩家的回国加速器挑选笔记](guides/honor-of-kings-overseas-game-booster-selection-notes.md)
+
 - [海外王者 460ms 排查清单:从路由跳数到加速器选型的 7 步操作流程](guides/honor-of-kings-460ms-seven-step-troubleshooting-checklist.md)
 
 - [一个北美留学生,7 天试了 5 款加速器,终于能在国服吃鸡决赛圈听脚步](guides/best-game-accelerator-for-chinese-games-abroad.md)

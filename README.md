@@ -168,6 +168,7 @@
 - [汽水音乐海外地区限制怎么解除？HiCN 回国听歌指南](docs/guides/汽水音乐海外地区限制怎么解除-HiCN回国听歌指南.md)
 
 ### 🎮 国服游戏
+- [YY 语音海外使用 QA:10 个最常见问题 + HiCN 跨平台配置一张图讲清楚](docs/guides/yy-voice-overseas-qa-cross-platform-hicn-configuration.md)
 - [异乡提瓦特:写给海外原神玩家的国服实战手记](docs/guides/genshin-impact-cn-server-overseas-practical-notes.md)
 - [跨洋组队不掉线：一位海外《Honor of Kings》玩家的回国加速器挑选笔记](docs/guides/honor-of-kings-overseas-game-booster-selection-notes.md)
 - [海外王者 460ms 排查清单:从路由跳数到加速器选型的 7 步操作流程](docs/guides/honor-of-kings-460ms-seven-step-troubleshooting-checklist.md)

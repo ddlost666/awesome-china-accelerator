@@ -126,6 +126,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩国服游戏总掉线、延迟飙升？一份给华人留学生的回国加速器选择指南](guides/overseas-chinese-games-disconnection-latency-accelerator-selection-guide.md)
+
 - [海外玩国服游戏总是高Ping？一套思路改善延迟与网络波动](guides/overseas-chinese-games-high-ping-latency-network-optimization-guide.md)
 
 - [YY 语音海外使用 QA:10 个最常见问题 + HiCN 跨平台配置一张图讲清楚](guides/yy-voice-overseas-qa-cross-platform-hicn-configuration.md)

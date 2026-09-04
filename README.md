@@ -115,6 +115,7 @@
 ## 分场景完整教程 · Guides by Scenario
 
 ### 📺 视频 / 追剧 / 影音
+- [爱奇艺在海外播放不稳定怎么处理？留学生追剧网络加速实测思路](docs/guides/iqiyi-overseas-unstable-playback-student-network-acceleration-guide.md)
 - [腾讯视频海外播放慢怎么改善？华人留学生回国影音加速实用指南](docs/guides/tencent-video-overseas-slow-playback-return-streaming-acceleration-guide.md)
 - [海外 B 站地区限制怎么解？2026 年 8 月,5 套方案横向拆解](docs/guides/bilibili-overseas-region-restriction-five-solutions-comparison-2026.md)
 - [海外使用哔哩哔哩体验不佳怎么办？华人留学生网络优化与回国加速方案](docs/guides/bilibili-overseas-user-experience-network-optimization-guide.md)
@@ -235,6 +236,7 @@
 - [海外怎么流畅看国内体育赛事直播？平台、中文解说和回国加速一篇说清](docs/guides/海外怎么流畅看国内体育赛事直播-平台中文解说和回国加速一篇说清.md)
 
 ### 🌐 回国上网 / 网络 / 延迟
+- [海外看盘总感觉慢半拍？国内炒股软件响应优化与HiCN回国加速指南](docs/guides/overseas-china-stock-trading-software-response-optimization-guide.md)
 - [海外党回国延迟卡顿?从线路原理到加速器选择的避坑实战指南](docs/guides/overseas-domestic-network-high-latency-line-and-accelerator-guide.md)
 - [海外回国网络加速器怎么选:2026 年 8 月实测的 5 个真实答案](docs/guides/how-to-choose-return-to-china-accelerator.md)
 - [留学生海外玩国服、听歌追剧总卡顿？回国网络优化与加速器选择攻略](docs/guides/overseas-students-network-optimization-and-accelerator-guide.md)

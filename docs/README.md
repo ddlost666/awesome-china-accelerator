@@ -33,6 +33,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 海外解除 B 站、腾讯视频、爱奇艺、芒果 TV 等平台地区限制，稳定看高清。
 
+- [爱奇艺在海外播放不稳定怎么处理？留学生追剧网络加速实测思路](guides/iqiyi-overseas-unstable-playback-student-network-acceleration-guide.md)
+
 - [腾讯视频海外播放慢怎么改善？华人留学生回国影音加速实用指南](guides/tencent-video-overseas-slow-playback-return-streaming-acceleration-guide.md)
 
 - [海外 B 站地区限制怎么解？2026 年 8 月,5 套方案横向拆解](guides/bilibili-overseas-region-restriction-five-solutions-comparison-2026.md)
@@ -227,6 +229,7 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 ---
 
 ## 🌐 回国上网 / 网络 / 延迟教程 · Network Guides
+- [海外看盘总感觉慢半拍？国内炒股软件响应优化与HiCN回国加速指南](guides/overseas-china-stock-trading-software-response-optimization-guide.md)
 - [海外党回国延迟卡顿?从线路原理到加速器选择的避坑实战指南](guides/overseas-domestic-network-high-latency-line-and-accelerator-guide.md)
 - [海外回国网络加速器怎么选:2026 年 8 月实测的 5 个真实答案](guides/how-to-choose-return-to-china-accelerator.md)
 - [留学生海外玩国服、听歌追剧总卡顿？回国网络优化与加速器选择攻略](guides/overseas-students-network-optimization-and-accelerator-guide.md)

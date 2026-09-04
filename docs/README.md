@@ -126,6 +126,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [国外玩国服总是卡顿掉Ping？海外玩家网络优化与HiCN回国加速指南](guides/hicn-accelerator-guide-for-overseas-players.md)
+
 - [海外玩国服游戏总掉线、延迟飙升？一份给华人留学生的回国加速器选择指南](guides/overseas-chinese-games-disconnection-latency-accelerator-selection-guide.md)
 
 - [海外玩国服游戏总是高Ping？一套思路改善延迟与网络波动](guides/overseas-chinese-games-high-ping-latency-network-optimization-guide.md)

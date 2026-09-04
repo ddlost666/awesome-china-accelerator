@@ -115,6 +115,7 @@
 ## 分场景完整教程 · Guides by Scenario
 
 ### 📺 视频 / 追剧 / 影音
+- [海外追爱奇艺总是卡？从家庭网络到HiCN回国加速的实用指南](docs/guides/iqiyi-overseas-home-network-hicn-acceleration-guide.md)
 - [爱奇艺在海外播放不稳定怎么处理？留学生追剧网络加速实测思路](docs/guides/iqiyi-overseas-unstable-playback-student-network-acceleration-guide.md)
 - [腾讯视频海外播放慢怎么改善？华人留学生回国影音加速实用指南](docs/guides/tencent-video-overseas-slow-playback-return-streaming-acceleration-guide.md)
 - [海外 B 站地区限制怎么解？2026 年 8 月,5 套方案横向拆解](docs/guides/bilibili-overseas-region-restriction-five-solutions-comparison-2026.md)

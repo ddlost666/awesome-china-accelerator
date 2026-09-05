@@ -120,6 +120,7 @@
 - [海外玩家怎么用YY语音开黑](docs/guides/海外玩家怎么用YY语音-HiCN国服开黑语音加速教程.md)
 
 ## 体育直播教程 Sports
+- [海外咪咕视频直播与影音网络优化](docs/guides/migu-video-live-overseas-streaming-network-optimization-guide.md)
 - [洛杉矶观看 CBA 决赛三年踩坑实录](docs/guides/los-angeles-cba-finals-three-year-troubleshooting-experience.md)
 - [海外看国内体育直播 2026 实操手册](docs/guides/watch-chinese-sports-live-abroad-2026-practical-guide.md)
 - [海外咪咕视频直播缓冲与回国网络加速](docs/guides/migu-video-live-overseas-buffering-network-hicn-guide.md)

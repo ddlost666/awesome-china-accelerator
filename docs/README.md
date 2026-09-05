@@ -204,6 +204,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🏆 体育 / 世界杯 / 直播教程 · Sports & Live Guides
 
+- [国外看咪咕视频直播不流畅怎么办？海外影音网络优化与HiCN使用攻略](guides/migu-video-live-overseas-streaming-network-optimization-guide.md)
+
 海外看世界杯、CCTV5、咪咕、腾讯体育中文解说直播的回国方案。
 
 - [在洛杉矶看 CBA 决赛:一个海外党连续 3 年的踩坑实录和修好的方法](guides/los-angeles-cba-finals-three-year-troubleshooting-experience.md)

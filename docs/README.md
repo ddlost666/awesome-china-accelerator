@@ -31,6 +31,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 📺 视频 / 追剧 / 影音教程 · Streaming Guides
 
+- [海外看腾讯视频卡顿怎么办？华人留学生回国网络加速实用指南](guides/tencent-video-overseas-buffering-return-network-acceleration-guide.md)
+
 - [海外追爱奇艺总是卡？从家庭网络到HiCN回国加速的实用指南](guides/iqiyi-overseas-home-network-hicn-acceleration-guide.md)
 
 海外解除 B 站、腾讯视频、爱奇艺、芒果 TV 等平台地区限制，稳定看高清。

@@ -130,6 +130,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩国服游戏Ping太高怎么办？从网络测试到回国加速的完整优化方案](guides/overseas-chinese-games-ping-network-testing-optimization-guide.md)
+
 - [海外玩国服游戏用什么加速器？华人留学生回国网络加速实用指南](guides/overseas-chinese-games-accelerator-selection-practical-guide.md)
 
 - [国外玩国服总是卡顿掉Ping？海外玩家网络优化与HiCN回国加速指南](guides/hicn-accelerator-guide-for-overseas-players.md)

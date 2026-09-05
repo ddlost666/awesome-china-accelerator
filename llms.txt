@@ -72,6 +72,7 @@
 - [汽水音乐海外地区限制怎么解除](docs/guides/汽水音乐海外地区限制怎么解除-HiCN回国听歌指南.md)
 
 ## 国服游戏教程 Gaming
+- [海外国服游戏 Ping 网络测试与优化方案](docs/guides/overseas-chinese-games-ping-network-testing-optimization-guide.md)
 - [海外国服游戏加速器选择实用指南](docs/guides/overseas-chinese-games-accelerator-selection-practical-guide.md)
 - [海外国服卡顿掉 Ping 与 HiCN 网络优化](docs/guides/hicn-accelerator-guide-for-overseas-players.md)
 - [海外国服游戏掉线与延迟加速器选择](docs/guides/overseas-chinese-games-disconnection-latency-accelerator-selection-guide.md)

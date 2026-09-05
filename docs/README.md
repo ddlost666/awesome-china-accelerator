@@ -132,6 +132,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外一键回国加速器怎么选才不掉线：一份写给“连国服”的手账](guides/one-click-china-accelerator-stable-gaming-selection-notebook.md)
+
 - [海外玩国服总是高延迟？从跳Ping到卡顿的网络优化与HiCN加速攻略](guides/overseas-chinese-games-ping-spikes-lag-network-optimization-guide.md)
 
 - [海外玩国服游戏Ping太高怎么办？从网络测试到回国加速的完整优化方案](guides/overseas-chinese-games-ping-network-testing-optimization-guide.md)

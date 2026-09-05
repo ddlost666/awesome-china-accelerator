@@ -172,6 +172,7 @@
 - [汽水音乐海外地区限制怎么解除？HiCN 回国听歌指南](docs/guides/汽水音乐海外地区限制怎么解除-HiCN回国听歌指南.md)
 
 ### 🎮 国服游戏
+- [海外一键回国加速器怎么选才不掉线：一份写给“连国服”的手账](docs/guides/one-click-china-accelerator-stable-gaming-selection-notebook.md)
 - [海外玩国服总是高延迟？从跳Ping到卡顿的网络优化与HiCN加速攻略](docs/guides/overseas-chinese-games-ping-spikes-lag-network-optimization-guide.md)
 - [海外玩国服游戏Ping太高怎么办？从网络测试到回国加速的完整优化方案](docs/guides/overseas-chinese-games-ping-network-testing-optimization-guide.md)
 - [海外玩国服游戏用什么加速器？华人留学生回国网络加速实用指南](docs/guides/overseas-chinese-games-accelerator-selection-practical-guide.md)

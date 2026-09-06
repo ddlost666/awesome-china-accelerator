@@ -136,6 +136,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩国服游戏延迟如何降低到100ms以下？海外玩家网络优化指南](guides/how-to-reduce-ping-for-chinese-games-overseas.md)
+
 - [海外一键回国加速器怎么选才不掉线：一份写给“连国服”的手账](guides/one-click-china-accelerator-stable-gaming-selection-notebook.md)
 
 - [海外玩国服总是高延迟？从跳Ping到卡顿的网络优化与HiCN加速攻略](guides/overseas-chinese-games-ping-spikes-lag-network-optimization-guide.md)

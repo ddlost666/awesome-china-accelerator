@@ -253,6 +253,7 @@
 - [海外怎么流畅看国内体育赛事直播？平台、中文解说和回国加速一篇说清](docs/guides/海外怎么流畅看国内体育赛事直播-平台中文解说和回国加速一篇说清.md)
 
 ### 🌐 回国上网 / 网络 / 延迟
+- [2026 海外回国加速器完全手册:别再被"低延迟"忽悠了,实测教你挑对方案](docs/guides/overseas-return-accelerator-complete-guide-2026.md)
 - [海外使用国内炒股软件响应慢怎么办？网络优化与HiCN回国加速实用指南](docs/guides/how-to-fix-slow-response-of-domestic-stock-trading-software-overseas.md)
 - [海外使用国内炒股软件不够流畅？看盘响应优化与HiCN回国加速方案](docs/guides/chinese-stock-trading-software-overseas-response-optimization-guide.md)
 - [海外看盘总感觉慢半拍？国内炒股软件响应优化与HiCN回国加速指南](docs/guides/overseas-china-stock-trading-software-response-optimization-guide.md)

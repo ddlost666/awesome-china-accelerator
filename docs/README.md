@@ -264,6 +264,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🌐 回国上网 / 网络 / 延迟教程 · Network Guides
 
+- [2026 海外回国加速器完全手册:别再被"低延迟"忽悠了,实测教你挑对方案](guides/overseas-return-accelerator-complete-guide-2026.md)
+
 - [海外使用国内炒股软件响应慢怎么办？网络优化与HiCN回国加速实用指南](guides/how-to-fix-slow-response-of-domestic-stock-trading-software-overseas.md)
 
 - [海外使用国内炒股软件不够流畅？看盘响应优化与HiCN回国加速方案](guides/chinese-stock-trading-software-overseas-response-optimization-guide.md)

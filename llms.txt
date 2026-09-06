@@ -155,6 +155,7 @@
 - [海外看体育直播遇到地域限制怎么办](docs/guides/海外看体育直播遇到地域限制怎么办-足球篮球电竞三类场景的HiCN回国方案.md)
 
 ## 回国上网与网络 Network
+- [2026 海外回国加速器选型与线路完全手册](docs/guides/overseas-return-accelerator-complete-guide-2026.md)
 - [海外国内炒股软件响应与网络优化指南](docs/guides/how-to-fix-slow-response-of-domestic-stock-trading-software-overseas.md)
 - [海外国内炒股软件响应与看盘网络优化](docs/guides/chinese-stock-trading-software-overseas-response-optimization-guide.md)
 - [海外国内炒股软件响应与回国网络优化](docs/guides/overseas-china-stock-trading-software-response-optimization-guide.md)

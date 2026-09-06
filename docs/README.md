@@ -31,6 +31,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 📺 视频 / 追剧 / 影音教程 · Streaming Guides
 
+- [海外看爱奇艺总是加载失败？华人留学生影音网络优化与HiCN使用指南](guides/how-to-fix-iqiyi-loading-issues-overseas-with-hicn.md)
+
 - [海外追剧总卡顿？留学生回国加速器实用选择指南](guides/overseas-video-streaming-accelerator-guide.md)
 
 - [海外看爱奇艺总是缓冲怎么办？追剧网络优化与HiCN回国加速指南](guides/iqiyi-overseas-buffering-network-optimization-hicn-guide.md)

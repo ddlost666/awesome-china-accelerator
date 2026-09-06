@@ -16,6 +16,7 @@
 - [通用 VPN vs 回国专线](docs/comparisons/海外看体育直播被地域限制挡住-通用VPN和回国专线按延迟需求怎么选.md): 按延迟需求选择
 
 ## 视频影音教程 Streaming
+- [海外追剧卡顿与回国加速器选择指南](docs/guides/overseas-video-streaming-accelerator-guide.md)
 - [海外爱奇艺缓冲与追剧网络优化](docs/guides/iqiyi-overseas-buffering-network-optimization-hicn-guide.md)
 - [国外爱奇艺卡顿与海外追剧网络优化](docs/guides/iqiyi-overseas-buffering-streaming-network-optimization-guide.md)
 - [海外腾讯视频卡顿与回国网络加速指南](docs/guides/tencent-video-overseas-buffering-return-network-acceleration-guide.md)

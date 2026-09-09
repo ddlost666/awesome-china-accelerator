@@ -115,6 +115,7 @@
 ## 分场景完整教程 · Guides by Scenario
 
 ### 📺 视频 / 追剧 / 影音
+- [海外看咪咕视频不流畅怎么办？华人留学生影音网络优化攻略](docs/guides/migu-video-overseas-slow-streaming-network-optimization-guide.md)
 - [海外看哔哩哔哩总是加载慢？华人留学生国内影音网络优化指南](docs/guides/bilibili-overseas-slow-loading-chinese-streaming-network-guide.md)
 - [国外看国内视频总是卡顿怎么办？海外追剧快速网络优化指南](docs/guides/how-to-fix-lag-when-watching-chinese-videos-abroad.md)
 - [国外追爱奇艺经常转圈？海外华人影音加速与HiCN使用攻略](docs/guides/how-to-fix-iqiyi-buffering-overseas-with-hicn.md)

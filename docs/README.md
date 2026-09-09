@@ -31,6 +31,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 📺 视频 / 追剧 / 影音教程 · Streaming Guides
 
+- [海外看咪咕视频不流畅怎么办？华人留学生影音网络优化攻略](guides/migu-video-overseas-slow-streaming-network-optimization-guide.md)
+
 - [海外看哔哩哔哩总是加载慢？华人留学生国内影音网络优化指南](guides/bilibili-overseas-slow-loading-chinese-streaming-network-guide.md)
 
 - [国外看国内视频总是卡顿怎么办？海外追剧快速网络优化指南](guides/how-to-fix-lag-when-watching-chinese-videos-abroad.md)

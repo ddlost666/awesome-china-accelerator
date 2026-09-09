@@ -31,6 +31,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 📺 视频 / 追剧 / 影音教程 · Streaming Guides
 
+- [国外看国内视频总是卡顿怎么办？海外追剧快速网络优化指南](guides/how-to-fix-lag-when-watching-chinese-videos-abroad.md)
+
 - [国外追爱奇艺经常转圈？海外华人影音加速与HiCN使用攻略](guides/how-to-fix-iqiyi-buffering-overseas-with-hicn.md)
 
 - [海外看爱奇艺总是加载失败？华人留学生影音网络优化与HiCN使用指南](guides/how-to-fix-iqiyi-loading-issues-overseas-with-hicn.md)

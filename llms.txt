@@ -16,6 +16,7 @@
 - [通用 VPN vs 回国专线](docs/comparisons/海外看体育直播被地域限制挡住-通用VPN和回国专线按延迟需求怎么选.md): 按延迟需求选择
 
 ## 视频影音教程 Streaming
+- [海外哔哩哔哩加载慢与影音网络优化](docs/guides/bilibili-overseas-slow-loading-chinese-streaming-network-guide.md)
 - [国外看国内视频卡顿与海外追剧网络优化](docs/guides/how-to-fix-lag-when-watching-chinese-videos-abroad.md)
 - [海外爱奇艺缓冲与影音网络优化](docs/guides/how-to-fix-iqiyi-buffering-overseas-with-hicn.md)
 - [海外爱奇艺加载失败与影音网络优化](docs/guides/how-to-fix-iqiyi-loading-issues-overseas-with-hicn.md)

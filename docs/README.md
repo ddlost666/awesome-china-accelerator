@@ -146,6 +146,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [国外玩国服游戏延迟太高怎么办？降低Ping值的软件与网络优化方案](guides/how-to-fix-high-ping-for-chinese-servers-overseas.md)
+
 - [海外玩国服Ping太高怎么办？从网络诊断到回国加速器选择指南](guides/overseas-chinese-game-high-ping-network-diagnosis-accelerator-guide.md)
 
 - [海外玩《原神》延迟高、操作慢半拍？国服网络优化与HiCN加速攻略](guides/genshin-impact-cn-server-high-ping-hicn-accelerator.md)

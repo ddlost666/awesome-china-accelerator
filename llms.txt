@@ -80,6 +80,7 @@
 - [汽水音乐海外地区限制怎么解除](docs/guides/汽水音乐海外地区限制怎么解除-HiCN回国听歌指南.md)
 
 ## 国服游戏教程 Gaming
+- [国外国服游戏高延迟与 Ping 优化](docs/guides/how-to-fix-high-ping-for-chinese-servers-overseas.md)
 - [海外国服高 Ping 网络诊断与加速器选择](docs/guides/overseas-chinese-game-high-ping-network-diagnosis-accelerator-guide.md)
 - [海外原神国服高延迟与网络优化](docs/guides/genshin-impact-cn-server-high-ping-hicn-accelerator.md)
 - [Honor of Kings 海外回国加速器速通指南](docs/guides/honor-of-kings-overseas-accelerator-quickstart-guide.md)

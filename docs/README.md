@@ -158,6 +158,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩《原神》总感觉慢半拍？国服延迟改善与HiCN加速指南](guides/genshin-impact-cn-server-response-delay-hicn-guide.md)
+
 - [降低国服游戏Ping值的软件有哪些？海外玩家国服网络加速实用指南](guides/software-to-lower-chinese-game-ping-overseas-guide.md)
 
 - [海外玩和平精英怎么选低延迟加速器？从稳定性到实战体验一次讲清](guides/how-to-choose-low-ping-accelerator-for-game-for-peace-overseas.md)

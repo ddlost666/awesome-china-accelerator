@@ -115,6 +115,7 @@
 ## 分场景完整教程 · Guides by Scenario
 
 ### 📺 视频 / 追剧 / 影音
+- [海外追爱奇艺画面总卡住？从网络环境到HiCN回国加速的完整优化方案](docs/guides/iqiyi-overseas-playback-continuity-hicn-guide.md)
 - [国外看国内视频卡顿别急着降画质：海外影音网络优化与HiCN加速攻略](docs/guides/overseas-chinese-video-lag-quality-network-optimization-guide.md)
 - [海外看咪咕视频总是卡顿怎么办？回国加速器网络优化实用指南](docs/guides/migu-video-overseas-buffering-network-optimization-guide.md)
 - [海外看国内体育直播怎么更流畅？回国加速器与观赛网络优化攻略](docs/guides/how-to-watch-chinese-sports-live-abroad-smoothly.md)

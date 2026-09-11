@@ -31,6 +31,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 📺 视频 / 追剧 / 影音教程 · Streaming Guides
 
+- [海外追爱奇艺画面总卡住？从网络环境到HiCN回国加速的完整优化方案](guides/iqiyi-overseas-playback-continuity-hicn-guide.md)
+
 - [国外看国内视频卡顿别急着降画质：海外影音网络优化与HiCN加速攻略](guides/overseas-chinese-video-lag-quality-network-optimization-guide.md)
 
 - [海外看咪咕视频总是卡顿怎么办？回国加速器网络优化实用指南](guides/migu-video-overseas-buffering-network-optimization-guide.md)

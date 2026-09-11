@@ -31,6 +31,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 📺 视频 / 追剧 / 影音教程 · Streaming Guides
 
+- [海外看咪咕视频总是卡顿怎么办？回国加速器网络优化实用指南](guides/migu-video-overseas-buffering-network-optimization-guide.md)
+
 - [海外看国内体育直播怎么更流畅？回国加速器与观赛网络优化攻略](guides/how-to-watch-chinese-sports-live-abroad-smoothly.md)
 
 - [海外追国内视频不流畅？华人留学生影音网络加速与HiCN使用手册](guides/overseas-chinese-video-streaming-hicn-guide.md)

@@ -108,6 +108,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎵 音乐教程 · Music Guides
 
+- [海外使用网易云音乐总是加载慢？听歌网络优化与HiCN使用指南](guides/netease-cloud-music-overseas-network-optimization-hicn.md)
+
 - [人在海外怎么恢复网易云音乐？回国加速器选择建议](guides/restore-netease-cloud-music-overseas-accelerator-selection-guide.md)
 
 - [汽水音乐海外党速查清单：8 件事一次做完（2026 实测版）](guides/qishui-music-overseas-eight-step-checklist-2026.md)

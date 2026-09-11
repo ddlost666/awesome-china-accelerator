@@ -154,6 +154,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩和平精英怎么选低延迟加速器？从稳定性到实战体验一次讲清](guides/how-to-choose-low-ping-accelerator-for-game-for-peace-overseas.md)
+
 - [国外玩国服游戏延迟太高怎么办？降低Ping值的软件与网络优化方案](guides/how-to-fix-high-ping-for-chinese-servers-overseas.md)
 
 - [海外玩国服Ping太高怎么办？从网络诊断到回国加速器选择指南](guides/overseas-chinese-game-high-ping-network-diagnosis-accelerator-guide.md)

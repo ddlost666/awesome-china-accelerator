@@ -162,6 +162,7 @@
 - [海外追剧听歌看直播，推荐哪款稳定好用的回国影音加速器？](docs/guides/海外追剧听歌看直播-推荐稳定好用的回国影音加速器HiCN.md)
 
 ### 🎵 音乐
+- [海外听汽水音乐卡顿？先把家里这些设备接对再订阅（2026 实测版）](docs/guides/qishui-music-home-device-setup-before-subscription-2026.md)
 - [海外使用网易云音乐总是加载慢？听歌网络优化与HiCN使用指南](docs/guides/netease-cloud-music-overseas-network-optimization-hicn.md)
 - [人在海外怎么恢复网易云音乐？回国加速器选择建议](docs/guides/restore-netease-cloud-music-overseas-accelerator-selection-guide.md)
 - [汽水音乐海外党速查清单：8 件事一次做完（2026 实测版）](docs/guides/qishui-music-overseas-eight-step-checklist-2026.md)

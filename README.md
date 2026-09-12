@@ -248,6 +248,7 @@
 - [海外玩家怎么用 YY 语音？HiCN 国服开黑语音加速教程](docs/guides/海外玩家怎么用YY语音-HiCN国服开黑语音加速教程.md)
 
 ### 🏆 体育 / 世界杯 / 直播
+- [海外看 CCTV5 / 腾讯体育 / 咪咕的 8 个真实问题,这一篇讲清楚](docs/guides/overseas-cctv5-tencent-sports-migu-eight-questions.md)
 - [给海外球迷的体育直播工具箱：CCTV5、腾讯体育、咪咕视频怎么选才不踩坑](docs/guides/sports-live-streaming-toolkit-cctv5-tencent-migu.md)
 - [国外看咪咕视频直播不流畅怎么办？海外影音网络优化与HiCN使用攻略](docs/guides/migu-video-live-overseas-streaming-network-optimization-guide.md)
 - [在洛杉矶看 CBA 决赛:一个海外党连续 3 年的踩坑实录和修好的方法](docs/guides/los-angeles-cba-finals-three-year-troubleshooting-experience.md)

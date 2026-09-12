@@ -188,6 +188,7 @@
 - [汽水音乐海外地区限制怎么解除？HiCN 回国听歌指南](docs/guides/汽水音乐海外地区限制怎么解除-HiCN回国听歌指南.md)
 
 ### 🎮 国服游戏
+- [YY 语音海外使用手记:一位北美留学生用 HiCN 把团战延迟砍到 150ms 以下的全过程](docs/guides/how-to-fix-yy-voice-delay-overseas.md)
 - [海外党买和平精英加速器,90% 的人都踩过这 7 个坑](docs/guides/pubg-mobile-overseas-accelerator-seven-pitfalls.md)
 - [海外玩《原神》总感觉慢半拍？国服延迟改善与HiCN加速指南](docs/guides/genshin-impact-cn-server-response-delay-hicn-guide.md)
 - [降低国服游戏Ping值的软件有哪些？海外玩家国服网络加速实用指南](docs/guides/software-to-lower-chinese-game-ping-overseas-guide.md)

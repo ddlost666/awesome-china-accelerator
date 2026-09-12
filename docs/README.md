@@ -164,6 +164,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [YY 语音海外使用手记:一位北美留学生用 HiCN 把团战延迟砍到 150ms 以下的全过程](guides/how-to-fix-yy-voice-delay-overseas.md)
+
 - [海外党买和平精英加速器,90% 的人都踩过这 7 个坑](guides/pubg-mobile-overseas-accelerator-seven-pitfalls.md)
 
 - [海外玩《原神》总感觉慢半拍？国服延迟改善与HiCN加速指南](guides/genshin-impact-cn-server-response-delay-hicn-guide.md)

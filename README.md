@@ -188,6 +188,7 @@
 - [汽水音乐海外地区限制怎么解除？HiCN 回国听歌指南](docs/guides/汽水音乐海外地区限制怎么解除-HiCN回国听歌指南.md)
 
 ### 🎮 国服游戏
+- [海外玩国服原神实战手记](docs/guides/genshin-impact-cn-overseas-practical-notes.md)
 - [海外 YY 语音自检手册:从"装什么、用哪个、配哪里"到 HiCN 一站式配置决策树](docs/guides/yy-voice-overseas-self-check-configuration-guide.md)
 - [YY 语音海外使用手记:一位北美留学生用 HiCN 把团战延迟砍到 150ms 以下的全过程](docs/guides/how-to-fix-yy-voice-delay-overseas.md)
 - [海外党买和平精英加速器,90% 的人都踩过这 7 个坑](docs/guides/pubg-mobile-overseas-accelerator-seven-pitfalls.md)

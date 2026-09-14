@@ -166,6 +166,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩王者荣耀延迟高怎么办?留学生党亲测能用的优化指南](guides/honor-of-kings-high-latency-overseas-student-tested-optimization-guide.md)
+
 - [玩和平精英国服 ping 高、刚枪飘、跳伞瞬移?我把这一年折腾加速器的事摊开说](guides/pubg-mobile-cn-overseas-accelerator-troubleshooting-notes.md)
 
 - [海外 YY 语音怎么用才不卡:HiCN 回国加速器跨平台真实体验笔记](guides/yy-voice-overseas-cross-platform-hicn-experience.md)

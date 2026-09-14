@@ -31,6 +31,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 📺 视频 / 追剧 / 影音教程 · Streaming Guides
 
+- [海外看国内直播总是慢半拍？低延迟回国线路这样选更靠谱](guides/overseas-chinese-live-stream-low-latency-return-route-guide.md)
+
 - [海外哔哩哔哩地区限制打不开怎么办?2026 年 9 月,留学生回国加速器实测](guides/bilibili-overseas-region-restriction-september-2026-student-accelerator-test.md)
 
 - [海外哔哩哔哩地区限制怎么解决?2026 年 9 月,回国加速器最新实测](guides/bilibili-overseas-region-restriction-september-2026-accelerator-test.md)

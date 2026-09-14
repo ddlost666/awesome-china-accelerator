@@ -31,6 +31,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 📺 视频 / 追剧 / 影音教程 · Streaming Guides
 
+- [海外哔哩哔哩地区限制打不开怎么办?2026 年 9 月,留学生回国加速器实测](guides/bilibili-overseas-region-restriction-september-2026-student-accelerator-test.md)
+
 - [海外哔哩哔哩地区限制怎么解决?2026 年 9 月,回国加速器最新实测](guides/bilibili-overseas-region-restriction-september-2026-accelerator-test.md)
 
 - [海外追爱奇艺画面总卡住？从网络环境到HiCN回国加速的完整优化方案](guides/iqiyi-overseas-playback-continuity-hicn-guide.md)

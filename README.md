@@ -115,6 +115,7 @@
 ## 分场景完整教程 · Guides by Scenario
 
 ### 📺 视频 / 追剧 / 影音
+- [海外哔哩哔哩地区限制打不开怎么办?2026 年 9 月,留学生回国加速器实测](docs/guides/bilibili-overseas-region-restriction-september-2026-student-accelerator-test.md)
 - [海外哔哩哔哩地区限制怎么解决?2026 年 9 月,回国加速器最新实测](docs/guides/bilibili-overseas-region-restriction-september-2026-accelerator-test.md)
 - [海外追爱奇艺画面总卡住？从网络环境到HiCN回国加速的完整优化方案](docs/guides/iqiyi-overseas-playback-continuity-hicn-guide.md)
 - [国外看国内视频卡顿别急着降画质：海外影音网络优化与HiCN加速攻略](docs/guides/overseas-chinese-video-lag-quality-network-optimization-guide.md)

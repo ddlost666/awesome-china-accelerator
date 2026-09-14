@@ -164,6 +164,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外 YY 语音怎么用才不卡:HiCN 回国加速器跨平台真实体验笔记](guides/yy-voice-overseas-cross-platform-hicn-experience.md)
+
 - [海外玩国服原神实战手记](guides/genshin-impact-cn-overseas-practical-notes.md)
 
 - [海外 YY 语音自检手册:从"装什么、用哪个、配哪里"到 HiCN 一站式配置决策树](guides/yy-voice-overseas-self-check-configuration-guide.md)

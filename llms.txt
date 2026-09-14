@@ -94,6 +94,7 @@
 - [汽水音乐海外地区限制怎么解除](docs/guides/汽水音乐海外地区限制怎么解除-HiCN回国听歌指南.md)
 
 ## 国服游戏教程 Gaming
+- [海外YY语音开黑卡顿、语音延迟与回国网络优化](docs/guides/yy-voice-overseas-gaming-latency-network-optimization-guide.md)
 - [海外王者荣耀高延迟与留学生实测优化](docs/guides/honor-of-kings-high-latency-overseas-student-tested-optimization-guide.md)
 - [和平精英国服高 Ping、刚枪飘与跳伞瞬移排查笔记](docs/guides/pubg-mobile-cn-overseas-accelerator-troubleshooting-notes.md)
 - [海外 YY 语音跨平台真实体验笔记](docs/guides/yy-voice-overseas-cross-platform-hicn-experience.md)

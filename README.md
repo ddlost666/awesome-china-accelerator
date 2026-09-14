@@ -194,6 +194,7 @@
 - [汽水音乐海外地区限制怎么解除？HiCN 回国听歌指南](docs/guides/汽水音乐海外地区限制怎么解除-HiCN回国听歌指南.md)
 
 ### 🎮 国服游戏
+- [海外玩和平精英延迟高怎么办？低延迟游戏加速器选择与HiCN使用攻略](docs/guides/game-for-peace-overseas-low-latency-hicn-guide.md)
 - [海外用YY语音开黑总是卡？海外玩家语音延迟与回国网络优化攻略](docs/guides/yy-voice-overseas-gaming-latency-network-optimization-guide.md)
 - [海外玩王者荣耀延迟高怎么办?留学生党亲测能用的优化指南](docs/guides/honor-of-kings-high-latency-overseas-student-tested-optimization-guide.md)
 - [玩和平精英国服 ping 高、刚枪飘、跳伞瞬移?我把这一年折腾加速器的事摊开说](docs/guides/pubg-mobile-cn-overseas-accelerator-troubleshooting-notes.md)

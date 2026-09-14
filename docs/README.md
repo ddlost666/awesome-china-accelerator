@@ -31,6 +31,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 📺 视频 / 追剧 / 影音教程 · Streaming Guides
 
+- [海外看国内体育直播总卡顿？从观赛到日常娱乐，聊聊HiCN回国加速器怎么选、怎么用](guides/overseas-chinese-sports-streaming-hicn-selection-usage-guide.md)
+
 - [海外看国内直播总是慢半拍？低延迟回国线路这样选更靠谱](guides/overseas-chinese-live-stream-low-latency-return-route-guide.md)
 
 - [海外哔哩哔哩地区限制打不开怎么办?2026 年 9 月,留学生回国加速器实测](guides/bilibili-overseas-region-restriction-september-2026-student-accelerator-test.md)

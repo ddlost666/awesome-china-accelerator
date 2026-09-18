@@ -176,6 +176,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩国服《王者万象棋》卡顿怎么办？留学生网络优化与HiCN加速指南](guides/wangzhe-wanxiangqi-overseas-network-optimization-hicn-guide.md)
+
 - [海外玩和平精英延迟高怎么办？低延迟游戏加速器选择与HiCN使用攻略](guides/game-for-peace-overseas-low-latency-hicn-guide.md)
 
 - [海外用YY语音开黑总是卡？海外玩家语音延迟与回国网络优化攻略](guides/yy-voice-overseas-gaming-latency-network-optimization-guide.md)

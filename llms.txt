@@ -16,6 +16,7 @@
 - [通用 VPN vs 回国专线](docs/comparisons/海外看体育直播被地域限制挡住-通用VPN和回国专线按延迟需求怎么选.md): 按延迟需求选择
 
 ## 视频影音教程 Streaming
+- [海外名古屋亚运会中文解说观赛网络优化](docs/guides/nagoya-asian-games-chinese-commentary-overseas-network-optimization-guide.md)
 - [海外国内体育直播卡顿与回国加速器网络优化](docs/guides/overseas-chinese-sports-live-streaming-return-accelerator-network-optimization-guide.md)
 - [海外国内体育直播卡顿与HiCN回国加速器选择使用](docs/guides/overseas-chinese-sports-streaming-hicn-selection-usage-guide.md)
 - [海外看国内直播慢半拍与低延迟回国线路选择](docs/guides/overseas-chinese-live-stream-low-latency-return-route-guide.md)

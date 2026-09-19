@@ -31,6 +31,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 📺 视频 / 追剧 / 影音教程 · Streaming Guides
 
+- [海外看名古屋亚运会中文解说怎么更顺？华人留学生观赛网络优化指南](guides/nagoya-asian-games-chinese-commentary-overseas-network-optimization-guide.md)
+
 - [海外看国内体育直播总是卡？回国加速器网络优化实用指南](guides/overseas-chinese-sports-live-streaming-return-accelerator-network-optimization-guide.md)
 
 - [海外看国内体育直播总卡顿？从观赛到日常娱乐，聊聊HiCN回国加速器怎么选、怎么用](guides/overseas-chinese-sports-streaming-hicn-selection-usage-guide.md)

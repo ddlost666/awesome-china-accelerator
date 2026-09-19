@@ -180,6 +180,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩国服《伊莫》卡顿怎么办？留学生低延迟网络优化与HiCN使用指南](guides/yimo-overseas-lag-low-latency-hicn-guide.md)
+
 - [海外玩国服《王者万象棋》总感觉慢半拍？留学生网络优化与HiCN使用指南](guides/wangzhe-wanxiangqi-overseas-slow-response-hicn-guide.md)
 
 - [海外玩国服《魔兽世界：无限》怎么更稳？留学生开荒前先把网络这件事搞定](guides/wow-infinite-overseas-pre-raid-network-optimization-guide.md)

@@ -180,6 +180,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩国服《魔兽世界：无限》怎么更稳？留学生开荒前先把网络这件事搞定](guides/wow-infinite-overseas-pre-raid-network-optimization-guide.md)
+
 - [海外玩国服《魔兽世界：无限》怎么更稳？留学生网络优化与HiCN加速指南](guides/wow-infinite-overseas-network-optimization-hicn-guide.md)
 
 - [人在海外玩《王者万象棋》总感觉慢半拍？国服网络这样调整更省心](guides/wangzhe-wanxiangqi-overseas-lag-network-adjustment-guide.md)

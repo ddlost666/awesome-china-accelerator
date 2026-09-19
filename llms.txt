@@ -95,6 +95,7 @@
 - [汽水音乐海外地区限制怎么解除](docs/guides/汽水音乐海外地区限制怎么解除-HiCN回国听歌指南.md)
 
 ## 国服游戏教程 Gaming
+- [海外《王者万象棋》慢半拍与国服网络调整](docs/guides/wangzhe-wanxiangqi-overseas-lag-network-adjustment-guide.md)
 - [海外《王者万象棋》卡顿与留学生网络优化指南](docs/guides/wangzhe-wanxiangqi-overseas-network-optimization-hicn-guide.md)
 - [海外和平精英高延迟与HiCN低延迟加速攻略](docs/guides/game-for-peace-overseas-low-latency-hicn-guide.md)
 - [海外YY语音开黑卡顿、语音延迟与回国网络优化](docs/guides/yy-voice-overseas-gaming-latency-network-optimization-guide.md)

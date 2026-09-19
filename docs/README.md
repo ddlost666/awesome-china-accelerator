@@ -176,6 +176,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [人在海外玩《王者万象棋》总感觉慢半拍？国服网络这样调整更省心](guides/wangzhe-wanxiangqi-overseas-lag-network-adjustment-guide.md)
+
 - [海外玩国服《王者万象棋》卡顿怎么办？留学生网络优化与HiCN加速指南](guides/wangzhe-wanxiangqi-overseas-network-optimization-hicn-guide.md)
 
 - [海外玩和平精英延迟高怎么办？低延迟游戏加速器选择与HiCN使用攻略](guides/game-for-peace-overseas-low-latency-hicn-guide.md)

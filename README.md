@@ -194,6 +194,7 @@
 - [汽水音乐海外地区限制怎么解除？HiCN 回国听歌指南](docs/guides/汽水音乐海外地区限制怎么解除-HiCN回国听歌指南.md)
 
 ### 🎮 国服游戏
+- [海外玩国服《魔兽世界：无限》怎么更稳？留学生网络优化与HiCN加速指南](docs/guides/wow-infinite-overseas-network-optimization-hicn-guide.md)
 - [人在海外玩《王者万象棋》总感觉慢半拍？国服网络这样调整更省心](docs/guides/wangzhe-wanxiangqi-overseas-lag-network-adjustment-guide.md)
 - [海外玩国服《王者万象棋》卡顿怎么办？留学生网络优化与HiCN加速指南](docs/guides/wangzhe-wanxiangqi-overseas-network-optimization-hicn-guide.md)
 - [海外玩和平精英延迟高怎么办？低延迟游戏加速器选择与HiCN使用攻略](docs/guides/game-for-peace-overseas-low-latency-hicn-guide.md)

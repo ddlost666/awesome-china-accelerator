@@ -180,6 +180,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [人在海外想回归《魔兽世界：无限》？国服网络先这样调，开荒会省心很多](guides/wow-infinite-cn-server-overseas-network-optimization-guide.md)
+
 - [人在海外玩《王者万象棋》总觉得不顺？国服网络这样调整会舒服很多](guides/wangzhe-wanxiangqi-overseas-smooth-network-adjustment-guide.md)
 
 - [海外玩《王者万象棋》总在关键回合掉链子？国服网络优化可以这样做](guides/wangzhe-wanxiangqi-key-round-network-optimization-guide.md)

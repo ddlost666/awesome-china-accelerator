@@ -308,6 +308,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🏆 体育 / 世界杯 / 直播教程 · Sports & Live Guides
 
+- [人在海外怎么看名古屋亚运会中文解说？观赛前先把网络这一步弄顺](guides/nagoya-asian-games-chinese-commentary-preparation-network-guide.md)
+
 - [海外看 CCTV5 / 腾讯体育 / 咪咕的 8 个真实问题,这一篇讲清楚](guides/overseas-cctv5-tencent-sports-migu-eight-questions.md)
 
 - [给海外球迷的体育直播工具箱：CCTV5、腾讯体育、咪咕视频怎么选才不踩坑](guides/sports-live-streaming-toolkit-cctv5-tencent-migu.md)

@@ -180,6 +180,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [人在海外玩《王者万象棋》总觉得不顺？国服网络这样调整会舒服很多](guides/wangzhe-wanxiangqi-overseas-smooth-network-adjustment-guide.md)
+
 - [海外玩《王者万象棋》总在关键回合掉链子？国服网络优化可以这样做](guides/wangzhe-wanxiangqi-key-round-network-optimization-guide.md)
 
 - [海外玩国服《伊莫》卡顿怎么办？留学生低延迟网络优化与HiCN使用指南](guides/yimo-overseas-lag-low-latency-hicn-guide.md)

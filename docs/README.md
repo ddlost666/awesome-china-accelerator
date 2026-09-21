@@ -180,6 +180,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [魔兽世界“无限”值得期待，海外玩国服为什么推荐试试HiCN？](guides/wow-infinity-hicn-accelerator-guide.md)
+
 - [想回魔兽世界“无限”国服？海外玩家可以先把HiCN安排上](guides/wow-infinite-cn-server-hicn-overseas-player-preparation-guide.md)
 
 - [海外玩王者万象棋用什么回国加速器？HiCN国服游戏加速指南](guides/wangzhe-wanxiangqi-return-accelerator-hicn-game-guide.md)

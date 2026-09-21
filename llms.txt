@@ -97,6 +97,7 @@
 - [汽水音乐海外地区限制怎么解除](docs/guides/汽水音乐海外地区限制怎么解除-HiCN回国听歌指南.md)
 
 ## 国服游戏教程 Gaming
+- [海外玩国服王者万象棋卡顿与HiCN游戏、影音加速指南](docs/guides/how-to-fix-lag-in-honor-of-kings-chess-global.md)
 - [魔兽世界“无限”国服与HiCN回国加速器推荐评测](docs/guides/wow-infinity-hicn-accelerator-guide.md)
 - [海外回归魔兽世界“无限”国服与HiCN准备指南](docs/guides/wow-infinite-cn-server-hicn-overseas-player-preparation-guide.md)
 - [海外王者万象棋回国加速器与HiCN游戏加速指南](docs/guides/wangzhe-wanxiangqi-return-accelerator-hicn-game-guide.md)

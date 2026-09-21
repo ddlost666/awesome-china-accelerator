@@ -180,6 +180,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩国服王者万象棋卡顿怎么办？HiCN游戏加速与听歌追剧指南](guides/how-to-fix-lag-in-honor-of-kings-chess-global.md)
+
 - [魔兽世界“无限”值得期待，海外玩国服为什么推荐试试HiCN？](guides/wow-infinity-hicn-accelerator-guide.md)
 
 - [想回魔兽世界“无限”国服？海外玩家可以先把HiCN安排上](guides/wow-infinite-cn-server-hicn-overseas-player-preparation-guide.md)

@@ -275,6 +275,7 @@
 - [海外玩家怎么用 YY 语音？HiCN 国服开黑语音加速教程](docs/guides/海外玩家怎么用YY语音-HiCN国服开黑语音加速教程.md)
 
 ### 🏆 体育 / 世界杯 / 直播
+- [海外怎么看名古屋亚运会中文解说？直播入口与HiCN回国加速指南](docs/guides/nagoya-asian-games-chinese-commentary-live-stream-hicn-guide.md)
 - [追剧海外怎么看名古屋亚运会？把观赛、国服开黑和听歌追剧一起安排好](docs/guides/nagoya-asian-games-streaming-gaming-music-hicn-guide.md)
 - [人在海外怎么看名古屋亚运会中文解说？观赛前先把网络这一步弄顺](docs/guides/nagoya-asian-games-chinese-commentary-preparation-network-guide.md)
 - [海外看 CCTV5 / 腾讯体育 / 咪咕的 8 个真实问题,这一篇讲清楚](docs/guides/overseas-cctv5-tencent-sports-migu-eight-questions.md)

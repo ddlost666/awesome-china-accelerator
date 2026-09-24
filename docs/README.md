@@ -180,6 +180,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩魔兽世界“无限”国服怎么准备？网络这一步，提前想好更省心](guides/wow-infinity-cn-server-overseas-network-preparation-guide.md)
+
 - [海外玩《彩虹六号：攻势》WeGame国服，怎么让开黑少一点网络干扰？](guides/play-rainbow-six-siege-wegame-overseas-network-guide.md)
 
 - [海外玩国服王者万象棋卡顿怎么办？HiCN游戏加速与听歌追剧指南](guides/how-to-fix-lag-in-honor-of-kings-chess-global.md)

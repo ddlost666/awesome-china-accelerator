@@ -182,6 +182,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外怎么玩魔兽世界“无限”国服？HiCN游戏、听歌追剧加速指南](guides/how-to-play-wow-infinity-cn-server-overseas-hicn-multiscene-guide.md)
+
 - [海外玩魔兽世界“无限”国服怎么准备？HiCN游戏、听歌追剧加速指南](guides/how-to-play-wow-infinity-server-overseas-hicn-guide.md)
 
 - [王者万象棋海外卡顿，先别急着换设备：HiCN回国加速器使用建议](guides/wangzhe-wanxiangqi-overseas-lag-device-troubleshooting-hicn-guide.md)

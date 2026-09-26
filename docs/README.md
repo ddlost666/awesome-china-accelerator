@@ -31,6 +31,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 📺 视频 / 追剧 / 影音教程 · Streaming Guides
 
+- [国外看腾讯视频总被打断？想好好追完一集，可以从这里开始](guides/tencent-video-overseas-interrupted-playback-hicn-guide.md)
+
 - [海外看名古屋亚运会中文解说总卡？华人留学生观赛网络优化指南](guides/nagoya-asian-games-chinese-commentary-buffering-network-optimization-guide.md)
 
 - [海外看名古屋亚运会中文解说怎么更顺？华人留学生观赛网络优化指南](guides/nagoya-asian-games-chinese-commentary-overseas-network-optimization-guide.md)

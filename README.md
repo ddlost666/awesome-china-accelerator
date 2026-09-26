@@ -115,6 +115,7 @@
 ## 分场景完整教程 · Guides by Scenario
 
 ### 📺 视频 / 追剧 / 影音
+- [在海外追名古屋亚运会，中文解说怎么找？HiCN观赛加速建议](docs/guides/nagoya-asian-games-chinese-commentary-viewing-acceleration-advice.md)
 - [国外看腾讯视频总被打断？想好好追完一集，可以从这里开始](docs/guides/tencent-video-overseas-interrupted-playback-hicn-guide.md)
 - [海外看名古屋亚运会中文解说总卡？华人留学生观赛网络优化指南](docs/guides/nagoya-asian-games-chinese-commentary-buffering-network-optimization-guide.md)
 - [海外看名古屋亚运会中文解说怎么更顺？华人留学生观赛网络优化指南](docs/guides/nagoya-asian-games-chinese-commentary-overseas-network-optimization-guide.md)

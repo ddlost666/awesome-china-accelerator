@@ -182,6 +182,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩王者万象棋总慢半拍？聊聊HiCN回国加速器怎么用](guides/wangzhe-wanxiangqi-overseas-slow-response-hicn-daily-use-guide.md)
+
 - [海外等魔兽世界“无限”国服，回国加速器怎么选？先了解HiCN](guides/wow-infinity-overseas-return-accelerator-selection-hicn-guide.md)
 
 - [海外玩王者万象棋，回国加速器怎么选？聊聊HiCN的日常使用](guides/play-wangzhe-wanxiangqi-overseas-hicn-accelerator.md)

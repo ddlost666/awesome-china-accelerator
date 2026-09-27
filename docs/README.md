@@ -12,6 +12,7 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 深度评测单款回国加速器，覆盖游戏延迟、视频解锁、稳定性、价格、易用性五大维度。
 
+- [推荐国服游戏加速器:HiCN 体验手记 + 海外华人留学生玩国服、追剧听歌一站式参考](reviews/hicn-game-streaming-music-overseas-user-experience-review.md)
 - [主流回国加速器测评：优缺点全对比（2026 年版）](reviews/主流回国加速器测评.md)
 - [**HiCN 回国加速器深度测评（2026 年最新版）**](reviews/hicn-deep-review-2026.md) · ⭐ 推荐阅读
 - [Malus 加速器评测（2026 年版）](reviews/malus-review.md)

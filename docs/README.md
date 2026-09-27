@@ -184,6 +184,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外等魔兽世界“无限”国服，回国加速器怎么选才合适？](guides/how-to-choose-vpn-for-wow-cn-server-overseas.md)
+
 - [人在海外，和国内好友五排《彩虹六号：攻势》延迟高怎么办？](guides/rainbow-six-siege-wegame-overseas-five-stack-latency-guide.md)
 
 - [海外怎么玩魔兽世界“无限”国服？HiCN游戏、听歌追剧加速指南](guides/how-to-play-wow-infinity-cn-server-overseas-hicn-multiscene-guide.md)

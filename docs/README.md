@@ -133,6 +133,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎵 音乐教程 · Music Guides
 
+- [海外华人使用网易云音乐的常见障碍场景与修复实践](guides/netease-cloud-music-overseas-common-issues-repair-practices.md)
+
 - [海外用网易云音乐总差一口气？我后来是这样把听歌这件事弄顺的](guides/netease-cloud-music-overseas-daily-experience-hicn.md)
 
 - [海外听汽水音乐卡顿？先把家里这些设备接对再订阅（2026 实测版）](guides/qishui-music-home-device-setup-before-subscription-2026.md)

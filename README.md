@@ -118,6 +118,7 @@
 ## 分场景完整教程 · Guides by Scenario
 
 ### 📺 视频 / 追剧 / 影音
+- [国外腾讯视频看不了怎么办？先找准原因，再用HiCN把追剧网络调顺](docs/guides/how-to-fix-tencent-video-loading-issues-abroad.md)
 - [海外看腾讯视频的完整方案：从地区限制原理到多平台加速工具对比](docs/guides/how-to-watch-tencent-video-overseas-2.md)
 - [国外腾讯视频看不了怎么办？一份从原理到选型的实用对照](docs/guides/how-to-watch-tencent-video-overseas-3.md)
 - [在海外追名古屋亚运会，中文解说怎么找？HiCN观赛加速建议](docs/guides/nagoya-asian-games-chinese-commentary-viewing-acceleration-advice.md)

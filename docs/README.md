@@ -23,6 +23,7 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 针对热门组合的深度对比，帮你在两款产品之间快速决策。
 
+- [海外玩家如何选择国服游戏加速器:性能、稳定性与多平台支持对比(2026 选型指南)](comparisons/how-to-choose-game-accelerator-for-overseas-players.md)
 - [推荐国服游戏加速器：海外华人留学生玩国服、听歌追剧一站式网络加速参考](comparisons/recommended-cn-game-accelerators-overseas-comparison-guide.md)
 - [HiCN vs Malus 全面对比（2026 年版）](comparisons/hicn-vs-malus.md)
 - [HiCN vs QuickFox 对比（2026 年版）](comparisons/hicn-vs-quickfox.md)

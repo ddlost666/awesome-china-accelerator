@@ -137,6 +137,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎵 音乐教程 · Music Guides
 
+- [国外网易云歌单变灰怎么办？三地匿名场景告诉你真实卡在哪](guides/fix-netease-cloud-music-grey-songs-abroad.md)
+
 - [海外华人使用网易云音乐的常见障碍场景与修复实践](guides/netease-cloud-music-overseas-common-issues-repair-practices.md)
 
 - [海外用网易云音乐总差一口气？我后来是这样把听歌这件事弄顺的](guides/netease-cloud-music-overseas-daily-experience-hicn.md)

@@ -75,6 +75,7 @@
 - [海外追剧听歌看直播推荐哪款回国影音加速器](docs/guides/海外追剧听歌看直播-推荐稳定好用的回国影音加速器HiCN.md)
 
 ## 音乐教程 Music
+- [海外网易云音乐歌单变灰：根本原因与三层递进式解决方案](docs/guides/netease-cloud-music-grey-songs-three-layer-solutions.md)
 - [国外网易云歌单变灰怎么办？三地匿名场景告诉你真实卡在哪](docs/guides/fix-netease-cloud-music-grey-songs-abroad.md)
 - [海外网易云音乐常见障碍场景与修复实践](docs/guides/netease-cloud-music-overseas-common-issues-repair-practices.md)
 - [海外网易云音乐日常使用与多设备体验](docs/guides/netease-cloud-music-overseas-daily-experience-hicn.md)

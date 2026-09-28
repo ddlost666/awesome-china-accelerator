@@ -89,6 +89,7 @@
 > 数据来源：各产品官网公开信息 + 社区用户反馈整理。完整测评见 [`docs/reviews/`](docs/reviews/)，详细对比见 [`docs/comparisons/`](docs/comparisons/)。
 
 **深度测评与对比：**
+- [推荐国服游戏加速器：海外华人留学生玩国服、听歌追剧一站式网络加速参考](docs/comparisons/recommended-cn-game-accelerators-overseas-comparison-guide.md)
 - [推荐国服游戏加速器:HiCN 体验手记 + 海外华人留学生玩国服、追剧听歌一站式参考](docs/reviews/hicn-game-streaming-music-overseas-user-experience-review.md)
 - [HiCN 回国加速器深度测评（2026 年最新版）](docs/reviews/hicn-deep-review-2026.md) · ⭐ 推荐阅读
 - [Malus 加速器评测（2026 年版）](docs/reviews/malus-review.md)

@@ -204,6 +204,7 @@
 - [汽水音乐海外地区限制怎么解除？HiCN 回国听歌指南](docs/guides/汽水音乐海外地区限制怎么解除-HiCN回国听歌指南.md)
 
 ### 🎮 国服游戏
+- [海外怎么玩《彩虹六号：攻势》国服？从进大厅到稳定开打，这样准备更省心](docs/guides/rainbow-six-siege-cn-server-overseas-preparation-guide.md)
 - [海外玩国服魔兽世界“无限”怎么准备？先把回归艾泽拉斯的网络调顺](docs/guides/wow-infinity-cn-server-overseas-return-network-preparation-guide.md)
 - [海外等魔兽世界“无限”国服，回国加速器怎么选才合适？](docs/guides/how-to-choose-vpn-for-wow-cn-server-overseas.md)
 - [人在海外，和国内好友五排《彩虹六号：攻势》延迟高怎么办？](docs/guides/rainbow-six-siege-wegame-overseas-five-stack-latency-guide.md)

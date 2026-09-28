@@ -195,6 +195,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外怎么玩《彩虹六号：攻势》国服？从进大厅到稳定开打，这样准备更省心](guides/rainbow-six-siege-cn-server-overseas-preparation-guide.md)
+
 - [海外玩国服魔兽世界“无限”怎么准备？先把回归艾泽拉斯的网络调顺](guides/wow-infinity-cn-server-overseas-return-network-preparation-guide.md)
 
 - [海外等魔兽世界“无限”国服，回国加速器怎么选才合适？](guides/how-to-choose-vpn-for-wow-cn-server-overseas.md)

@@ -34,6 +34,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 📺 视频 / 追剧 / 影音教程 · Streaming Guides
 
+- [国外腾讯视频看不了怎么办，用什么回国加速器？海外追剧这样处理](guides/tencent-video-overseas-return-accelerator-troubleshooting-guide.md)
+
 - [国外腾讯视频看不了怎么办？先找准原因，再用HiCN把追剧网络调顺](guides/how-to-fix-tencent-video-loading-issues-abroad.md)
 
 - [海外看腾讯视频的完整方案：从地区限制原理到多平台加速工具对比](guides/how-to-watch-tencent-video-overseas-2.md)

@@ -118,6 +118,7 @@
 ## 分场景完整教程 · Guides by Scenario
 
 ### 📺 视频 / 追剧 / 影音
+- [海外如何解除哔哩哔哩地区限制?2026留学生的 B 站追番手册](docs/guides/bilibili-overseas-region-restriction-2026-student-guide.md)
 - [国外追亚运会这事儿,我把坑都踩了一遍](docs/guides/overseas-asian-games-viewing-network-guide.md)
 - [在国外刷别的都正常，腾讯视频却看不顺？追剧前试试这套办法](docs/guides/tencent-video-overseas-buffering-troubleshooting-guide.md)
 - [国外腾讯视频看不了怎么办，用什么回国加速器？海外追剧这样处理](docs/guides/tencent-video-overseas-return-accelerator-troubleshooting-guide.md)

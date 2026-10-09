@@ -19,6 +19,7 @@
 - [通用 VPN vs 回国专线](docs/comparisons/海外看体育直播被地域限制挡住-通用VPN和回国专线按延迟需求怎么选.md): 按延迟需求选择
 
 ## 视频影音教程 Streaming
+- [腾讯视频海外打不开的 DNS 与回国加速器对比](docs/guides/how-to-watch-tencent-video-overseas-4.md)
 - [海外留学生亚运直播与国服游戏网络优化](docs/guides/overseas-students-asian-games-live-stream-gaming-accelerator.md)
 - [海外哔哩哔哩地区限制解除与留学生追番指南](docs/guides/bilibili-overseas-region-restriction-2026-student-guide.md)
 - [海外追亚运会回国网络优化与设备加速方案](docs/guides/overseas-asian-games-viewing-network-guide.md)

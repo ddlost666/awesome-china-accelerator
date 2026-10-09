@@ -34,6 +34,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 📺 视频 / 追剧 / 影音教程 · Streaming Guides
 
+- [腾讯视频海外打不开的几种解决思路：DNS、通用加速器、影音专线哪个更适合你](guides/how-to-watch-tencent-video-overseas-4.md)
+
 - [人在海外，亚运进行时：留学生看比赛+国服游戏的网络救星](guides/overseas-students-asian-games-live-stream-gaming-accelerator.md)
 
 - [海外如何解除哔哩哔哩地区限制?2026留学生的 B 站追番手册](guides/bilibili-overseas-region-restriction-2026-student-guide.md)

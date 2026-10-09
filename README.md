@@ -118,6 +118,7 @@
 ## 分场景完整教程 · Guides by Scenario
 
 ### 📺 视频 / 追剧 / 影音
+- [腾讯视频海外打不开的几种解决思路：DNS、通用加速器、影音专线哪个更适合你](docs/guides/how-to-watch-tencent-video-overseas-4.md)
 - [人在海外，亚运进行时：留学生看比赛+国服游戏的网络救星](docs/guides/overseas-students-asian-games-live-stream-gaming-accelerator.md)
 - [海外如何解除哔哩哔哩地区限制?2026留学生的 B 站追番手册](docs/guides/bilibili-overseas-region-restriction-2026-student-guide.md)
 - [国外追亚运会这事儿,我把坑都踩了一遍](docs/guides/overseas-asian-games-viewing-network-guide.md)

@@ -213,6 +213,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外魔兽无限服延迟崩了?我换了这个回国加速器才算真的救回来](guides/play-wow-cn-server-overseas-accelerator-recommendation.md)
+
 - [海外玩家怎么用 YY 语音玩国服追剧:HiCN 回国加速器跨平台配置实操手册](guides/yy-voice-cn-games-streaming-hicn-cross-platform-configuration-guide.md)
 
 - [海外怎么玩《彩虹六号：攻势》国服？从进大厅到稳定开打，这样准备更省心](guides/rainbow-six-siege-cn-server-overseas-preparation-guide.md)

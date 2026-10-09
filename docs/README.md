@@ -34,6 +34,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 📺 视频 / 追剧 / 影音教程 · Streaming Guides
 
+- [人在海外，亚运进行时：留学生看比赛+国服游戏的网络救星](guides/overseas-students-asian-games-live-stream-gaming-accelerator.md)
+
 - [海外如何解除哔哩哔哩地区限制?2026留学生的 B 站追番手册](guides/bilibili-overseas-region-restriction-2026-student-guide.md)
 
 - [国外追亚运会这事儿,我把坑都踩了一遍](guides/overseas-asian-games-viewing-network-guide.md)

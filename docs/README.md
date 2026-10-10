@@ -214,6 +214,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩国服《魔兽世界》“无限”用什么回国加速器？开服前选择指南](guides/wow-infinity-cn-server-accelerator-prelaunch-selection-guide.md)
+
 - [海外玩国服三角洲行动延迟高怎么办？从组队和设备开始排查](guides/delta-force-cn-server-team-device-troubleshooting-guide.md)
 
 - [海外玩三角洲行动国服延迟高怎么办？按模式安排网络准备](guides/how-to-fix-high-ping-delta-force-cn-server-overseas.md)

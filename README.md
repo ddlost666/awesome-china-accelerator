@@ -119,6 +119,7 @@
 ## 分场景完整教程 · Guides by Scenario
 
 ### 📺 视频 / 追剧 / 影音
+- [海外如何解除哔哩哔哩地区限制，一份给留学生的问答录](docs/guides/how-to-unblock-bilibili-overseas-2.md)
 - [海外如何解除哔哩哔哩地区限制?一份不绕弯子的避坑笔记](docs/guides/bilibili-overseas-region-restriction-pitfall-notes.md)
 - [国外腾讯视频看不了怎么办？四步自查播放问题](docs/guides/tencent-video-overseas-four-step-playback-troubleshooting-guide.md)
 - [腾讯视频海外打不开的几种解决思路：DNS、通用加速器、影音专线哪个更适合你](docs/guides/how-to-watch-tencent-video-overseas-4.md)

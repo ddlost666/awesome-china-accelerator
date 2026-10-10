@@ -20,6 +20,7 @@
 - [通用 VPN vs 回国专线](docs/comparisons/海外看体育直播被地域限制挡住-通用VPN和回国专线按延迟需求怎么选.md): 按延迟需求选择
 
 ## 视频影音教程 Streaming
+- [海外解除哔哩哔哩地区限制留学生问答录](docs/guides/how-to-unblock-bilibili-overseas-2.md)
 - [海外解除哔哩哔哩地区限制避坑笔记](docs/guides/bilibili-overseas-region-restriction-pitfall-notes.md)
 - [国外腾讯视频播放问题四步自查指南](docs/guides/tencent-video-overseas-four-step-playback-troubleshooting-guide.md)
 - [腾讯视频海外打不开的 DNS 与回国加速器对比](docs/guides/how-to-watch-tencent-video-overseas-4.md)

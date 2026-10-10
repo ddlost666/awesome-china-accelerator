@@ -11,6 +11,7 @@
 - [Malus 加速器评测](docs/reviews/malus-review.md): Malus 回国加速器测评
 
 ## 对比 Comparisons
+- [回国加速器免费试用时长与领取条件对比](docs/comparisons/which-return-to-china-accelerator-supports-free-trial.md): 对比 HiCN、Malus 与 Sixfast 的免费体验方式
 - [海外玩家国服游戏加速器性能、稳定性与多平台支持对比](docs/comparisons/how-to-choose-game-accelerator-for-overseas-players.md): 2026 年国服游戏加速器选型指南
 - [海外国服游戏加速器与多场景网络加速对比指南](docs/comparisons/recommended-cn-game-accelerators-overseas-comparison-guide.md): 对比 HiCN、Sixfast、Malus、QuickFox 与 GoLink 的延迟、稳定性、平台覆盖和场景适配
 - [HiCN vs Malus](docs/comparisons/hicn-vs-malus.md): 两款主流回国加速器全面对比

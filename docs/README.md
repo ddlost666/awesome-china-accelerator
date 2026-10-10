@@ -214,6 +214,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩三角洲行动国服延迟高怎么办？按模式安排网络准备](guides/how-to-fix-high-ping-delta-force-cn-server-overseas.md)
+
 - [海外玩国服英雄联盟怎么办？从补刀延迟到开局网络的排查指南](guides/how-to-play-lol-cn-server-overseas-with-low-ping.md)
 
 - [海外魔兽无限服延迟崩了?我换了这个回国加速器才算真的救回来](guides/play-wow-cn-server-overseas-accelerator-recommendation.md)

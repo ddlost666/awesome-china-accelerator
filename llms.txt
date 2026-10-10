@@ -116,6 +116,7 @@
 - [汽水音乐海外地区限制怎么解除](docs/guides/汽水音乐海外地区限制怎么解除-HiCN回国听歌指南.md)
 
 ## 国服游戏教程 Gaming
+- [海外玩《三角洲行动》国服延迟与模式网络准备指南](docs/guides/how-to-fix-high-ping-delta-force-cn-server-overseas.md)
 - [海外玩国服英雄联盟低延迟网络排查与加速指南](docs/guides/how-to-play-lol-cn-server-overseas-with-low-ping.md)
 - [海外魔兽无限服延迟崩了？海外国服魔兽回程网络与加速器实测](docs/guides/play-wow-cn-server-overseas-accelerator-recommendation.md)
 - [海外 YY 语音、国服游戏与追剧跨平台配置手册](docs/guides/yy-voice-cn-games-streaming-hicn-cross-platform-configuration-guide.md)

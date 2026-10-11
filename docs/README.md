@@ -225,6 +225,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩魔兽世界“无限”国服延迟高、卡顿掉线怎么办？按症状找办法](guides/wow-infinity-cn-server-latency-lag-disconnection-troubleshooting-guide.md)
+
 - [海外玩魔兽世界“无限”国服：排队、掉线、进不去，先看卡在哪一步](guides/how-to-fix-wow-cn-server-login-issues-overseas.md)
 
 - [海外玩国服《魔兽世界》“无限”用什么回国加速器？开服前选择指南](guides/wow-infinity-cn-server-accelerator-prelaunch-selection-guide.md)

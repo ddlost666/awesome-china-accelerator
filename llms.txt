@@ -122,6 +122,7 @@
 - [汽水音乐海外地区限制怎么解除](docs/guides/汽水音乐海外地区限制怎么解除-HiCN回国听歌指南.md)
 
 ## 国服游戏教程 Gaming
+- [海外《魔兽世界》“无限”国服延迟、卡顿与掉线排查指南](docs/guides/wow-infinity-cn-server-latency-lag-disconnection-troubleshooting-guide.md)
 - [海外《魔兽世界》“无限”国服登录、排队与掉线排查指南](docs/guides/how-to-fix-wow-cn-server-login-issues-overseas.md)
 - [海外《魔兽世界》“无限”国服开服前加速器选择指南](docs/guides/wow-infinity-cn-server-accelerator-prelaunch-selection-guide.md)
 - [海外《三角洲行动》国服组队、设备与延迟排查指南](docs/guides/delta-force-cn-server-team-device-troubleshooting-guide.md)

@@ -225,6 +225,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [和平精英低延迟加速器值得买吗？海外玩家选之前，先看这几件事](guides/is-low-ping-accelerator-worth-it-for-pubg-mobile.md)
+
 - [海外玩魔兽世界“无限”国服延迟高、卡顿掉线怎么办？按症状找办法](guides/wow-infinity-cn-server-latency-lag-disconnection-troubleshooting-guide.md)
 
 - [海外玩魔兽世界“无限”国服：排队、掉线、进不去，先看卡在哪一步](guides/how-to-fix-wow-cn-server-login-issues-overseas.md)

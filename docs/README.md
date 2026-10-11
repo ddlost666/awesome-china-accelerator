@@ -36,6 +36,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 📺 视频 / 追剧 / 影音教程 · Streaming Guides
 
+- [海外爱奇艺会员不显示怎么办？先核对账号和续费状态](guides/how-to-fix-iqiyi-vip-not-showing-overseas.md)
+
 - [海外如何解除哔哩哔哩地区限制，一份给留学生的问答录](guides/how-to-unblock-bilibili-overseas-2.md)
 
 - [海外如何解除哔哩哔哩地区限制?一份不绕弯子的避坑笔记](guides/bilibili-overseas-region-restriction-pitfall-notes.md)

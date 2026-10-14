@@ -130,6 +130,7 @@
 - [汽水音乐海外地区限制怎么解除](docs/guides/汽水音乐海外地区限制怎么解除-HiCN回国听歌指南.md)
 
 ## 国服游戏教程 Gaming
+- [海外回归魔兽世界“无限”国服网络准备指南](docs/guides/overseas-wow-infinite-return-network-guide.md)
 - [海外《魔兽世界》无限服高延迟与跨境回程优化指南](docs/guides/how-to-fix-high-ping-in-wow-from-overseas.md)
 - [海外《和平精英》低延迟加速器整局表现评估指南](docs/guides/game-for-peace-low-latency-accelerator-whole-match-guide.md)
 - [海外《和平精英》低延迟加速器试用与选购指南](docs/guides/is-low-ping-accelerator-worth-it-for-pubg-mobile.md)

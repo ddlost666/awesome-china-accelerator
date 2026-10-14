@@ -240,6 +240,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外回归魔兽世界“无限”：想和老朋友玩国服，网络这关怎么过？](guides/overseas-wow-infinite-return-network-guide.md)
+
 - [海外玩魔兽世界无限服延迟高？这篇把延迟优化的门道讲透](guides/how-to-fix-high-ping-in-wow-from-overseas.md)
 
 - [适合玩和平精英的低延迟加速器怎么选？海外玩家先看整局表现](guides/game-for-peace-low-latency-accelerator-whole-match-guide.md)

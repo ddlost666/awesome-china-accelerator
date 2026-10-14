@@ -120,6 +120,7 @@
 ## 分场景完整教程 · Guides by Scenario
 
 ### 📺 视频 / 追剧 / 影音
+- [海外腾讯视频提示地区限制怎么办？从播放提示到顺畅追剧](docs/guides/tencent-video-region-restriction-overseas.md)
 - [海外爱奇艺会员不显示怎么办？先核对账号和续费状态](docs/guides/how-to-fix-iqiyi-vip-not-showing-overseas.md)
 - [海外如何解除哔哩哔哩地区限制，一份给留学生的问答录](docs/guides/how-to-unblock-bilibili-overseas-2.md)
 - [海外如何解除哔哩哔哩地区限制?一份不绕弯子的避坑笔记](docs/guides/bilibili-overseas-region-restriction-pitfall-notes.md)

@@ -121,6 +121,7 @@
 ## 分场景完整教程 · Guides by Scenario
 
 ### 📺 视频 / 追剧 / 影音
+- [国外腾讯视频看不了怎么办？别急着重买会员，先把这几步做好](docs/guides/how-to-watch-tencent-video-abroad.md)
 - [海外如何解除哔哩哔哩地区限制?2026 年 9 月,一份写给新留学生的避坑指南](docs/guides/how-to-unblock-bilibili-overseas-2026-guide.md)
 - [海外使用爱奇艺怎么选版本？设备、账号和字幕设置指南](docs/guides/iqiyi-international-version-guide-for-overseas.md)
 - [海外腾讯视频提示地区限制怎么办？从播放提示到顺畅追剧](docs/guides/tencent-video-region-restriction-overseas.md)

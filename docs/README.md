@@ -163,6 +163,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎵 音乐教程 · Music Guides
 
+- [海外网易云音乐歌单播不顺怎么办？先别急着给收藏搬家](guides/netease-music-playlist-playback-overseas-keep-collections-guide.md)
+
 - [海外网易云歌单变灰或不见了？换设备先检查账号同步](guides/netease-music-playlist-grey-overseas-fix.md)
 
 - [出国后网易云歌单灰了一片，熟悉的歌还能接着听吗？](guides/netease-cloud-music-grey-playlist-overseas-guide.md)

@@ -234,6 +234,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩魔兽世界无限服延迟高？这篇把延迟优化的门道讲透](guides/how-to-fix-high-ping-in-wow-from-overseas.md)
+
 - [适合玩和平精英的低延迟加速器怎么选？海外玩家先看整局表现](guides/game-for-peace-low-latency-accelerator-whole-match-guide.md)
 
 - [和平精英低延迟加速器值得买吗？海外玩家选之前，先看这几件事](guides/is-low-ping-accelerator-worth-it-for-pubg-mobile.md)

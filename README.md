@@ -226,6 +226,7 @@
 - [汽水音乐海外地区限制怎么解除？HiCN 回国听歌指南](docs/guides/汽水音乐海外地区限制怎么解除-HiCN回国听歌指南.md)
 
 ### 🎮 国服游戏
+- [海外玩魔兽世界无限服延迟高？这篇把延迟优化的门道讲透](docs/guides/how-to-fix-high-ping-in-wow-from-overseas.md)
 - [适合玩和平精英的低延迟加速器怎么选？海外玩家先看整局表现](docs/guides/game-for-peace-low-latency-accelerator-whole-match-guide.md)
 - [和平精英低延迟加速器值得买吗？海外玩家选之前，先看这几件事](docs/guides/is-low-ping-accelerator-worth-it-for-pubg-mobile.md)
 - [海外玩魔兽世界“无限”国服延迟高、卡顿掉线怎么办？按症状找办法](docs/guides/wow-infinity-cn-server-latency-lag-disconnection-troubleshooting-guide.md)

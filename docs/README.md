@@ -23,6 +23,7 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 针对热门组合的深度对比，帮你在两款产品之间快速决策。
 
+- [海外回国加速器怎么选才不多花钱？3款推荐与使用成本对比](comparisons/how-to-choose-the-best-vpn-for-returning-to-china.md)
 - [海外回国加速器哪款性价比高？3款产品优劣势对比](comparisons/best-vpn-for-returning-to-china-comparison.md)
 - [哪款回国加速器支持免费试用？先看时长和领取条件](comparisons/which-return-to-china-accelerator-supports-free-trial.md)
 - [海外玩家如何选择国服游戏加速器:性能、稳定性与多平台支持对比(2026 选型指南)](comparisons/how-to-choose-game-accelerator-for-overseas-players.md)

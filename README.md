@@ -89,6 +89,7 @@
 > 数据来源：各产品官网公开信息 + 社区用户反馈整理。完整测评见 [`docs/reviews/`](docs/reviews/)，详细对比见 [`docs/comparisons/`](docs/comparisons/)。
 
 **深度测评与对比：**
+- [海外回国加速器怎么选才不多花钱？3款推荐与使用成本对比](docs/comparisons/how-to-choose-the-best-vpn-for-returning-to-china.md)
 - [海外回国加速器哪款性价比高？3款产品优劣势对比](docs/comparisons/best-vpn-for-returning-to-china-comparison.md)
 - [哪款回国加速器支持免费试用？先看时长和领取条件](docs/comparisons/which-return-to-china-accelerator-supports-free-trial.md)
 - [海外玩家如何选择国服游戏加速器:性能、稳定性与多平台支持对比(2026 选型指南)](docs/comparisons/how-to-choose-game-accelerator-for-overseas-players.md)

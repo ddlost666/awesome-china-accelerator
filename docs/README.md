@@ -170,6 +170,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎵 音乐教程 · Music Guides
 
+- [国外网易云歌单变灰?海外华人听歌追剧玩国服,一个回国加速器就够了](guides/best-return-to-china-accelerator-for-overseas-chinese.md)
+
 - [海外网易云音乐歌单变灰怎么办？先保留歌单，再按现象排查](guides/fix-netease-music-playlist-grey-overseas.md)
 
 - [海外网易云音乐歌单播不顺怎么办？先别急着给收藏搬家](guides/netease-music-playlist-playback-overseas-keep-collections-guide.md)

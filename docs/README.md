@@ -242,6 +242,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩王者荣耀卡460ms,这份避坑笔记帮你少折腾两周](guides/honor-of-kings-460ms-overseas-pitfall-guide.md)
+
 - [适合玩和平精英的低延迟加速器到底长啥样?一个过来人的实测清单](guides/best-low-latency-accelerator-for-game-for-peace-hands-on-checklist.md)
 
 - [海外回归魔兽世界“无限”：想和老朋友玩国服，网络这关怎么过？](guides/overseas-wow-infinite-return-network-guide.md)

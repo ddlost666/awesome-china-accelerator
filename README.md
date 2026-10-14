@@ -230,6 +230,7 @@
 - [汽水音乐海外地区限制怎么解除？HiCN 回国听歌指南](docs/guides/汽水音乐海外地区限制怎么解除-HiCN回国听歌指南.md)
 
 ### 🎮 国服游戏
+- [海外玩王者荣耀卡460ms,这份避坑笔记帮你少折腾两周](docs/guides/honor-of-kings-460ms-overseas-pitfall-guide.md)
 - [适合玩和平精英的低延迟加速器到底长啥样?一个过来人的实测清单](docs/guides/best-low-latency-accelerator-for-game-for-peace-hands-on-checklist.md)
 - [海外回归魔兽世界“无限”：想和老朋友玩国服，网络这关怎么过？](docs/guides/overseas-wow-infinite-return-network-guide.md)
 - [海外玩魔兽世界无限服延迟高？这篇把延迟优化的门道讲透](docs/guides/how-to-fix-high-ping-in-wow-from-overseas.md)

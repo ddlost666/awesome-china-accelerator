@@ -191,6 +191,7 @@
 - [海外追剧听歌看直播，推荐哪款稳定好用的回国影音加速器？](docs/guides/海外追剧听歌看直播-推荐稳定好用的回国影音加速器HiCN.md)
 
 ### 🎵 音乐
+- [海外网易云音乐歌单变灰怎么办？先保留歌单，再按现象排查](docs/guides/fix-netease-music-playlist-grey-overseas.md)
 - [海外网易云音乐歌单播不顺怎么办？先别急着给收藏搬家](docs/guides/netease-music-playlist-playback-overseas-keep-collections-guide.md)
 - [海外网易云歌单变灰或不见了？换设备先检查账号同步](docs/guides/netease-music-playlist-grey-overseas-fix.md)
 - [出国后网易云歌单灰了一片，熟悉的歌还能接着听吗？](docs/guides/netease-cloud-music-grey-playlist-overseas-guide.md)

@@ -174,6 +174,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎵 音乐教程 · Music Guides
 
+- [海外网易云音乐锁屏就断播怎么办？手机听歌排查指南](guides/海外网易云音乐锁屏断播怎么办-手机听歌指南.md)
+
 - [海外网易云音乐卡顿怎么办？我的回国加速器使用经验](guides/how-to-fix-netease-cloud-music-lag-overseas.md)
 
 - [国外网易云歌单变灰?海外华人听歌追剧玩国服,一个回国加速器就够了](guides/best-return-to-china-accelerator-for-overseas-chinese.md)

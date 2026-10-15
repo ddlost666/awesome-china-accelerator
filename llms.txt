@@ -136,6 +136,7 @@
 - [汽水音乐海外地区限制怎么解除](docs/guides/汽水音乐海外地区限制怎么解除-HiCN回国听歌指南.md)
 
 ## 国服游戏教程 Gaming
+- [海外《和平精英》长期加速器选择指南](docs/guides/game-for-peace-long-term-accelerator-overseas-guide.md)
 - [海外《王者荣耀》460ms 延迟避坑与排查指南](docs/guides/honor-of-kings-460ms-overseas-pitfall-guide.md)
 - [和平精英低延迟加速器实测清单](docs/guides/best-low-latency-accelerator-for-game-for-peace-hands-on-checklist.md)
 - [海外回归魔兽世界“无限”国服网络准备指南](docs/guides/overseas-wow-infinite-return-network-guide.md)

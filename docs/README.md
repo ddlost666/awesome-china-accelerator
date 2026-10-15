@@ -251,6 +251,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩和平精英，什么加速器适合长期用？从一次开黑说起](guides/game-for-peace-long-term-accelerator-overseas-guide.md)
+
 - [海外玩王者荣耀卡460ms,这份避坑笔记帮你少折腾两周](guides/honor-of-kings-460ms-overseas-pitfall-guide.md)
 
 - [适合玩和平精英的低延迟加速器到底长啥样?一个过来人的实测清单](guides/best-low-latency-accelerator-for-game-for-peace-hands-on-checklist.md)

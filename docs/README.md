@@ -182,6 +182,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎵 音乐教程 · Music Guides
 
+- [国外网易云歌单变灰怎么办？先别删收藏，把播放问题查清楚](guides/netease-cloud-music-grey-playlist-playback-troubleshooting.md)
+
 - [海外网易云音乐怎么连续听歌？别让背景音乐打断学习和办公](guides/how-to-listen-to-netease-cloud-music-continuously-overseas.md)
 
 - [海外网易云音乐锁屏就断播怎么办？手机听歌排查指南](guides/海外网易云音乐锁屏断播怎么办-手机听歌指南.md)

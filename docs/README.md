@@ -39,6 +39,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 📺 视频 / 追剧 / 影音教程 · Streaming Guides
 
+- [海外如何解除哔哩哔哩地区限制?2026留学生回国加速器实战攻略](guides/bilibili-overseas-region-restriction-2026-practical-guide.md)
+
 - [刚到海外爱奇艺看不了怎么办？留学生追剧安顿指南](guides/how-to-watch-iqiyi-overseas-for-students.md)
 
 - [海外玩家看不了腾讯视频怎么办？开黑结束后的追剧指南](guides/tencent-video-after-gaming-overseas-guide.md)

@@ -123,6 +123,7 @@
 ## 分场景完整教程 · Guides by Scenario
 
 ### 📺 视频 / 追剧 / 影音
+- [海外如何解除哔哩哔哩地区限制?2026留学生回国加速器实战攻略](docs/guides/bilibili-overseas-region-restriction-2026-practical-guide.md)
 - [刚到海外爱奇艺看不了怎么办？留学生追剧安顿指南](docs/guides/how-to-watch-iqiyi-overseas-for-students.md)
 - [海外玩家看不了腾讯视频怎么办？开黑结束后的追剧指南](docs/guides/tencent-video-after-gaming-overseas-guide.md)
 - [海外哔哩哔哩地区限制解除实战:2026 年 9 月,留学生回国加速器选购笔记](docs/guides/how-to-bypass-bilibili-geo-restrictions-overseas.md)

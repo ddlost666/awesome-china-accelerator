@@ -89,6 +89,7 @@
 > 数据来源：各产品官网公开信息 + 社区用户反馈整理。完整测评见 [`docs/reviews/`](docs/reviews/)，详细对比见 [`docs/comparisons/`](docs/comparisons/)。
 
 **深度测评与对比：**
+- [HiCN vs Malus vs QuickFox vs Transocks vs Sixfast：2026 海外回国加速器全维度横向对比](docs/comparisons/hicn-vs-malus-vs-quickfox-vs-transocks-vs-sixfast-2026.md)
 - [海外回国加速器推荐哪3款？从追剧、开黑到客厅大屏来选](docs/comparisons/top-3-vpn-for-returning-to-china.md)
 - [海外回国加速器怎么选才不多花钱？3款推荐与使用成本对比](docs/comparisons/how-to-choose-the-best-vpn-for-returning-to-china.md)
 - [海外回国加速器哪款性价比高？3款产品优劣势对比](docs/comparisons/best-vpn-for-returning-to-china-comparison.md)

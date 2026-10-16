@@ -254,6 +254,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外魔兽无限服党真实日常:ping 280 那段日子,我差点弃坑](guides/wow-infinite-280ms-overseas-player-experience.md)
+
 - [海外玩和平精英，什么加速器适合长期用？从一次开黑说起](guides/game-for-peace-long-term-accelerator-overseas-guide.md)
 
 - [海外玩王者荣耀卡460ms,这份避坑笔记帮你少折腾两周](guides/honor-of-kings-460ms-overseas-pitfall-guide.md)

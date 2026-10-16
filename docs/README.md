@@ -39,6 +39,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 📺 视频 / 追剧 / 影音教程 · Streaming Guides
 
+- [手机能看，电脑却卡？国外腾讯视频看不了，怎样少走弯路](guides/tencent-video-mobile-works-pc-lags-overseas-troubleshooting.md)
+
 - [海外如何解除哔哩哔哩地区限制?2026留学生回国加速器实战攻略](guides/bilibili-overseas-region-restriction-2026-practical-guide.md)
 
 - [刚到海外爱奇艺看不了怎么办？留学生追剧安顿指南](guides/how-to-watch-iqiyi-overseas-for-students.md)

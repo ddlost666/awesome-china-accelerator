@@ -262,6 +262,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外王者460ms飘红:搞清这3件事比换路由器重要10倍](guides/how-to-fix-460ms-ping-for-honor-of-kings-overseas.md)
+
 - [海外魔兽无限服党真实日常:ping 280 那段日子,我差点弃坑](guides/wow-infinite-280ms-overseas-player-experience.md)
 
 - [海外玩和平精英，什么加速器适合长期用？从一次开黑说起](guides/game-for-peace-long-term-accelerator-overseas-guide.md)

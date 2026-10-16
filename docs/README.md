@@ -186,6 +186,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎵 音乐教程 · Music Guides
 
+- [海外如何用网易云音乐更顺？一篇讲透听歌、追剧、玩国服的网络加速选择](guides/netease-music-overseas-multi-scenario-acceleration-guide.md)
+
 - [国外网易云歌单变灰怎么办？先别删收藏，把播放问题查清楚](guides/netease-cloud-music-grey-playlist-playback-troubleshooting.md)
 
 - [海外网易云音乐怎么连续听歌？别让背景音乐打断学习和办公](guides/how-to-listen-to-netease-cloud-music-continuously-overseas.md)

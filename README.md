@@ -125,6 +125,7 @@
 ## 分场景完整教程 · Guides by Scenario
 
 ### 📺 视频 / 追剧 / 影音
+- [海外爱奇艺提示地区限制怎么办？周末连看追剧指南](docs/guides/iqiyi-region-restriction-weekend-binge-watching-guide.md)
 - [海外看腾讯视频被地区限制卡住？我自己用的几种解法（2026 版）](docs/guides/how-to-watch-tencent-video-overseas-5.md)
 - [海外如何解除哔哩哔哩地区限制?2026 年 9 月留学生回国加速器实测分享](docs/guides/how-to-bypass-bilibili-region-restriction-overseas.md)
 - [海外哔哩哔哩地区限制怎么办?这份加速器指南一次帮你搞定](docs/guides/bilibili-overseas-region-restriction-accelerator-guide.md)

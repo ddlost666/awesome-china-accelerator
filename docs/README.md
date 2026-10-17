@@ -277,6 +277,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩国服英雄联盟：留学生宿舍和合租网络使用思路](guides/league-of-legends-cn-overseas-dorm-shared-network-guide.md)
+
 - [海外王者460ms飘红:搞清这3件事比换路由器重要10倍](guides/how-to-fix-460ms-ping-for-honor-of-kings-overseas.md)
 
 - [海外魔兽无限服党真实日常:ping 280 那段日子,我差点弃坑](guides/wow-infinite-280ms-overseas-player-experience.md)

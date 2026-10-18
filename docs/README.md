@@ -281,6 +281,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩国服《魔兽世界》“无限”：卡顿、延迟和掉线要分开处理](guides/海外玩国服魔兽世界无限-卡顿延迟排查指南.md)
+
 - [海外访问国服《三角洲行动》常见网络问题与HiCN兼容性FAQ](guides/delta-force-cn-overseas-network-hicn-compatibility-faq.md)
 
 - [王者荣耀海外党460ms自救:把踩过的坑先讲明白,再谈加速器](guides/honor-of-kings-overseas-460ms-self-rescue-accelerator-guide.md)

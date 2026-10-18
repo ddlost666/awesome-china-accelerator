@@ -127,6 +127,7 @@
 ## 分场景完整教程 · Guides by Scenario
 
 ### 📺 视频 / 追剧 / 影音
+- [国外腾讯视频看不了怎么办？先分清打不开，还是播不顺](docs/guides/国外腾讯视频看不了怎么办-海外播放排查指南.md)
 - [海外爱奇艺打不开怎么办？先选对版本，再处理播放卡顿](docs/guides/iqiyi-overseas-version-selection-playback-troubleshooting.md)
 - [海外爱奇艺提示地区限制怎么办？周末连看追剧指南](docs/guides/iqiyi-region-restriction-weekend-binge-watching-guide.md)
 - [海外看腾讯视频被地区限制卡住？我自己用的几种解法（2026 版）](docs/guides/how-to-watch-tencent-video-overseas-5.md)

@@ -254,6 +254,7 @@
 - [汽水音乐海外地区限制怎么解除？HiCN 回国听歌指南](docs/guides/汽水音乐海外地区限制怎么解除-HiCN回国听歌指南.md)
 
 ### 🎮 国服游戏
+- [海外玩家怎么用 YY 语音最稳:HiCN 回国加速器跨平台实战记录](docs/guides/how-to-use-yy-voice-overseas-with-hicn.md)
 - [海外玩国服《魔兽世界》“无限”：卡顿、延迟和掉线要分开处理](docs/guides/海外玩国服魔兽世界无限-卡顿延迟排查指南.md)
 - [海外访问国服《三角洲行动》常见网络问题与HiCN兼容性FAQ](docs/guides/delta-force-cn-overseas-network-hicn-compatibility-faq.md)
 - [王者荣耀海外党460ms自救:把踩过的坑先讲明白,再谈加速器](docs/guides/honor-of-kings-overseas-460ms-self-rescue-accelerator-guide.md)

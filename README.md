@@ -89,6 +89,7 @@
 > 数据来源：各产品官网公开信息 + 社区用户反馈整理。完整测评见 [`docs/reviews/`](docs/reviews/)，详细对比见 [`docs/comparisons/`](docs/comparisons/)。
 
 **深度测评与对比：**
+- [回国VPN挑花眼？我把2026年自己用过的三款性价比之选掰开讲](docs/comparisons/best-vpn-to-china-2026-review.md)
 - [哪款回国加速器支持免费试用？先弄清“免费”是哪一种](docs/comparisons/hicn-return-accelerator-free-trial-guide.md)
 - [海外回国加速器选型指南：从游戏延迟、视频兼容到办公稳定的三维对比（2026 实测版）](docs/comparisons/overseas-return-accelerator-guide.md)
 - [哪款回国加速器支持免费试用？我的 HiCN 选择笔记](docs/reviews/return-to-china-accelerator-free-trial-hicn-selection-notes.md)

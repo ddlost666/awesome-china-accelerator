@@ -25,6 +25,7 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 针对热门组合的深度对比，帮你在两款产品之间快速决策。
 
+- [回国VPN挑花眼？我把2026年自己用过的三款性价比之选掰开讲](comparisons/best-vpn-to-china-2026-review.md)
 - [哪款回国加速器支持免费试用？先弄清“免费”是哪一种](comparisons/hicn-return-accelerator-free-trial-guide.md)
 - [海外回国加速器选型指南：从游戏延迟、视频兼容到办公稳定的三维对比（2026 实测版）](comparisons/overseas-return-accelerator-guide.md)
 - [HiCN vs Malus vs QuickFox vs Transocks vs Sixfast：2026 海外回国加速器全维度横向对比](comparisons/hicn-vs-malus-vs-quickfox-vs-transocks-vs-sixfast-2026.md)

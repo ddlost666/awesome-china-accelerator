@@ -278,6 +278,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [王者荣耀海外党460ms自救:把踩过的坑先讲明白,再谈加速器](guides/honor-of-kings-overseas-460ms-self-rescue-accelerator-guide.md)
+
 - [海外回归《魔兽世界》“无限”：先约好规则集，再选回国加速器](guides/wow-infinity-overseas-guide-and-accelerator.md)
 
 - [海外玩国服英雄联盟：留学生宿舍和合租网络使用思路](guides/league-of-legends-cn-overseas-dorm-shared-network-guide.md)

@@ -151,6 +151,7 @@
 - [汽水音乐海外地区限制怎么解除](docs/guides/汽水音乐海外地区限制怎么解除-HiCN回国听歌指南.md)
 
 ## 国服游戏教程 Gaming
+- [海外《王者荣耀》460ms 自救与加速器避坑指南](docs/guides/honor-of-kings-overseas-460ms-self-rescue-accelerator-guide.md)
 - [海外回归《魔兽世界》“无限”规则集与回国加速指南](docs/guides/wow-infinity-overseas-guide-and-accelerator.md)
 - [海外国服《英雄联盟》宿舍与合租网络使用指南](docs/guides/league-of-legends-cn-overseas-dorm-shared-network-guide.md)
 - [海外《王者荣耀》460ms 延迟成因与回国加速指南](docs/guides/how-to-fix-460ms-ping-for-honor-of-kings-overseas.md)

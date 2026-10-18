@@ -289,6 +289,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩原神国服卡顿怎么办？留学生实测降低延迟的游戏加速方案](guides/genshin-cn-server-overseas-lag-student-low-latency-guide.md)
+
 - [降低国服游戏Ping值用什么软件？海外玩家游戏加速选择指南](guides/reduce-cn-game-ping-software-overseas-player-selection-guide.md)
 
 - [海外玩家怎么用 YY 语音最稳:HiCN 回国加速器跨平台实战记录](guides/how-to-use-yy-voice-overseas-with-hicn.md)

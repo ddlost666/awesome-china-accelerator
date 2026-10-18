@@ -209,6 +209,7 @@
 - [海外追剧听歌看直播，推荐哪款稳定好用的回国影音加速器？](docs/guides/海外追剧听歌看直播-推荐稳定好用的回国影音加速器HiCN.md)
 
 ### 🎵 音乐
+- [海外用网易云音乐老是差点意思？很多人最后卡在的其实不是歌](docs/guides/netease-music-overseas-whole-experience-network-guide.md)
 - [海外听网易云音乐总是不顺？换个思路把听歌、追剧和国服一起理顺](docs/guides/overseas-netease-cloud-music-accelerator.md)
 - [海外如何用网易云音乐更顺？一篇讲透听歌、追剧、玩国服的网络加速选择](docs/guides/netease-music-overseas-multi-scenario-acceleration-guide.md)
 - [国外网易云歌单变灰怎么办？先别删收藏，把播放问题查清楚](docs/guides/netease-cloud-music-grey-playlist-playback-troubleshooting.md)

@@ -127,6 +127,7 @@
 ## 分场景完整教程 · Guides by Scenario
 
 ### 📺 视频 / 追剧 / 影音
+- [海外如何解除哔哩哔哩地区限制?写给即将出国的你,一份不踩坑手册](docs/guides/bilibili-overseas-region-restriction-study-abroad-letter-guide.md)
 - [国外腾讯视频看不了怎么办？先分清打不开，还是播不顺](docs/guides/国外腾讯视频看不了怎么办-海外播放排查指南.md)
 - [海外爱奇艺打不开怎么办？先选对版本，再处理播放卡顿](docs/guides/iqiyi-overseas-version-selection-playback-troubleshooting.md)
 - [海外爱奇艺提示地区限制怎么办？周末连看追剧指南](docs/guides/iqiyi-region-restriction-weekend-binge-watching-guide.md)

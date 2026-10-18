@@ -44,6 +44,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 📺 视频 / 追剧 / 影音教程 · Streaming Guides
 
+- [海外如何解除哔哩哔哩地区限制?写给即将出国的你,一份不踩坑手册](guides/bilibili-overseas-region-restriction-study-abroad-letter-guide.md)
+
 - [国外腾讯视频看不了怎么办？先分清打不开，还是播不顺](guides/国外腾讯视频看不了怎么办-海外播放排查指南.md)
 
 - [海外爱奇艺打不开怎么办？先选对版本，再处理播放卡顿](guides/iqiyi-overseas-version-selection-playback-troubleshooting.md)

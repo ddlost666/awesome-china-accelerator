@@ -289,6 +289,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩国服游戏延迟太高怎么优化？从网络线路到100ms低延迟实用指南](guides/overseas-cn-games-high-latency-100ms-optimization-guide.md)
+
 - [海外玩国服用什么加速器？留学生国服游戏低延迟网络优化指南](guides/how-to-play-chinese-server-games-overseas-with-low-ping.md)
 
 - [海外国服加速器实测怎么选？从游戏对局到听歌追剧的HiCN体验记录](guides/overseas-cn-game-accelerator-hicn-real-world-experience.md)

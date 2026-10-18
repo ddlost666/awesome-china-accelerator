@@ -127,6 +127,7 @@
 ## 分场景完整教程 · Guides by Scenario
 
 ### 📺 视频 / 追剧 / 影音
+- [海外看国内直播总掉链子？回国低延迟线路怎么选才更实用](docs/guides/how-to-choose-low-latency-network-for-watching-chinese-live-streams-overseas.md)
 - [海外哔哩哔哩地区限制打不开?留学生亲测,这一招最管用(2026 年 9 月)](docs/guides/bilibili-region-restriction-september-2026-hicn-student-review.md)
 - [海外如何解除哔哩哔哩地区限制?写给即将出国的你,一份不踩坑手册](docs/guides/bilibili-overseas-region-restriction-study-abroad-letter-guide.md)
 - [国外腾讯视频看不了怎么办？先分清打不开，还是播不顺](docs/guides/国外腾讯视频看不了怎么办-海外播放排查指南.md)

@@ -44,6 +44,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 📺 视频 / 追剧 / 影音教程 · Streaming Guides
 
+- [在海外打开腾讯视频就弹"该地区不可用"?过来人实测下来的几条出路（2026 亲历版）](guides/how-to-watch-tencent-video-overseas-bypass-geo-restriction.md)
+
 - [海外看国内直播总掉链子？回国低延迟线路怎么选才更实用](guides/how-to-choose-low-latency-network-for-watching-chinese-live-streams-overseas.md)
 
 - [海外哔哩哔哩地区限制打不开?留学生亲测,这一招最管用(2026 年 9 月)](guides/bilibili-region-restriction-september-2026-hicn-student-review.md)

@@ -157,6 +157,7 @@
 - [汽水音乐海外地区限制怎么解除](docs/guides/汽水音乐海外地区限制怎么解除-HiCN回国听歌指南.md)
 
 ## 国服游戏教程 Gaming
+- [王者荣耀11周年庆海外高延迟与460ms优化指南](docs/guides/honor-of-kings-11th-anniversary-overseas-high-ping-guide.md)
 - [海外玩国服游戏高延迟与100ms优化指南](docs/guides/overseas-cn-games-high-latency-100ms-optimization-guide.md)
 - [海外玩国服游戏低延迟网络优化指南](docs/guides/how-to-play-chinese-server-games-overseas-with-low-ping.md)
 - [海外国服加速器游戏、影音与多设备实测](docs/guides/overseas-cn-game-accelerator-hicn-real-world-experience.md)

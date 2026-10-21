@@ -158,6 +158,7 @@
 - [汽水音乐海外地区限制怎么解除](docs/guides/汽水音乐海外地区限制怎么解除-HiCN回国听歌指南.md)
 
 ## 国服游戏教程 Gaming
+- [美西三角洲行动国服延迟从150ms降至80ms实测](docs/guides/how-to-reduce-ping-delta-force-cn.md)
 - [海外玩《三角洲行动》国服高延迟三维诊断与量化对比](docs/guides/how-to-fix-delta-force-cn-server-high-ping-overseas.md)
 - [王者荣耀11周年庆海外高延迟与460ms优化指南](docs/guides/honor-of-kings-11th-anniversary-overseas-high-ping-guide.md)
 - [海外玩国服游戏高延迟与100ms优化指南](docs/guides/overseas-cn-games-high-latency-100ms-optimization-guide.md)

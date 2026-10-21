@@ -257,6 +257,7 @@
 - [汽水音乐海外地区限制怎么解除？HiCN 回国听歌指南](docs/guides/汽水音乐海外地区限制怎么解除-HiCN回国听歌指南.md)
 
 ### 🎮 国服游戏
+- [海外手机玩国服三角洲行动延迟高怎么办？移动端排查指南](docs/guides/delta-force-cn-mobile-overseas-latency-troubleshooting-guide.md)
 - [海外玩国服英雄联盟，和国内朋友开黑前要准备什么？](docs/guides/league-of-legends-cn-overseas-cross-time-zone-team-up-guide.md)
 - [在美国打三角洲行动国服,我把延迟从150压到80ms都做对了什么](docs/guides/how-to-reduce-ping-delta-force-cn.md)
 - [海外玩《三角洲行动》国服的延迟问题根源与分层解决方案：三维度诊断与加速器量化对比](docs/guides/how-to-fix-delta-force-cn-server-high-ping-overseas.md)

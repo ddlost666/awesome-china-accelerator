@@ -291,6 +291,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩国服英雄联盟，和国内朋友开黑前要准备什么？](guides/league-of-legends-cn-overseas-cross-time-zone-team-up-guide.md)
+
 - [在美国打三角洲行动国服,我把延迟从150压到80ms都做对了什么](guides/how-to-reduce-ping-delta-force-cn.md)
 
 - [海外玩《三角洲行动》国服的延迟问题根源与分层解决方案：三维度诊断与加速器量化对比](guides/how-to-fix-delta-force-cn-server-high-ping-overseas.md)

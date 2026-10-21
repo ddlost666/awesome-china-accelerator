@@ -289,6 +289,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩《三角洲行动》国服的延迟问题根源与分层解决方案：三维度诊断与加速器量化对比](guides/how-to-fix-delta-force-cn-server-high-ping-overseas.md)
+
 - [王者荣耀11周年庆,海外党如何不在460ms里错过限定皮肤?](guides/honor-of-kings-11th-anniversary-overseas-high-ping-guide.md)
 
 - [海外玩国服游戏延迟太高怎么优化？从网络线路到100ms低延迟实用指南](guides/overseas-cn-games-high-latency-100ms-optimization-guide.md)

@@ -28,6 +28,7 @@
 - [通用 VPN vs 回国专线](docs/comparisons/海外看体育直播被地域限制挡住-通用VPN和回国专线按延迟需求怎么选.md): 按延迟需求选择
 
 ## 视频影音教程 Streaming
+- [海外腾讯视频从 DNS 到影音专线的实测记录](docs/guides/tencent-video-overseas-dns-to-streaming-dedicated-line-experience.md)
 - [海外腾讯视频地区不可用与多平台观看方案](docs/guides/how-to-watch-tencent-video-overseas-bypass-geo-restriction.md)
 - [海外看国内直播的低延迟回国线路选择指南](docs/guides/how-to-choose-low-latency-network-for-watching-chinese-live-streams-overseas.md)
 - [2026 年 9 月海外哔哩哔哩地区限制留学生实测](docs/guides/bilibili-region-restriction-september-2026-hicn-student-review.md)

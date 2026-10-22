@@ -398,6 +398,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 - [海外想玩国服《魔兽世界：无限》？别等进本才发现网络不对劲](guides/wow-infinite-overseas-dungeon-network-preparation-guide.md)
 
+- [海外玩魔兽世界“无限”国服：和国内队友玩到一起，先对齐这几个选择](guides/wow-infinity-cn-server-overseas-team-up-guide.md)
+
 - [人在海外想回归《魔兽世界：无限》？国服网络先这样调，开荒会省心很多](guides/wow-infinite-cn-server-overseas-network-optimization-guide.md)
 
 - [人在海外玩《王者万象棋》总觉得不顺？国服网络这样调整会舒服很多](guides/wangzhe-wanxiangqi-overseas-smooth-network-adjustment-guide.md)

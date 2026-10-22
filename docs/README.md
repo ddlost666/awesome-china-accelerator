@@ -88,7 +88,7 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 - [海外如何解除哔哩哔哩地区限制，一份给留学生的问答录](guides/how-to-unblock-bilibili-overseas-2.md)
 
-- [海外如何解除哔哩哔哩地区限制?一份不绕弯子的避坑笔记](guides/bilibili-overseas-region-restriction-pitfall-notes.md)
+- [海外如何解除哔哩哔哩地区限制?过来人的一份絮叨](guides/bilibili-overseas-region-restriction-pitfall-notes.md)
 
 - [国外腾讯视频看不了怎么办？四步自查播放问题](guides/tencent-video-overseas-four-step-playback-troubleshooting-guide.md)
 

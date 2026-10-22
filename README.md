@@ -149,7 +149,7 @@
 - [海外腾讯视频提示地区限制怎么办？从播放提示到顺畅追剧](docs/guides/tencent-video-region-restriction-overseas.md)
 - [海外爱奇艺会员不显示怎么办？先核对账号和续费状态](docs/guides/how-to-fix-iqiyi-vip-not-showing-overseas.md)
 - [海外如何解除哔哩哔哩地区限制，一份给留学生的问答录](docs/guides/how-to-unblock-bilibili-overseas-2.md)
-- [海外如何解除哔哩哔哩地区限制?一份不绕弯子的避坑笔记](docs/guides/bilibili-overseas-region-restriction-pitfall-notes.md)
+- [海外如何解除哔哩哔哩地区限制?过来人的一份絮叨](docs/guides/bilibili-overseas-region-restriction-pitfall-notes.md)
 - [国外腾讯视频看不了怎么办？四步自查播放问题](docs/guides/tencent-video-overseas-four-step-playback-troubleshooting-guide.md)
 - [腾讯视频海外打不开的几种解决思路：DNS、通用加速器、影音专线哪个更适合你](docs/guides/how-to-watch-tencent-video-overseas-4.md)
 - [人在海外，亚运进行时：留学生看比赛+国服游戏的网络救星](docs/guides/overseas-students-asian-games-live-stream-gaming-accelerator.md)

@@ -255,6 +255,7 @@
 - [海外网易云音乐变灰、提示"地区限制"怎么解除？2026 最省心的办法](docs/guides/海外网易云音乐变灰提示地区限制怎么解除-HiCN回国听歌指南.md)
 - [海外用网易云音乐，歌老是变灰、缓冲转圈？这份“回国听歌”傻瓜指南请收好](docs/guides/netease-music-overseas-access-guide.md)
 - [海外网易云音乐频繁卡顿、变灰、评论区空白？回国加速器选型与网络优化全攻略（2026）](docs/guides/overseas-netease-music-lag-grey-comments-accelerator-guide-2026.md)
+- [海外怎么解除网易云音乐地区限制？别急着折腾，先把思路理顺](docs/guides/netease-cloud-music-region-restriction-overseas.md)
 - [汽水音乐海外地区限制怎么解除？HiCN 回国听歌指南](docs/guides/汽水音乐海外地区限制怎么解除-HiCN回国听歌指南.md)
 
 ### 🎮 国服游戏

@@ -397,6 +397,7 @@
 - [人在海外怎么看名古屋亚运会中文解说？观赛前先把网络这一步弄顺](docs/guides/nagoya-asian-games-chinese-commentary-preparation-network-guide.md)
 - [海外看 CCTV5 / 腾讯体育 / 咪咕的 8 个真实问题,这一篇讲清楚](docs/guides/overseas-cctv5-tencent-sports-migu-eight-questions.md)
 - [给海外球迷的体育直播工具箱：CCTV5、腾讯体育、咪咕视频怎么选才不踩坑](docs/guides/sports-live-streaming-toolkit-cctv5-tencent-migu.md)
+- [海外看球怎样少些等待？用HiCN连接熟悉的体育与娱乐日常](docs/guides/hicn-accelerator-for-overseas-sports-and-entertainment.md)
 - [国外看咪咕视频直播不流畅怎么办？海外影音网络优化与HiCN使用攻略](docs/guides/migu-video-live-overseas-streaming-network-optimization-guide.md)
 - [在洛杉矶看 CBA 决赛:一个海外党连续 3 年的踩坑实录和修好的方法](docs/guides/los-angeles-cba-finals-three-year-troubleshooting-experience.md)
 - [在海外看国内体育直播，到底怎么才不卡？2026 实操手册](docs/guides/watch-chinese-sports-live-abroad-2026-practical-guide.md)

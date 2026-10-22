@@ -548,6 +548,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 - [给海外球迷的体育直播工具箱：CCTV5、腾讯体育、咪咕视频怎么选才不踩坑](guides/sports-live-streaming-toolkit-cctv5-tencent-migu.md)
 
+- [海外看球怎样少些等待？用HiCN连接熟悉的体育与娱乐日常](guides/hicn-accelerator-for-overseas-sports-and-entertainment.md)
+
 - [国外看咪咕视频直播不流畅怎么办？海外影音网络优化与HiCN使用攻略](guides/migu-video-live-overseas-streaming-network-optimization-guide.md)
 
 海外看世界杯、CCTV5、咪咕、腾讯体育中文解说直播的回国方案。

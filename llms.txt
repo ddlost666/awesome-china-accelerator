@@ -287,6 +287,7 @@
 - [海外玩国服游戏低延迟加速器推荐](docs/guides/海外玩国服游戏低延迟加速器推荐-HiCN回国开黑指南.md)
 - [海外玩国服游戏怎么选低延迟加速器](docs/guides/海外玩国服游戏怎么选低延迟加速器-回国开黑选购清单2026.md)
 - [海外玩家怎么用YY语音开黑](docs/guides/海外玩家怎么用YY语音-HiCN国服开黑语音加速教程.md)
+- [海外YY语音稳定使用与开黑卡顿优化指南](docs/guides/yy-voice-overseas-stability-and-lag-optimization-guide.md)
 
 ## 体育直播教程 Sports
 - [海外看名古屋亚运会中文直播缓冲与HiCN加速指南](docs/guides/nagoya-asian-games-chinese-live-buffering-hicn-guide.md)

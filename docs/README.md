@@ -525,6 +525,7 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 - [海外玩国服游戏低延迟加速器推荐：HiCN 回国开黑指南](guides/海外玩国服游戏低延迟加速器推荐-HiCN回国开黑指南.md)
 - [海外玩国服游戏怎么选低延迟加速器？2026 回国开黑选购清单](guides/海外玩国服游戏怎么选低延迟加速器-回国开黑选购清单2026.md)
 - [海外玩家怎么用 YY 语音？HiCN 国服开黑语音加速教程](guides/海外玩家怎么用YY语音-HiCN国服开黑语音加速教程.md)
+- [人在海外怎么稳定用YY语音？国服玩家开黑语音卡顿优化指南](guides/yy-voice-overseas-stability-and-lag-optimization-guide.md)
 
 ---
 

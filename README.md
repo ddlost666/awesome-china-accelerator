@@ -162,6 +162,7 @@
 - [国外腾讯视频看不了怎么办？一份从原理到选型的实用对照](docs/guides/how-to-watch-tencent-video-overseas-3.md)
 - [在海外追名古屋亚运会，中文解说怎么找？HiCN观赛加速建议](docs/guides/nagoya-asian-games-chinese-commentary-viewing-acceleration-advice.md)
 - [国外看腾讯视频总被打断？想好好追完一集，可以从这里开始](docs/guides/tencent-video-overseas-interrupted-playback-hicn-guide.md)
+- [回国加速器国外腾讯视频晚上看不了怎么办？白天正常，晚上缓冲怎么处理](docs/guides/tencent-video-buffering-at-night-overseas-solution.md)
 - [海外看名古屋亚运会中文解说总卡？华人留学生观赛网络优化指南](docs/guides/nagoya-asian-games-chinese-commentary-buffering-network-optimization-guide.md)
 - [海外看名古屋亚运会中文解说怎么更顺？华人留学生观赛网络优化指南](docs/guides/nagoya-asian-games-chinese-commentary-overseas-network-optimization-guide.md)
 - [海外看国内体育直播总是卡？回国加速器网络优化实用指南](docs/guides/overseas-chinese-sports-live-streaming-return-accelerator-network-optimization-guide.md)

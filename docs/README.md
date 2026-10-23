@@ -557,6 +557,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 - [海外如何流畅观看国内体育赛事直播？从看球到国服游戏，HiCN这样用更省心](guides/overseas-sports-live-streaming-games-entertainment-hicn-guide.md)
 
+- [海外看体育直播有地域提示怎么办？客厅观赛聚会准备指南](guides/how-to-watch-sports-live-streams-overseas.md)
+
 - [国外看咪咕视频直播不流畅怎么办？海外影音网络优化与HiCN使用攻略](guides/migu-video-live-overseas-streaming-network-optimization-guide.md)
 
 海外看世界杯、CCTV5、咪咕、腾讯体育中文解说直播的回国方案。

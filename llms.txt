@@ -291,6 +291,7 @@
 - [海外YY语音稳定使用与开黑卡顿优化指南](docs/guides/yy-voice-overseas-stability-and-lag-optimization-guide.md)
 - [海外YY语音开黑卡顿与网络优化实用指南](docs/guides/how-to-fix-yy-voice-lag-for-overseas-gamers.md)
 - [海外王者荣耀团战卡顿与跳延迟处理指南](docs/guides/honor-of-kings-overseas-teamfight-lag-and-ping-spikes-guide.md)
+- [海外国服三角洲行动整局连接稳定性指南](docs/guides/delta-force-cn-overseas-session-stability-guide.md)
 
 ## 体育直播教程 Sports
 - [海外看名古屋亚运会中文直播缓冲与HiCN加速指南](docs/guides/nagoya-asian-games-chinese-live-buffering-hicn-guide.md)

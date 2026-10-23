@@ -529,6 +529,7 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 - [人在海外怎么稳定用YY语音？国服玩家开黑语音卡顿优化指南](guides/yy-voice-overseas-stability-and-lag-optimization-guide.md)
 - [海外玩家怎么用YY语音？国服开黑语音卡顿与网络优化实用指南](guides/how-to-fix-yy-voice-lag-for-overseas-gamers.md)
 - [海外玩王者荣耀延迟高怎么办？先解决团战突然卡和跳延迟](guides/honor-of-kings-overseas-teamfight-lag-and-ping-spikes-guide.md)
+- [回国加速器海外玩国服三角洲行动延迟高怎么办？别等背包装满，才发现连接不稳](guides/delta-force-cn-overseas-session-stability-guide.md)
 
 ---
 

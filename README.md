@@ -127,6 +127,7 @@
 ## 分场景完整教程 · Guides by Scenario
 
 ### 📺 视频 / 追剧 / 影音
+- [国外腾讯视频看不了怎么办？预告能看、正片不行的处理方法](docs/guides/how-to-watch-tencent-video-abroad-2.md)
 - [腾讯视频海外看不了的真实折腾记录：从 DNS 到影音专线，我最后选了哪个](docs/guides/tencent-video-overseas-dns-to-streaming-dedicated-line-experience.md)
 - [在海外打开腾讯视频就弹"该地区不可用"?过来人实测下来的几条出路（2026 亲历版）](docs/guides/how-to-watch-tencent-video-overseas-bypass-geo-restriction.md)
 - [海外看国内直播总掉链子？回国低延迟线路怎么选才更实用](docs/guides/how-to-choose-low-latency-network-for-watching-chinese-live-streams-overseas.md)

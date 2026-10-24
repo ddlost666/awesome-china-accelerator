@@ -78,6 +78,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 - [国外腾讯视频看不了怎么办？别急着重买会员，先把这几步做好](guides/how-to-watch-tencent-video-abroad.md)
 
+- [国外腾讯视频看不了怎么办？预告能看、正片不行的处理方法](guides/how-to-watch-tencent-video-abroad-2.md)
+
 - [海外如何解除哔哩哔哩地区限制?2026 年 9 月,一份写给新留学生的避坑指南](guides/how-to-unblock-bilibili-overseas-2026-guide.md)
 
 - [海外使用爱奇艺怎么选版本？设备、账号和字幕设置指南](guides/iqiyi-international-version-guide-for-overseas.md)

@@ -127,6 +127,7 @@
 ## 分场景完整教程 · Guides by Scenario
 
 ### 📺 视频 / 追剧 / 影音
+- [腾讯视频海外看不了，我替你把三条路都蹚了一遍](docs/guides/how-to-watch-tencent-video-abroad-3.md)
 - [国外腾讯视频换设备看不了怎么办？手机、电脑与大屏追剧指南](docs/guides/tencent-video-multi-device-overseas-viewing-guide.md)
 - [海外哔哩哔哩提示地区限制怎么办？收藏教程与长视频使用指南](docs/guides/bilibili-region-restriction-guide-overseas.md)
 - [国外腾讯视频看不了怎么办？预告能看、正片不行的处理方法](docs/guides/how-to-watch-tencent-video-abroad-2.md)

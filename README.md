@@ -127,6 +127,7 @@
 ## 分场景完整教程 · Guides by Scenario
 
 ### 📺 视频 / 追剧 / 影音
+- [海外哔哩哔哩提示地区限制怎么办？收藏教程与长视频使用指南](docs/guides/bilibili-region-restriction-guide-overseas.md)
 - [国外腾讯视频看不了怎么办？预告能看、正片不行的处理方法](docs/guides/how-to-watch-tencent-video-abroad-2.md)
 - [腾讯视频海外看不了的真实折腾记录：从 DNS 到影音专线，我最后选了哪个](docs/guides/tencent-video-overseas-dns-to-streaming-dedicated-line-experience.md)
 - [在海外打开腾讯视频就弹"该地区不可用"?过来人实测下来的几条出路（2026 亲历版）](docs/guides/how-to-watch-tencent-video-overseas-bypass-geo-restriction.md)

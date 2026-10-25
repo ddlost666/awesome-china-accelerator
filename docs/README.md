@@ -313,6 +313,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩国服加速器怎么选？海外华人和留学生游戏、听歌追剧网络优化指南](guides/how-to-choose-game-accelerator-for-overseas-chinese.md)
+
 - [海外玩《原神》国服Ping太高？从跑图到联机的HiCN网络加速实用指南](guides/genshin-impact-cn-server-ping-running-coop-hicn-guide.md)
 
 - [适合海外玩和平精英的低延迟加速器怎么选？HiCN游戏网络优化指南](guides/game-for-peace-overseas-low-latency-accelerator-guide.md)

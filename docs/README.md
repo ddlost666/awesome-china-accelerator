@@ -309,6 +309,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [适合海外玩和平精英的低延迟加速器怎么选？HiCN游戏网络优化指南](guides/game-for-peace-overseas-low-latency-accelerator-guide.md)
+
 - [回国加速器海外玩国服魔兽世界“无限”：下班后的两个小时，怎么留给艾泽拉斯？](guides/play-wow-infinity-cn-server-overseas-guide.md)
 
 - [海外玩王者荣耀延迟高怎么办？换手机、升宽带前先看这里](guides/honor-of-kings-overseas-device-broadband-latency-guide.md)

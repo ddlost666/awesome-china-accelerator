@@ -44,6 +44,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 📺 视频 / 追剧 / 影音教程 · Streaming Guides
 
+- [海外看哔哩哔哩卡顿怎么办？华人留学生回国网络加速实用指南](guides/bilibili-overseas-lag-return-network-acceleration-guide.md)
+
 - [海外哔哩哔哩直播看不了怎么办？画面、弹幕与互动使用指南](guides/bilibili-live-stream-overseas-viewing-guide.md)
 
 - [国外腾讯视频看不了怎么办？帮爸妈设置省心追剧的方法](guides/tencent-video-family-setup-overseas-guide.md)

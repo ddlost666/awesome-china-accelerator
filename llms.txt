@@ -302,6 +302,7 @@
 - [海外国服三角洲行动整局连接稳定性指南](docs/guides/delta-force-cn-overseas-session-stability-guide.md)
 
 ## 体育直播教程 Sports
+- [海外体育直播地域限制与单场观赛付费选择指南](docs/guides/overseas-sports-live-single-match-purchase-guide.md)
 - [海外看名古屋亚运会中文直播缓冲与HiCN加速指南](docs/guides/nagoya-asian-games-chinese-live-buffering-hicn-guide.md)
 - [海外看名古屋亚运会中文解说直播入口与网络准备](docs/guides/watch-nagoya-asian-games-chinese-commentary-overseas.md)
 - [海外看名古屋亚运会中文解说与HiCN观赛日常加速指南](docs/guides/how-to-watch-nagoya-asian-games-chinese-commentary-overseas-2.md)

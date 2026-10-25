@@ -401,6 +401,7 @@
 - [回国加速器海外玩国服三角洲行动延迟高怎么办？别等背包装满，才发现连接不稳](docs/guides/delta-force-cn-overseas-session-stability-guide.md)
 
 ### 🏆 体育 / 世界杯 / 直播
+- [海外看体育直播有地域限制怎么办？只为一场比赛付费前先看这篇](docs/guides/overseas-sports-live-single-match-purchase-guide.md)
 - [海外看名古屋亚运会，中文直播总缓冲？HiCN回国加速器这样用](docs/guides/nagoya-asian-games-chinese-live-buffering-hicn-guide.md)
 - [海外怎么看名古屋亚运会中文解说？先找对直播，再把网络安排好](docs/guides/watch-nagoya-asian-games-chinese-commentary-overseas.md)
 - [海外看名古屋亚运会中文解说解决办法：HiCN观赛与日常加速指南](docs/guides/how-to-watch-nagoya-asian-games-chinese-commentary-overseas-2.md)

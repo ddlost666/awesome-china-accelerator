@@ -551,6 +551,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🏆 体育 / 世界杯 / 直播教程 · Sports & Live Guides
 
+- [海外看体育直播有地域限制怎么办？只为一场比赛付费前先看这篇](guides/overseas-sports-live-single-match-purchase-guide.md)
+
 - [海外看名古屋亚运会，中文直播总缓冲？HiCN回国加速器这样用](guides/nagoya-asian-games-chinese-live-buffering-hicn-guide.md)
 
 - [海外怎么看名古屋亚运会中文解说？先找对直播，再把网络安排好](guides/watch-nagoya-asian-games-chinese-commentary-overseas.md)

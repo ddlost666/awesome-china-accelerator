@@ -44,6 +44,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 📺 视频 / 追剧 / 影音教程 · Streaming Guides
 
+- [国外腾讯视频看不了怎么办？帮爸妈设置省心追剧的方法](guides/tencent-video-family-setup-overseas-guide.md)
+
 - [腾讯视频海外看不了，我替你把三条路都蹚了一遍](guides/how-to-watch-tencent-video-abroad-3.md)
 
 - [国外腾讯视频换设备看不了怎么办？手机、电脑与大屏追剧指南](guides/tencent-video-multi-device-overseas-viewing-guide.md)

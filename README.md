@@ -265,6 +265,7 @@
 - [汽水音乐海外地区限制怎么解除？HiCN 回国听歌指南](docs/guides/汽水音乐海外地区限制怎么解除-HiCN回国听歌指南.md)
 
 ### 🎮 国服游戏
+- [回国加速器海外玩国服魔兽世界“无限”：下班后的两个小时，怎么留给艾泽拉斯？](docs/guides/play-wow-infinity-cn-server-overseas-guide.md)
 - [海外玩王者荣耀延迟高怎么办？换手机、升宽带前先看这里](docs/guides/honor-of-kings-overseas-device-broadband-latency-guide.md)
 - [海外手机玩国服三角洲行动延迟高怎么办？移动端排查指南](docs/guides/delta-force-cn-mobile-overseas-latency-troubleshooting-guide.md)
 - [海外玩国服英雄联盟，和国内朋友开黑前要准备什么？](docs/guides/league-of-legends-cn-overseas-cross-time-zone-team-up-guide.md)

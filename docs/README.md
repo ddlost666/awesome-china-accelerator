@@ -313,6 +313,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [回国加速器海外玩国服魔兽世界“无限”：测试快结束了，哪些准备值得留下？](guides/play-wow-china-server-overseas-guide.md)
+
 - [海外玩国服加速器怎么选？海外华人和留学生游戏、听歌追剧网络优化指南](guides/how-to-choose-game-accelerator-for-overseas-chinese.md)
 
 - [海外玩《原神》国服Ping太高？从跑图到联机的HiCN网络加速实用指南](guides/genshin-impact-cn-server-ping-running-coop-hicn-guide.md)

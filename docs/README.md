@@ -44,6 +44,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 📺 视频 / 追剧 / 影音教程 · Streaming Guides
 
+- [海外看腾讯视频总是卡？华人留学生回国加速器实用指南](guides/tencent-video-overseas-playback-stability-guide.md)
+
 - [国外看咪咕视频直播卡顿怎么办？海外华人回国加速器使用指南](guides/how-to-fix-migu-video-lag-overseas.md)
 
 - [海外腾讯视频地区限制怎么绕?一年踩坑下来的几条路（2026 亲历版）](guides/how-to-bypass-tencent-video-geo-restriction-overseas.md)

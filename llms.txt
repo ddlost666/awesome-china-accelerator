@@ -130,6 +130,7 @@
 - [海外追剧听歌看直播推荐哪款回国影音加速器](docs/guides/海外追剧听歌看直播-推荐稳定好用的回国影音加速器HiCN.md)
 
 ## 音乐教程 Music
+- [海外网易云音乐加载慢与回国网络优化指南](docs/guides/netease-cloud-music-loading-slow-overseas-network-optimization-guide.md)
 - [海外网易云音乐播放与国内音乐网络优化攻略](docs/guides/netease-cloud-music-overseas-playback-network-optimization-guide.md)
 - [海外网易云音乐与多设备回国网络整体体验指南](docs/guides/netease-music-overseas-whole-experience-network-guide.md)
 - [海外网易云音乐、追剧与国服多场景网络优化](docs/guides/overseas-netease-cloud-music-accelerator.md)

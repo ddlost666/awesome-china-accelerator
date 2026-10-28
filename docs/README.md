@@ -44,6 +44,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 📺 视频 / 追剧 / 影音教程 · Streaming Guides
 
+- [海外腾讯视频地区限制怎么绕?一年踩坑下来的几条路（2026 亲历版）](guides/how-to-bypass-tencent-video-geo-restriction-overseas.md)
+
 - [出国之后才懂的腾讯视频：写给同样在外追剧的你](guides/how-to-watch-tencent-video-abroad-4.md)
 
 - [海外看哔哩哔哩卡顿怎么办？华人留学生回国网络加速实用指南](guides/bilibili-overseas-lag-return-network-acceleration-guide.md)

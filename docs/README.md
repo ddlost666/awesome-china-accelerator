@@ -641,6 +641,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🌐 回国上网 / 网络 / 延迟教程 · Network Guides
 
+- [海外党回国网络卡到怀疑人生?一文讲清楚"卡在哪、怎么选、别再交智商税"](guides/overseas-return-network-lag-causes-and-accelerator-selection-guide.md)
+
 - [海外职场出差一周，不中断国内娱乐和社交：腾讯视频、Bilibili、QQ音乐一体化加速的使用场景说明](guides/how-to-access-chinese-entertainment-during-overseas-business-trips.md)
 
 - [2026 海外回国加速器完全手册:别再被"低延迟"忽悠了,实测教你挑对方案](guides/overseas-return-accelerator-complete-guide-2026.md)

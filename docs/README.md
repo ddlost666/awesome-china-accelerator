@@ -323,6 +323,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩国服英雄联盟，更新后突然卡顿掉线，下一局前先做什么？](guides/lol-cn-server-post-update-lag-disconnect-troubleshooting-guide.md)
+
 - [适合玩和平精英的低延迟加速器怎么选？新手机仍卡，先分清原因](guides/game-for-peace-new-phone-low-latency-accelerator-guide.md)
 
 - [回国加速器海外玩国服魔兽世界“无限”：测试快结束了，哪些准备值得留下？](guides/play-wow-china-server-overseas-guide.md)

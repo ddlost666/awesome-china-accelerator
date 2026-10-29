@@ -175,6 +175,7 @@
 - [汽水音乐海外地区限制怎么解除](docs/guides/汽水音乐海外地区限制怎么解除-HiCN回国听歌指南.md)
 
 ## 国服游戏教程 Gaming
+- [海外国服英雄联盟更新后卡顿掉线排查指南](docs/guides/lol-cn-server-post-update-lag-disconnect-troubleshooting-guide.md)
 - [海外玩和平精英的新手机卡顿与低延迟加速器选择指南](docs/guides/game-for-peace-new-phone-low-latency-accelerator-guide.md)
 - [海外玩国服魔兽世界“无限”的测试结束与正式上线准备指南](docs/guides/play-wow-china-server-overseas-guide.md)
 - [海外华人和留学生国服游戏加速器选择指南](docs/guides/how-to-choose-game-accelerator-for-overseas-chinese.md)

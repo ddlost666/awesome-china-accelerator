@@ -329,6 +329,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩家怎么用YY语音？中途没声音，先别急着退出游戏](guides/yy-voice-overseas-audio-device-and-connection-troubleshooting-guide.md)
+
 - [海外玩国服魔兽世界无限，怎样找到能一起玩下去的公会？](guides/wow-infinity-cn-server-overseas-guild-finding-guide.md)
 
 - [海外玩家怎么用YY语音？游戏与影音都常用，回国加速器推荐](guides/yy-voice-gaming-streaming-return-accelerator-comparison-guide.md)

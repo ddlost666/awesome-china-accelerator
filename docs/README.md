@@ -44,6 +44,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 📺 视频 / 追剧 / 影音教程 · Streaming Guides
 
+- [海外如何解除哔哩哔哩地区限制？手机能看，电脑却看不了怎么处理](guides/bilibili-overseas-cross-device-region-restriction-guide.md)
+
 - [国外腾讯视频看不了怎么办？住进酒店后，先把新网络理顺](guides/tencent-video-abroad-hotel-wifi-network-guide.md)
 
 - [海外看腾讯视频总是卡？华人留学生回国加速器实用指南](guides/tencent-video-overseas-playback-stability-guide.md)

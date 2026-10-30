@@ -277,6 +277,8 @@
 - [汽水音乐海外地区限制怎么解除？HiCN 回国听歌指南](docs/guides/汽水音乐海外地区限制怎么解除-HiCN回国听歌指南.md)
 
 ### 🎮 国服游戏
+
+- [海外玩国服魔兽世界“无限”进不去？从启动器到登录这样处理](docs/guides/wow-infinity-cn-server-launcher-and-login-troubleshooting-guide.md)
 - [海外玩家怎么用YY语音？中途没声音，先别急着退出游戏](docs/guides/yy-voice-overseas-audio-device-and-connection-troubleshooting-guide.md)
 - [海外玩国服魔兽世界无限，怎样找到能一起玩下去的公会？](docs/guides/wow-infinity-cn-server-overseas-guild-finding-guide.md)
 - [海外玩家怎么用YY语音？游戏与影音都常用，回国加速器推荐](docs/guides/yy-voice-gaming-streaming-return-accelerator-comparison-guide.md)

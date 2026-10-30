@@ -329,6 +329,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩家怎么用YY语音？聊天正常，一进游戏就断续怎么办](guides/yy-voice-gaming-simultaneous-use-troubleshooting-guide.md)
+
 - [适合玩和平精英的低延迟加速器怎么选？周末轻度玩家这样安排](guides/peacekeeper-elite-low-ping-accelerator-weekend-player-guide.md)
 
 - [海外玩国服魔兽世界“无限”进不去？从启动器到登录这样处理](guides/wow-infinity-cn-server-launcher-and-login-troubleshooting-guide.md)

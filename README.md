@@ -278,6 +278,8 @@
 
 ### 🎮 国服游戏
 
+- [海外玩国服魔兽世界延迟高卡顿掉线：打本中断，先把重连顺序理清](docs/guides/wow-cn-server-high-ping-lag-disconnect-reconnection-guide.md)
+
 - [海外玩家怎么用YY语音？聊天正常，一进游戏就断续怎么办](docs/guides/yy-voice-gaming-simultaneous-use-troubleshooting-guide.md)
 
 - [适合玩和平精英的低延迟加速器怎么选？周末轻度玩家这样安排](docs/guides/peacekeeper-elite-low-ping-accelerator-weekend-player-guide.md)

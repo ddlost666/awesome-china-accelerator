@@ -179,6 +179,8 @@
 
 ## 国服游戏教程 Gaming
 
+- [海外国服魔兽世界高延迟、卡顿、掉线与重连指南](docs/guides/wow-cn-server-high-ping-lag-disconnect-reconnection-guide.md)
+
 - [海外 YY 语音与国服游戏同时运行断续问题排查指南](docs/guides/yy-voice-gaming-simultaneous-use-troubleshooting-guide.md)
 
 - [海外和平精英低延迟加速器与周末轻度玩家选择指南](docs/guides/peacekeeper-elite-low-ping-accelerator-weekend-player-guide.md)

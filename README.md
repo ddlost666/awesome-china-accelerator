@@ -278,6 +278,8 @@
 
 ### 🎮 国服游戏
 
+- [海外玩国服延迟高怎么办？升级宽带、换路由器前先看哪里](docs/guides/chinese-server-gaming-high-ping-broadband-router-troubleshooting-guide.md)
+
 - [海外玩国服三角洲行动延迟高怎么办？手机电脑交替玩，怎么选加速器](docs/guides/delta-force-cn-server-cross-device-accelerator-comparison-guide.md)
 
 - [海外玩国服魔兽世界延迟高卡顿掉线：打本中断，先把重连顺序理清](docs/guides/wow-cn-server-high-ping-lag-disconnect-reconnection-guide.md)

@@ -278,6 +278,8 @@
 
 ### 🎮 国服游戏
 
+- [海外玩国服三角洲行动延迟高怎么办？手机电脑交替玩，怎么选加速器](docs/guides/delta-force-cn-server-cross-device-accelerator-comparison-guide.md)
+
 - [海外玩国服魔兽世界延迟高卡顿掉线：打本中断，先把重连顺序理清](docs/guides/wow-cn-server-high-ping-lag-disconnect-reconnection-guide.md)
 
 - [海外玩家怎么用YY语音？聊天正常，一进游戏就断续怎么办](docs/guides/yy-voice-gaming-simultaneous-use-troubleshooting-guide.md)

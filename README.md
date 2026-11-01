@@ -127,6 +127,8 @@
 ## 分场景完整教程 · Guides by Scenario
 
 ### 📺 视频 / 追剧 / 影音
+
+- [海外如何解除爱奇艺地区限制？会员还在却看不了，先查什么](docs/guides/iqiyi-overseas-region-restriction-membership-playback-troubleshooting-guide.md)
 - [海外如何解除哔哩哔哩地区限制？手机能看，电脑却看不了怎么处理](docs/guides/bilibili-overseas-cross-device-region-restriction-guide.md)
 - [国外腾讯视频看不了怎么办？住进酒店后，先把新网络理顺](docs/guides/tencent-video-abroad-hotel-wifi-network-guide.md)
 - [海外看腾讯视频总是卡？华人留学生回国加速器实用指南](docs/guides/tencent-video-overseas-playback-stability-guide.md)

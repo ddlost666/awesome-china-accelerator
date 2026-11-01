@@ -607,6 +607,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🏆 体育 / 世界杯 / 直播教程 · Sports & Live Guides
 
+- [解决海外看体育直播地域限制的方法：父母来探亲，怎么帮他们接着看球？](guides/chinese-sports-live-overseas-parents-family-viewing-guide.md)
+
 - [海外看体育直播有地域限制怎么办？只为一场比赛付费前先看这篇](guides/overseas-sports-live-single-match-purchase-guide.md)
 
 - [海外看名古屋亚运会，中文直播总缓冲？HiCN回国加速器这样用](guides/nagoya-asian-games-chinese-live-buffering-hicn-guide.md)

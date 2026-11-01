@@ -179,6 +179,8 @@
 
 ## 国服游戏教程 Gaming
 
+- [海外国服魔兽世界插件、团战掉帧与网络延迟排查指南](docs/guides/wow-cn-server-addons-raid-lag-troubleshooting-guide.md)
+
 - [海外玩国服高延迟的宽带、路由器与回国线路排查指南](docs/guides/chinese-server-gaming-high-ping-broadband-router-troubleshooting-guide.md)
 
 - [海外国服三角洲行动高延迟与跨设备加速器选择指南](docs/guides/delta-force-cn-server-cross-device-accelerator-comparison-guide.md)

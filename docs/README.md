@@ -329,6 +329,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩国服魔兽世界，插件越装越多、打团越卡怎么办？](guides/wow-cn-server-addons-raid-lag-troubleshooting-guide.md)
+
 - [海外玩国服延迟高怎么办？升级宽带、换路由器前先看哪里](guides/chinese-server-gaming-high-ping-broadband-router-troubleshooting-guide.md)
 
 - [海外玩国服三角洲行动延迟高怎么办？手机电脑交替玩，怎么选加速器](guides/delta-force-cn-server-cross-device-accelerator-comparison-guide.md)

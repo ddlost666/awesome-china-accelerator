@@ -288,6 +288,8 @@
 
 ### 🎮 国服游戏
 
+- [海外玩国服魔兽世界“无限”：回归前哪些钱值得花？](docs/guides/wow-infinity-cn-server-return-budget-spending-guide.md)
+
 - [海外玩家怎么用YY语音？小队组织者的集合指南](docs/guides/yy-voice-overseas-team-organizer-assembly-guide.md)
 
 - [海外玩国服英雄联盟延迟高卡顿掉线怎么办？从越打越卡说起](docs/guides/lol-cn-server-progressive-lag-disconnect-troubleshooting-guide.md)

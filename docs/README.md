@@ -244,6 +244,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎵 音乐教程 · Music Guides
 
+- [国外网易云歌单变灰，先续会员还是先处理连接？](guides/netease-cloud-music-grey-playlist-membership-connection-guide.md)
+
 - [海外如何解除网易云音乐地区限制？学习时，别让背景音乐变成待办事项](guides/netease-cloud-music-overseas-study-background-music-guide.md)
 
 - [海外听网易云音乐加载慢怎么办？华人留学生回国网络优化实用指南](guides/netease-cloud-music-loading-slow-overseas-network-optimization-guide.md)

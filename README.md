@@ -288,6 +288,8 @@
 
 ### 🎮 国服游戏
 
+- [海外玩国服英雄联盟延迟高卡顿掉线怎么办？从越打越卡说起](docs/guides/lol-cn-server-progressive-lag-disconnect-troubleshooting-guide.md)
+
 - [海外玩国服魔兽世界，插件越装越多、打团越卡怎么办？](docs/guides/wow-cn-server-addons-raid-lag-troubleshooting-guide.md)
 
 - [海外玩国服延迟高怎么办？升级宽带、换路由器前先看哪里](docs/guides/chinese-server-gaming-high-ping-broadband-router-troubleshooting-guide.md)

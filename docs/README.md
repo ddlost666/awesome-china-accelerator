@@ -339,6 +339,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩家怎么用YY语音？小队组织者的集合指南](guides/yy-voice-overseas-team-organizer-assembly-guide.md)
+
 - [海外玩国服英雄联盟延迟高卡顿掉线怎么办？从越打越卡说起](guides/lol-cn-server-progressive-lag-disconnect-troubleshooting-guide.md)
 
 - [海外玩国服魔兽世界，插件越装越多、打团越卡怎么办？](guides/wow-cn-server-addons-raid-lag-troubleshooting-guide.md)

@@ -29,6 +29,8 @@
 
 ## 视频影音教程 Streaming
 
+- [海外爱奇艺周末追剧的播放入口、地区限制与缓冲排查指南](docs/guides/iqiyi-overseas-weekend-streaming-entry-playback-guide.md)
+
 - [海外爱奇艺地区限制、会员状态与播放异常排查指南](docs/guides/iqiyi-overseas-region-restriction-membership-playback-troubleshooting-guide.md)
 - [海外哔哩哔哩手机与电脑跨设备地区限制排查指南](docs/guides/bilibili-overseas-cross-device-region-restriction-guide.md)
 - [国外酒店 Wi-Fi 观看腾讯视频与回国连接指南](docs/guides/tencent-video-abroad-hotel-wifi-network-guide.md)

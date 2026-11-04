@@ -29,6 +29,8 @@
 
 ## 视频影音教程 Streaming
 
+- [国外腾讯视频预告可播但正片打不开的入口与连接排查指南](docs/guides/tencent-video-overseas-trailer-works-full-episode-fails-guide.md)
+
 - [海外爱奇艺周末追剧的播放入口、地区限制与缓冲排查指南](docs/guides/iqiyi-overseas-weekend-streaming-entry-playback-guide.md)
 
 - [海外爱奇艺地区限制、会员状态与播放异常排查指南](docs/guides/iqiyi-overseas-region-restriction-membership-playback-troubleshooting-guide.md)

@@ -44,6 +44,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 📺 视频 / 追剧 / 影音教程 · Streaming Guides
 
+- [国外腾讯视频看不了怎么办？预告能看、正片打不开的处理顺序](guides/tencent-video-overseas-trailer-works-full-episode-fails-guide.md)
+
 - [海外如何解除爱奇艺地区限制？周末追剧前先找对播放入口](guides/iqiyi-overseas-weekend-streaming-entry-playback-guide.md)
 
 - [海外如何解除爱奇艺地区限制？会员还在却看不了，先查什么](guides/iqiyi-overseas-region-restriction-membership-playback-troubleshooting-guide.md)

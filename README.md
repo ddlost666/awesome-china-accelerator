@@ -128,6 +128,8 @@
 
 ### 📺 视频 / 追剧 / 影音
 
+- [国外腾讯视频看不了怎么办？预告能看、正片打不开的处理顺序](docs/guides/tencent-video-overseas-trailer-works-full-episode-fails-guide.md)
+
 - [海外如何解除爱奇艺地区限制？周末追剧前先找对播放入口](docs/guides/iqiyi-overseas-weekend-streaming-entry-playback-guide.md)
 
 - [海外如何解除爱奇艺地区限制？会员还在却看不了，先查什么](docs/guides/iqiyi-overseas-region-restriction-membership-playback-troubleshooting-guide.md)

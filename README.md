@@ -240,6 +240,8 @@
 
 ### 🎵 音乐
 
+- [海外如何解除网易云音乐地区限制？手机听得好好的，电脑为什么不行](docs/guides/netease-cloud-music-overseas-phone-works-pc-region-restriction-guide.md)
+
 - [国外网易云歌单变灰，先续会员还是先处理连接？](docs/guides/netease-cloud-music-grey-playlist-membership-connection-guide.md)
 - [海外如何解除网易云音乐地区限制？学习时，别让背景音乐变成待办事项](docs/guides/netease-cloud-music-overseas-study-background-music-guide.md)
 - [海外听网易云音乐加载慢怎么办？华人留学生回国网络优化实用指南](docs/guides/netease-cloud-music-loading-slow-overseas-network-optimization-guide.md)

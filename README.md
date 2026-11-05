@@ -288,6 +288,8 @@
 
 ### 🎮 国服游戏
 
+- [适合玩和平精英的低延迟加速器：手机换新了，连接也要准备好](docs/guides/peacekeeper-elite-overseas-new-phone-low-ping-accelerator-guide.md)
+
 - [海外玩国服魔兽世界“无限”：回归前哪些钱值得花？](docs/guides/wow-infinity-cn-server-return-budget-spending-guide.md)
 
 - [海外玩家怎么用YY语音？小队组织者的集合指南](docs/guides/yy-voice-overseas-team-organizer-assembly-guide.md)

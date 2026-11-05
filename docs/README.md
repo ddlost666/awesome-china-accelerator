@@ -339,6 +339,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [适合玩和平精英的低延迟加速器：手机换新了，连接也要准备好](guides/peacekeeper-elite-overseas-new-phone-low-ping-accelerator-guide.md)
+
 - [海外玩国服魔兽世界“无限”：回归前哪些钱值得花？](guides/wow-infinity-cn-server-return-budget-spending-guide.md)
 
 - [海外玩家怎么用YY语音？小队组织者的集合指南](guides/yy-voice-overseas-team-organizer-assembly-guide.md)

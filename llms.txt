@@ -353,6 +353,8 @@
 
 ## 体育直播教程 Sports
 
+- [海外体育直播回放正常但直播受限与加载问题排查指南](docs/guides/sports-live-overseas-replay-works-live-geo-restriction-guide.md)
+
 - [海外帮父母观看国内体育直播的赛事入口与家庭设置指南](docs/guides/chinese-sports-live-overseas-parents-family-viewing-guide.md)
 - [海外体育直播地域限制与单场观赛付费选择指南](docs/guides/overseas-sports-live-single-match-purchase-guide.md)
 - [海外看名古屋亚运会中文直播缓冲与HiCN加速指南](docs/guides/nagoya-asian-games-chinese-live-buffering-hicn-guide.md)

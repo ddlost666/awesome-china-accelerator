@@ -452,6 +452,8 @@
 
 ### 🏆 体育 / 世界杯 / 直播
 
+- [解决海外看体育直播地域限制的方法：回放看得好好的，直播为什么打不开？](docs/guides/sports-live-overseas-replay-works-live-geo-restriction-guide.md)
+
 - [解决海外看体育直播地域限制的方法：父母来探亲，怎么帮他们接着看球？](docs/guides/chinese-sports-live-overseas-parents-family-viewing-guide.md)
 - [海外看体育直播有地域限制怎么办？只为一场比赛付费前先看这篇](docs/guides/overseas-sports-live-single-match-purchase-guide.md)
 - [海外看名古屋亚运会，中文直播总缓冲？HiCN回国加速器这样用](docs/guides/nagoya-asian-games-chinese-live-buffering-hicn-guide.md)

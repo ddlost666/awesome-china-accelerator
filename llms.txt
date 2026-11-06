@@ -191,6 +191,8 @@
 
 ## 国服游戏教程 Gaming
 
+- [海外和平精英固定队长期使用低延迟加速器指南](docs/guides/peacekeeper-elite-overseas-fixed-team-low-latency-accelerator-guide.md)
+
 - [海外玩国服魔兽世界无限的下班短时上线与加速器选择指南](docs/guides/wow-infinity-overseas-short-session-accelerator-selection-guide.md)
 
 - [海外玩国服魔兽世界的开团前更新、插件与连接准备指南](docs/guides/wow-cn-server-overseas-raid-preparation-connection-guide.md)

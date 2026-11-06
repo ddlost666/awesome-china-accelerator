@@ -191,6 +191,8 @@
 
 ## 国服游戏教程 Gaming
 
+- [海外玩国服魔兽世界的开团前更新、插件与连接准备指南](docs/guides/wow-cn-server-overseas-raid-preparation-connection-guide.md)
+
 - [海外和平精英新手机帧率与低延迟回国连接指南](docs/guides/peacekeeper-elite-overseas-new-phone-low-ping-accelerator-guide.md)
 
 - [海外玩国服魔兽世界“无限”的回归预算与升级取舍指南](docs/guides/wow-infinity-cn-server-return-budget-spending-guide.md)

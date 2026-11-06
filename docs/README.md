@@ -711,6 +711,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🌐 回国上网 / 网络 / 延迟教程 · Network Guides
 
+- [解决海外访问国内网络延迟高：室友追剧、自己开黑，怎么都用得顺？](guides/overseas-shared-home-network-gaming-streaming-music-latency-guide.md)
+
 - [解决海外访问国内网络延迟高：玩国服、听歌、追剧，怎样少折腾？](guides/overseas-chinese-apps-high-latency-multiscene-optimization-guide.md)
 
 - [海外党回国网络卡到怀疑人生?一文讲清楚"卡在哪、怎么选、别再交智商税"](guides/overseas-return-network-lag-causes-and-accelerator-selection-guide.md)

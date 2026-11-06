@@ -248,6 +248,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎵 音乐教程 · Music Guides
 
+- [海外如何解除网易云音乐地区限制？日推能刷，推荐歌曲却听不了怎么办](guides/netease-cloud-music-overseas-daily-recommendation-region-restriction-guide.md)
+
 - [海外如何解除网易云音乐地区限制？手机听得好好的，电脑为什么不行](guides/netease-cloud-music-overseas-phone-works-pc-region-restriction-guide.md)
 
 - [国外网易云歌单变灰，先续会员还是先处理连接？](guides/netease-cloud-music-grey-playlist-membership-connection-guide.md)

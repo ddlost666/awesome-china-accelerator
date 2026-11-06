@@ -341,6 +341,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩国服魔兽世界无限，下班只有两小时怎么选加速器？](guides/wow-infinity-overseas-short-session-accelerator-selection-guide.md)
+
 - [海外玩国服魔兽世界，开团前怎样把连接准备好？](guides/wow-cn-server-overseas-raid-preparation-connection-guide.md)
 
 - [适合玩和平精英的低延迟加速器：手机换新了，连接也要准备好](guides/peacekeeper-elite-overseas-new-phone-low-ping-accelerator-guide.md)

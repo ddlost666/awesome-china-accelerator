@@ -296,6 +296,8 @@
 
 ### 🎮 国服游戏
 
+- [海外玩国服魔兽世界无限，合租网络一忙就卡怎么办？](docs/guides/wow-infinity-cn-overseas-shared-network-lag-guide.md)
+
 - [适合玩和平精英的低延迟加速器怎么选？海外固定队的长期使用思路](docs/guides/peacekeeper-elite-overseas-fixed-team-low-latency-accelerator-guide.md)
 
 - [海外玩国服魔兽世界无限，下班只有两小时怎么选加速器？](docs/guides/wow-infinity-overseas-short-session-accelerator-selection-guide.md)

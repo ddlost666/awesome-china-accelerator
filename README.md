@@ -242,6 +242,8 @@
 
 ### 🎵 音乐
 
+- [海外如何解除网易云音乐地区限制？旅行换住处后突然听不了怎么办](docs/guides/netease-cloud-music-overseas-travel-hotel-network-region-restriction-guide.md)
+
 - [海外如何解除网易云音乐地区限制？更新后听不了，先别急着退回旧版本](docs/guides/netease-cloud-music-overseas-update-playback-region-restriction-guide.md)
 
 - [海外如何解除网易云音乐地区限制？手机电脑轮流听，加速器怎么选？](docs/guides/netease-cloud-music-overseas-multi-device-accelerator-comparison-guide.md)

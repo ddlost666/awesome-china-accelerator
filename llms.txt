@@ -143,6 +143,8 @@
 
 ## 音乐教程 Music
 
+- [海外旅行换酒店网络后的网易云音乐播放与地区限制指南](docs/guides/netease-cloud-music-overseas-travel-hotel-network-region-restriction-guide.md)
+
 - [海外网易云音乐更新后歌单播放与地区限制排查指南](docs/guides/netease-cloud-music-overseas-update-playback-region-restriction-guide.md)
 
 - [海外网易云音乐手机电脑多设备与回国加速器选择指南](docs/guides/netease-cloud-music-overseas-multi-device-accelerator-comparison-guide.md)

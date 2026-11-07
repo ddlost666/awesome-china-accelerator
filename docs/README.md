@@ -643,6 +643,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🏆 体育 / 世界杯 / 直播教程 · Sports & Live Guides
 
+- [解决海外看体育直播地域限制的方法：WTT与CBA双线观赛怎么安排？](guides/sports-live-overseas-wtt-cba-dual-viewing-guide.md)
+
 - [解决海外看体育直播地域限制的方法：买了会员，比赛仍看不了怎么办？](guides/sports-live-overseas-membership-still-blocked-troubleshooting-guide.md)
 
 - [解决海外看体育直播地域限制的方法：回放看得好好的，直播为什么打不开？](guides/sports-live-overseas-replay-works-live-geo-restriction-guide.md)

@@ -375,6 +375,8 @@
 
 ## 体育直播教程 Sports
 
+- [海外WTT与CBA双线直播回看观赛清单指南](docs/guides/sports-live-overseas-wtt-cba-dual-viewing-guide.md)
+
 - [海外体育直播已购会员仍受地域限制与加载问题排查指南](docs/guides/sports-live-overseas-membership-still-blocked-troubleshooting-guide.md)
 
 - [海外体育直播回放正常但直播受限与加载问题排查指南](docs/guides/sports-live-overseas-replay-works-live-geo-restriction-guide.md)

@@ -29,6 +29,8 @@
 
 ## 视频影音教程 Streaming
 
+- [海外哔哩哔哩追更下一集地区限制与播放异常排查指南](docs/guides/bilibili-overseas-next-episode-geo-restriction-troubleshooting-guide.md)
+
 - [海外打开朋友分享的哔哩哔哩视频与地区限制排查指南](docs/guides/bilibili-overseas-shared-video-link-region-restriction-guide.md)
 
 - [国外腾讯视频预告可播但正片打不开的入口与连接排查指南](docs/guides/tencent-video-overseas-trailer-works-full-episode-fails-guide.md)

@@ -128,6 +128,8 @@
 
 ### 📺 视频 / 追剧 / 影音
 
+- [海外如何解除哔哩哔哩地区限制？追更时下一集打不开怎么办？](docs/guides/bilibili-overseas-next-episode-geo-restriction-troubleshooting-guide.md)
+
 - [海外如何解除哔哩哔哩地区限制？朋友分享的视频打不开怎么办](docs/guides/bilibili-overseas-shared-video-link-region-restriction-guide.md)
 
 - [国外腾讯视频看不了怎么办？预告能看、正片打不开的处理顺序](docs/guides/tencent-video-overseas-trailer-works-full-episode-fails-guide.md)

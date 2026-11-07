@@ -141,6 +141,8 @@
 
 ## 音乐教程 Music
 
+- [海外网易云音乐手机电脑多设备与回国加速器选择指南](docs/guides/netease-cloud-music-overseas-multi-device-accelerator-comparison-guide.md)
+
 - [海外网易云音乐日推正常但推荐歌曲受限与加载问题排查指南](docs/guides/netease-cloud-music-overseas-daily-recommendation-region-restriction-guide.md)
 
 - [海外网易云音乐手机正常但电脑地区限制与无声问题排查指南](docs/guides/netease-cloud-music-overseas-phone-works-pc-region-restriction-guide.md)

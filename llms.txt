@@ -197,6 +197,8 @@
 
 ## 国服游戏教程 Gaming
 
+- [海外玩国服魔兽世界无限的晚高峰跳延迟与连接波动指南](docs/guides/wow-infinity-cn-overseas-evening-peak-latency-guide.md)
+
 - [海外玩王者荣耀的设备、宽带与跨境连接延迟判断指南](docs/guides/honor-of-kings-overseas-device-broadband-network-latency-diagnosis-guide.md)
 
 - [海外玩国服魔兽世界无限的合租共享网络卡顿排查指南](docs/guides/wow-infinity-cn-overseas-shared-network-lag-guide.md)

@@ -347,6 +347,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩国服魔兽世界无限，为什么白天顺畅、晚上却跳延迟？](guides/wow-infinity-cn-overseas-evening-peak-latency-guide.md)
+
 - [海外玩王者荣耀延迟高怎么办？换手机、升宽带之前，先判断问题在哪](guides/honor-of-kings-overseas-device-broadband-network-latency-diagnosis-guide.md)
 
 - [海外玩国服魔兽世界无限，合租网络一忙就卡怎么办？](guides/wow-infinity-cn-overseas-shared-network-lag-guide.md)

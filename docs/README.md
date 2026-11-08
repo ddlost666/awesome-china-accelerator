@@ -353,6 +353,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩国服魔兽世界，搬家或出差后突然变卡怎么办？](guides/wow-cn-server-overseas-moving-travel-network-lag-guide.md)
+
 - [海外玩王者荣耀延迟高怎么办？团战慢半拍，别只盯着一个数字](guides/honor-of-kings-overseas-teamfight-lag-network-response-guide.md)
 
 - [海外玩国服魔兽世界无限，为什么白天顺畅、晚上却跳延迟？](guides/wow-infinity-cn-overseas-evening-peak-latency-guide.md)

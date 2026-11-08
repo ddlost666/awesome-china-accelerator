@@ -250,6 +250,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎵 音乐教程 · Music Guides
 
+- [海外如何解除网易云音乐地区限制？买了会员仍听不了，加速器怎么选？](guides/netease-cloud-music-overseas-membership-region-restriction-accelerator-guide.md)
+
 - [海外如何解除网易云音乐地区限制？旅行换住处后突然听不了怎么办](guides/netease-cloud-music-overseas-travel-hotel-network-region-restriction-guide.md)
 
 - [海外如何解除网易云音乐地区限制？更新后听不了，先别急着退回旧版本](guides/netease-cloud-music-overseas-update-playback-region-restriction-guide.md)

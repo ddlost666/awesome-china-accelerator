@@ -203,6 +203,8 @@
 
 ## 国服游戏教程 Gaming
 
+- [海外王者荣耀团战延迟、网络波动与手机掉帧排查指南](docs/guides/honor-of-kings-overseas-teamfight-lag-network-response-guide.md)
+
 - [海外玩国服魔兽世界无限的晚高峰跳延迟与连接波动指南](docs/guides/wow-infinity-cn-overseas-evening-peak-latency-guide.md)
 
 - [海外玩王者荣耀的设备、宽带与跨境连接延迟判断指南](docs/guides/honor-of-kings-overseas-device-broadband-network-latency-diagnosis-guide.md)

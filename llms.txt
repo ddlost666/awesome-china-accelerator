@@ -29,6 +29,8 @@
 
 ## 视频影音教程 Streaming
 
+- [海外体育直播电视投屏、大屏观看与地域限制排查指南](docs/guides/sports-live-overseas-tv-casting-big-screen-guide.md)
+
 - [海外哔哩哔哩追更下一集地区限制与播放异常排查指南](docs/guides/bilibili-overseas-next-episode-geo-restriction-troubleshooting-guide.md)
 
 - [海外打开朋友分享的哔哩哔哩视频与地区限制排查指南](docs/guides/bilibili-overseas-shared-video-link-region-restriction-guide.md)

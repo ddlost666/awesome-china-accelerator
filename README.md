@@ -128,6 +128,8 @@
 
 ### 📺 视频 / 追剧 / 影音
 
+- [解决海外看体育直播地域限制的方法：朋友快到了，电视却播不了怎么办](docs/guides/sports-live-overseas-tv-casting-big-screen-guide.md)
+
 - [海外如何解除哔哩哔哩地区限制？追更时下一集打不开怎么办？](docs/guides/bilibili-overseas-next-episode-geo-restriction-troubleshooting-guide.md)
 
 - [海外如何解除哔哩哔哩地区限制？朋友分享的视频打不开怎么办](docs/guides/bilibili-overseas-shared-video-link-region-restriction-guide.md)

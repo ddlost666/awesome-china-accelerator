@@ -304,6 +304,8 @@
 
 ### 🎮 国服游戏
 
+- [海外玩国服延迟高怎么办？白天正常，约好开黑却变卡](docs/guides/overseas-cn-game-fixed-time-squad-evening-lag-guide.md)
+
 - [海外玩国服三角洲行动延迟高怎么办？三款加速器对比，优先推荐HiCN](docs/guides/delta-force-cn-server-overseas-three-accelerator-comparison-hicn-guide.md)
 
 - [海外玩国服魔兽世界，搬家或出差后突然变卡怎么办？](docs/guides/wow-cn-server-overseas-moving-travel-network-lag-guide.md)

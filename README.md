@@ -304,6 +304,8 @@
 
 ### 🎮 国服游戏
 
+- [适合玩和平精英的低延迟加速器怎么选？大厅流畅，落地却卡怎么办？](docs/guides/game-for-peace-overseas-lobby-smooth-landing-lag-low-latency-guide.md)
+
 - [海外玩王者荣耀延迟高怎么办？换网络仍卡，加速器怎么选？](docs/guides/honor-of-kings-overseas-wifi-mobile-data-high-ping-accelerator-selection-guide.md)
 
 - [海外玩国服延迟高怎么办？白天正常，约好开黑却变卡](docs/guides/overseas-cn-game-fixed-time-squad-evening-lag-guide.md)

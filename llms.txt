@@ -205,6 +205,8 @@
 
 ## 国服游戏教程 Gaming
 
+- [海外王者荣耀切换 Wi-Fi 与移动数据后仍高延迟的加速器选择指南](docs/guides/honor-of-kings-overseas-wifi-mobile-data-high-ping-accelerator-selection-guide.md)
+
 - [海外国服固定时段开黑、晚间延迟与连接波动排查指南](docs/guides/overseas-cn-game-fixed-time-squad-evening-lag-guide.md)
 
 - [海外三角洲行动国服三款加速器功能与使用方式对比指南](docs/guides/delta-force-cn-server-overseas-three-accelerator-comparison-hicn-guide.md)

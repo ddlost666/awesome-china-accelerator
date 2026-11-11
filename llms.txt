@@ -29,6 +29,8 @@
 
 ## 视频影音教程 Streaming
 
+- [海外哔哩哔哩长课程地区限制、缓冲与播放异常排查指南](docs/guides/bilibili-overseas-long-course-geo-restriction-playback-guide.md)
+
 - [海外体育直播电视投屏、大屏观看与地域限制排查指南](docs/guides/sports-live-overseas-tv-casting-big-screen-guide.md)
 
 - [海外哔哩哔哩追更下一集地区限制与播放异常排查指南](docs/guides/bilibili-overseas-next-episode-geo-restriction-troubleshooting-guide.md)

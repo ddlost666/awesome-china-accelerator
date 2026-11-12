@@ -44,6 +44,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 📺 视频 / 追剧 / 影音教程 · Streaming Guides
 
+- [海外如何解除哔哩哔哩地区限制？搬家换网络后，B站突然看不了怎么办？](guides/bilibili-overseas-new-home-network-region-restriction-guide.md)
+
 - [海外如何解除哔哩哔哩地区限制？看长课程前，先把播放问题分清楚](guides/bilibili-overseas-long-course-geo-restriction-playback-guide.md)
 
 - [解决海外看体育直播地域限制的方法：朋友快到了，电视却播不了怎么办](guides/sports-live-overseas-tv-casting-big-screen-guide.md)

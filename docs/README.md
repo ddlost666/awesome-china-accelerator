@@ -359,6 +359,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [原神国服在国外怎么玩？和国内好友联机，先把这几件事准备好](guides/genshin-impact-cn-server-overseas-friends-coop-preparation-guide.md)
+
 - [海外玩王者荣耀延迟高怎么办？换网络仍卡，回国加速器怎么选？](guides/honor-of-kings-overseas-wifi-mobile-data-still-high-ping-return-accelerator-guide.md)
 - [海外玩王者荣耀延迟高怎么办？队友都正常，为什么只有自己慢半拍？](guides/honor-of-kings-overseas-only-player-high-ping-teammates-normal-guide.md)
 

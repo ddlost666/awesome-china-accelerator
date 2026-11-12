@@ -359,6 +359,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩王者荣耀延迟高怎么办？搬进宿舍后突然变卡，先从哪里处理？](guides/honor-of-kings-overseas-dorm-network-high-ping-troubleshooting-guide.md)
+
 - [适合玩和平精英的低延迟加速器怎么选？每天只玩一两局，也要用得省心](guides/game-for-peace-overseas-light-player-low-latency-accelerator-guide.md)
 
 - [原神国服在国外怎么玩？每天只有半小时，先把上线流程安排好](guides/genshin-impact-cn-server-overseas-short-session-preparation-guide.md)

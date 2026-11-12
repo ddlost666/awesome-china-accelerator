@@ -209,6 +209,8 @@
 
 ## 国服游戏教程 Gaming
 
+- [海外王者荣耀搬入宿舍后高延迟的认证、共享网络与回国连接排查指南](docs/guides/honor-of-kings-overseas-dorm-network-high-ping-troubleshooting-guide.md)
+
 - [海外和平精英轻度玩家的低延迟加速与日常连接指南](docs/guides/game-for-peace-overseas-light-player-low-latency-accelerator-guide.md)
 
 - [海外原神国服短时游玩的资源更新、账号与连接准备指南](docs/guides/genshin-impact-cn-server-overseas-short-session-preparation-guide.md)

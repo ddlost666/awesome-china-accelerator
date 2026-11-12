@@ -209,6 +209,8 @@
 
 ## 国服游戏教程 Gaming
 
+- [海外和平精英轻度玩家的低延迟加速与日常连接指南](docs/guides/game-for-peace-overseas-light-player-low-latency-accelerator-guide.md)
+
 - [海外原神国服短时游玩的资源更新、账号与连接准备指南](docs/guides/genshin-impact-cn-server-overseas-short-session-preparation-guide.md)
 
 - [海外原神国服与国内好友联机的客户端、账号及网络准备指南](docs/guides/genshin-impact-cn-server-overseas-friends-coop-preparation-guide.md)

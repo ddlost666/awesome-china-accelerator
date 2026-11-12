@@ -308,6 +308,8 @@
 
 ### 🎮 国服游戏
 
+- [适合玩和平精英的低延迟加速器怎么选？每天只玩一两局，也要用得省心](docs/guides/game-for-peace-overseas-light-player-low-latency-accelerator-guide.md)
+
 - [原神国服在国外怎么玩？每天只有半小时，先把上线流程安排好](docs/guides/genshin-impact-cn-server-overseas-short-session-preparation-guide.md)
 
 - [原神国服在国外怎么玩？和国内好友联机，先把这几件事准备好](docs/guides/genshin-impact-cn-server-overseas-friends-coop-preparation-guide.md)

@@ -209,6 +209,8 @@
 
 ## 国服游戏教程 Gaming
 
+- [海外原神国服短时游玩的资源更新、账号与连接准备指南](docs/guides/genshin-impact-cn-server-overseas-short-session-preparation-guide.md)
+
 - [海外原神国服与国内好友联机的客户端、账号及网络准备指南](docs/guides/genshin-impact-cn-server-overseas-friends-coop-preparation-guide.md)
 
 - [海外王者荣耀切换网络后仍高延迟的回国加速器选择指南](docs/guides/honor-of-kings-overseas-wifi-mobile-data-still-high-ping-return-accelerator-guide.md)

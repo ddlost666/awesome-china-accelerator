@@ -310,6 +310,8 @@
 
 ### 🎮 国服游戏
 
+- [海外王者荣耀460ms飘红:别急着重买设备,先看完这篇再说](docs/guides/honor-of-kings-overseas-460ms-anniversary-network-guide.md)
+
 - [加速器选型手帐:海外党玩和平精英的 PoP 地图 + 5 条硬指标 + 3 步姿势](docs/guides/game-for-peace-overseas-accelerator-selection-notebook-pop-checklist.md)
 
 - [海外玩王者荣耀延迟高怎么办？搬进宿舍后突然变卡，先从哪里处理？](docs/guides/honor-of-kings-overseas-dorm-network-high-ping-troubleshooting-guide.md)

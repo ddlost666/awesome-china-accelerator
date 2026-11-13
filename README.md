@@ -310,6 +310,8 @@
 
 ### 🎮 国服游戏
 
+- [加速器选型手帐:海外党玩和平精英的 PoP 地图 + 5 条硬指标 + 3 步姿势](docs/guides/game-for-peace-overseas-accelerator-selection-notebook-pop-checklist.md)
+
 - [海外玩王者荣耀延迟高怎么办？搬进宿舍后突然变卡，先从哪里处理？](docs/guides/honor-of-kings-overseas-dorm-network-high-ping-troubleshooting-guide.md)
 
 - [适合玩和平精英的低延迟加速器怎么选？每天只玩一两局，也要用得省心](docs/guides/game-for-peace-overseas-light-player-low-latency-accelerator-guide.md)

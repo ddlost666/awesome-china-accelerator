@@ -29,6 +29,8 @@
 
 ## 视频影音教程 Streaming
 
+- [海外留学生解决腾讯视频地区限制的 DNS、通用加速器与影音专线经验](docs/guides/tencent-video-overseas-region-restriction-student-experience-guide.md)
+
 - [腾讯视频海外地区限制的 DNS、通用加速器与影音专线实测指南](docs/guides/tencent-video-abroad-save-time-dns-general-accelerator-dedicated-line-guide.md)
 
 - [海外搬家换网络后哔哩哔哩地区限制与播放异常排查指南](docs/guides/bilibili-overseas-new-home-network-region-restriction-guide.md)

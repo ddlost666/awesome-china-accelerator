@@ -316,6 +316,8 @@
 
 ### 🎮 国服游戏
 
+- [王者荣耀海外460ms飘红:周年庆这波福利,我是怎么一步步抢到的](docs/guides/honor-of-kings-overseas-460ms-anniversary-benefits-step-by-step-guide.md)
+
 - [海外王者荣耀460ms飘红:别急着重买设备,先看完这篇再说](docs/guides/honor-of-kings-overseas-460ms-anniversary-network-guide.md)
 
 - [加速器选型手帐:海外党玩和平精英的 PoP 地图 + 5 条硬指标 + 3 步姿势](docs/guides/game-for-peace-overseas-accelerator-selection-notebook-pop-checklist.md)

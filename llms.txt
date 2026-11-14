@@ -153,6 +153,8 @@
 
 ## 音乐教程 Music
 
+- [海外汽水音乐收藏歌单地区限制与播放异常排查指南](docs/guides/soda-music-overseas-collection-region-restriction-playback-guide.md)
+
 - [海外音乐 App 订阅账单合并与汽水音乐 HiCN 实测指南](docs/guides/music-app-subscription-consolidation-hicn-soda-music-guide.md)
 
 - [海外汽水音乐短视频片段、完整歌曲与地区限制排查指南](docs/guides/soda-music-overseas-short-video-full-song-region-restriction-guide.md)

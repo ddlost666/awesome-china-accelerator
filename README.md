@@ -252,6 +252,8 @@
 
 ### 🎵 音乐
 
+- [订阅账单合并指南：Spotify + Apple Music + 网易云 + 汽水音乐，4 个 App 折成 1 个 HiCN（2026 实测版）](docs/guides/music-app-subscription-consolidation-hicn-soda-music-guide.md)
+
 - [汽水音乐海外地区限制的解除方法：刷到喜欢的歌，怎样继续完整收听？](docs/guides/soda-music-overseas-short-video-full-song-region-restriction-guide.md)
 
 - [海外如何解除网易云音乐地区限制？买了会员仍听不了，加速器怎么选？](docs/guides/netease-cloud-music-overseas-membership-region-restriction-accelerator-guide.md)

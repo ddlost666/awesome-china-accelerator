@@ -318,6 +318,8 @@
 
 ### 🎮 国服游戏
 
+- [海外党深夜460ms崩溃实录:国服王者荣耀到底怎么救,我把这事一次说透](docs/guides/honor-of-kings-overseas-460ms-breakdown-and-rescue-guide.md)
+
 - [王者荣耀海外460ms飘红:周年庆这波福利,我是怎么一步步抢到的](docs/guides/honor-of-kings-overseas-460ms-anniversary-benefits-step-by-step-guide.md)
 
 - [海外王者荣耀460ms飘红:别急着重买设备,先看完这篇再说](docs/guides/honor-of-kings-overseas-460ms-anniversary-network-guide.md)

@@ -219,6 +219,8 @@
 
 ## 国服游戏教程 Gaming
 
+- [海外王者荣耀 460ms 跨境链路、本地优化与回国加速器排查指南](docs/guides/honor-of-kings-overseas-460ms-breakdown-and-rescue-guide.md)
+
 - [海外王者荣耀周年庆 460ms 延迟与福利领取步骤指南](docs/guides/honor-of-kings-overseas-460ms-anniversary-benefits-step-by-step-guide.md)
 
 - [海外王者荣耀周年庆 460ms 延迟与回国线路排查指南](docs/guides/honor-of-kings-overseas-460ms-anniversary-network-guide.md)

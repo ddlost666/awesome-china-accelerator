@@ -223,6 +223,8 @@
 
 ## 国服游戏教程 Gaming
 
+- [海外王者荣耀 460ms、盾山一塔千年周年庆福利与网络排查实录](docs/guides/honor-of-kings-overseas-460ms-shield-mountain-anniversary-skin-guide.md)
+
 - [海外国服原神至冬开服、预下载、节点选择与联机体验实录](docs/guides/genshin-impact-cn-server-snezhnaya-launch-overseas-player-experience.md)
 
 - [海外王者荣耀 460ms 跨境链路、本地优化与回国加速器排查指南](docs/guides/honor-of-kings-overseas-460ms-breakdown-and-rescue-guide.md)

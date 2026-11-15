@@ -373,6 +373,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外党王者荣耀460ms进不去游戏?盾山一塔千年我这次真的换到了](guides/honor-of-kings-overseas-460ms-shield-mountain-anniversary-skin-guide.md)
+
 - [至冬开服那天凌晨三点,我终于把冰神等来了——海外党国服原神玩家的一次实录](guides/genshin-impact-cn-server-snezhnaya-launch-overseas-player-experience.md)
 
 - [海外党深夜460ms崩溃实录:国服王者荣耀到底怎么救,我把这事一次说透](guides/honor-of-kings-overseas-460ms-breakdown-and-rescue-guide.md)

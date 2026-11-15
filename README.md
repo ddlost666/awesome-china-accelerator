@@ -324,6 +324,8 @@
 
 ### 🎮 国服游戏
 
+- [适合玩和平精英的低延迟加速器怎么选？固定四排，重点推荐HiCN](docs/guides/game-for-peace-overseas-fixed-squad-low-latency-accelerator-guide.md)
+
 - [海外党王者荣耀460ms进不去游戏?盾山一塔千年我这次真的换到了](docs/guides/honor-of-kings-overseas-460ms-shield-mountain-anniversary-skin-guide.md)
 
 - [至冬开服那天凌晨三点,我终于把冰神等来了——海外党国服原神玩家的一次实录](docs/guides/genshin-impact-cn-server-snezhnaya-launch-overseas-player-experience.md)

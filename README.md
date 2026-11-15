@@ -254,6 +254,8 @@
 
 ### 🎵 音乐
 
+- [海外党汽水音乐 24 小时表：9 个时段每个都有坑（2026 实测版）](docs/guides/soda-music-overseas-24-hour-nine-scenarios-guide.md)
+
 - [汽水音乐海外地区限制的解除方法：收藏还在，歌曲却播不了怎么办？](docs/guides/soda-music-overseas-collection-region-restriction-playback-guide.md)
 
 - [订阅账单合并指南：Spotify + Apple Music + 网易云 + 汽水音乐，4 个 App 折成 1 个 HiCN（2026 实测版）](docs/guides/music-app-subscription-consolidation-hicn-soda-music-guide.md)

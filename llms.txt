@@ -155,6 +155,8 @@
 
 ## 音乐教程 Music
 
+- [海外汽水音乐 24 小时九时段、多端设备与网络优化实测指南](docs/guides/soda-music-overseas-24-hour-nine-scenarios-guide.md)
+
 - [海外汽水音乐收藏歌单地区限制与播放异常排查指南](docs/guides/soda-music-overseas-collection-region-restriction-playback-guide.md)
 
 - [海外音乐 App 订阅账单合并与汽水音乐 HiCN 实测指南](docs/guides/music-app-subscription-consolidation-hicn-soda-music-guide.md)

@@ -29,6 +29,8 @@
 
 ## 视频影音教程 Streaming
 
+- [国外腾讯视频 DNS、通用加速器与影音专线三种方案实测](docs/guides/tencent-video-abroad-three-methods-real-experience-guide.md)
+
 - [腾讯视频海外地区限制的 DNS、通用加速器与影音专线场景选择指南](docs/guides/tencent-video-overseas-audience-scenario-solution-guide.md)
 
 - [海外留学生解决腾讯视频地区限制的 DNS、通用加速器与影音专线经验](docs/guides/tencent-video-overseas-region-restriction-student-experience-guide.md)

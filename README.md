@@ -128,6 +128,8 @@
 
 ### 📺 视频 / 追剧 / 影音
 
+- [国外腾讯视频看不了？我把三条路翻了个底朝天，结论写在最前](docs/guides/tencent-video-abroad-three-methods-real-experience-guide.md)
+
 - [腾讯视频海外地区限制怎么解？我按人群和场景拆给你看](docs/guides/tencent-video-overseas-audience-scenario-solution-guide.md)
 
 - [腾讯视频海外地区限制怎么解决？一个老留学生的真心话](docs/guides/tencent-video-overseas-region-restriction-student-experience-guide.md)

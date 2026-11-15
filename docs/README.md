@@ -375,6 +375,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [适合玩和平精英的低延迟加速器怎么选？先分清下载慢、掉帧和网络延迟](guides/game-for-peace-low-ping-download-frame-network-troubleshooting-guide.md)
+
 - [适合玩和平精英的低延迟加速器怎么选？固定四排，重点推荐HiCN](guides/game-for-peace-overseas-fixed-squad-low-latency-accelerator-guide.md)
 
 - [海外党王者荣耀460ms进不去游戏?盾山一塔千年我这次真的换到了](guides/honor-of-kings-overseas-460ms-shield-mountain-anniversary-skin-guide.md)

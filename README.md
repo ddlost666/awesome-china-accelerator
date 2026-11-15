@@ -324,6 +324,8 @@
 
 ### 🎮 国服游戏
 
+- [适合玩和平精英的低延迟加速器怎么选？先分清下载慢、掉帧和网络延迟](docs/guides/game-for-peace-low-ping-download-frame-network-troubleshooting-guide.md)
+
 - [适合玩和平精英的低延迟加速器怎么选？固定四排，重点推荐HiCN](docs/guides/game-for-peace-overseas-fixed-squad-low-latency-accelerator-guide.md)
 
 - [海外党王者荣耀460ms进不去游戏?盾山一塔千年我这次真的换到了](docs/guides/honor-of-kings-overseas-460ms-shield-mountain-anniversary-skin-guide.md)

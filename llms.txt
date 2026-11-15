@@ -225,6 +225,8 @@
 
 ## 国服游戏教程 Gaming
 
+- [海外和平精英下载慢、掉帧与跨境网络延迟分项排查指南](docs/guides/game-for-peace-low-ping-download-frame-network-troubleshooting-guide.md)
+
 - [海外和平精英固定四排、低延迟加速器与多设备套餐选择指南](docs/guides/game-for-peace-overseas-fixed-squad-low-latency-accelerator-guide.md)
 
 - [海外王者荣耀 460ms、盾山一塔千年周年庆福利与网络排查实录](docs/guides/honor-of-kings-overseas-460ms-shield-mountain-anniversary-skin-guide.md)

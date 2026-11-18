@@ -375,6 +375,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外党玩国服魔兽世界，登录卡、副本瞬移、团战掉线——我是怎么一步步把这事捋顺的](guides/wow-cn-server-overseas-login-dungeon-raid-troubleshooting-experience.md)
+
 - [海外玩国服魔兽世界：从延迟诊断到稳定连接的完整攻略](guides/wow-cn-server-overseas-latency-diagnosis-stable-connection-guide.md)
 
 - [适合玩和平精英的低延迟加速器怎么选？先分清下载慢、掉帧和网络延迟](guides/game-for-peace-low-ping-download-frame-network-troubleshooting-guide.md)

@@ -225,6 +225,8 @@
 
 ## 国服游戏教程 Gaming
 
+- [海外国服魔兽世界延迟诊断、双路并发与稳定连接完整攻略](docs/guides/wow-cn-server-overseas-latency-diagnosis-stable-connection-guide.md)
+
 - [海外和平精英下载慢、掉帧与跨境网络延迟分项排查指南](docs/guides/game-for-peace-low-ping-download-frame-network-troubleshooting-guide.md)
 
 - [海外和平精英固定四排、低延迟加速器与多设备套餐选择指南](docs/guides/game-for-peace-overseas-fixed-squad-low-latency-accelerator-guide.md)

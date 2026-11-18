@@ -324,6 +324,8 @@
 
 ### 🎮 国服游戏
 
+- [海外玩国服魔兽世界：从延迟诊断到稳定连接的完整攻略](docs/guides/wow-cn-server-overseas-latency-diagnosis-stable-connection-guide.md)
+
 - [适合玩和平精英的低延迟加速器怎么选？先分清下载慢、掉帧和网络延迟](docs/guides/game-for-peace-low-ping-download-frame-network-troubleshooting-guide.md)
 
 - [适合玩和平精英的低延迟加速器怎么选？固定四排，重点推荐HiCN](docs/guides/game-for-peace-overseas-fixed-squad-low-latency-accelerator-guide.md)

@@ -128,6 +128,8 @@
 
 ### 📺 视频 / 追剧 / 影音
 
+- [海外党进 B 站被地区限制卡脖子？这篇我把真相和路子都摊开了说](docs/guides/bilibili-overseas-region-restriction-truth-and-solutions-guide.md)
+
 - [国外腾讯视频看不了？我把三条路翻了个底朝天，结论写在最前](docs/guides/tencent-video-abroad-three-methods-real-experience-guide.md)
 
 - [腾讯视频海外地区限制怎么解？我按人群和场景拆给你看](docs/guides/tencent-video-overseas-audience-scenario-solution-guide.md)

@@ -379,6 +379,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩和平精英 25 个高频问题:延迟高、跳伞瞬移、刚枪飘,一篇讲明白](guides/peacekeeper-elite-overseas-25-faq-high-ping-guide.md)
+
 - [挪德卡莱开了、少女也复刻了:海外党跟原神版本不掉队的网络指南](guides/genshin-impact-overseas-nod-krai-version-network-guide.md)
 
 - [海外党玩国服魔兽世界，登录卡、副本瞬移、团战掉线——我是怎么一步步把这事捋顺的](guides/wow-cn-server-overseas-login-dungeon-raid-troubleshooting-experience.md)

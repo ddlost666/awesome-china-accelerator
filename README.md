@@ -328,6 +328,8 @@
 
 ### 🎮 国服游戏
 
+- [挪德卡莱开了、少女也复刻了:海外党跟原神版本不掉队的网络指南](docs/guides/genshin-impact-overseas-nod-krai-version-network-guide.md)
+
 - [海外党玩国服魔兽世界，登录卡、副本瞬移、团战掉线——我是怎么一步步把这事捋顺的](docs/guides/wow-cn-server-overseas-login-dungeon-raid-troubleshooting-experience.md)
 
 - [海外玩国服魔兽世界：从延迟诊断到稳定连接的完整攻略](docs/guides/wow-cn-server-overseas-latency-diagnosis-stable-connection-guide.md)

@@ -229,6 +229,8 @@
 
 ## 国服游戏教程 Gaming
 
+- [海外原神挪德卡莱版本更新、预下载与网络稳定性指南](docs/guides/genshin-impact-overseas-nod-krai-version-network-guide.md)
+
 - [海外国服魔兽世界登录卡、副本瞬移与团战掉线实战排查](docs/guides/wow-cn-server-overseas-login-dungeon-raid-troubleshooting-experience.md)
 
 - [海外国服魔兽世界延迟诊断、双路并发与稳定连接完整攻略](docs/guides/wow-cn-server-overseas-latency-diagnosis-stable-connection-guide.md)

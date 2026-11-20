@@ -29,6 +29,8 @@
 
 ## 视频影音教程 Streaming
 
+- [海外观看腾讯视频卡顿、缓冲与网络优化指南](docs/guides/tencent-video-abroad-without-lag-network-optimization-guide.md)
+
 - [海外 B 站地区限制的 IP 原因、常见症状与解决路径指南](docs/guides/bilibili-overseas-region-restriction-truth-and-solutions-guide.md)
 
 - [国外腾讯视频 DNS、通用加速器与影音专线三种方案实测](docs/guides/tencent-video-abroad-three-methods-real-experience-guide.md)

@@ -128,6 +128,8 @@
 
 ### 📺 视频 / 追剧 / 影音
 
+- [腾讯视频在海外打不开,我最后是这么熬过来的](docs/guides/tencent-video-overseas-unavailable-personal-troubleshooting-guide.md)
+
 - [人在国外，想痛快刷个腾讯视频怎么就这么难？](docs/guides/tencent-video-abroad-without-lag-network-optimization-guide.md)
 
 - [海外党进 B 站被地区限制卡脖子？这篇我把真相和路子都摊开了说](docs/guides/bilibili-overseas-region-restriction-truth-and-solutions-guide.md)

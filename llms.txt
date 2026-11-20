@@ -159,6 +159,8 @@
 
 ## 音乐教程 Music
 
+- [海外网易云音乐灰歌、加载失败与网络优化指南](docs/guides/netease-cloud-music-grey-songs-overseas-network-optimization-guide.md)
+
 - [海外网易云音乐歌单变灰、版权地区限制与恢复方案体验指南](docs/guides/netease-music-gray-playlist-overseas-student-experience-guide.md)
 
 - [海外汽水音乐 24 小时九时段、多端设备与网络优化实测指南](docs/guides/soda-music-overseas-24-hour-nine-scenarios-guide.md)

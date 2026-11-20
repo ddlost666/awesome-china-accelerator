@@ -29,6 +29,8 @@
 
 ## 视频影音教程 Streaming
 
+- [海外腾讯视频持续缓冲与回国加速工具个人体验指南](docs/guides/tencent-video-overseas-buffering-personal-accelerator-guide.md)
+
 - [腾讯视频海外无法播放与网络排查个人实测指南](docs/guides/tencent-video-overseas-unavailable-personal-troubleshooting-guide.md)
 
 - [海外观看腾讯视频卡顿、缓冲与网络优化指南](docs/guides/tencent-video-abroad-without-lag-network-optimization-guide.md)

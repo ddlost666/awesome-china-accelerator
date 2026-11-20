@@ -328,6 +328,8 @@
 
 ### 🎮 国服游戏
 
+- [手机配置拉满还是被秒？海外玩和平精英，选对低延迟加速器才叫真丝滑](docs/guides/peacekeeper-elite-overseas-low-latency-accelerator-guide.md)
+
 - [海外玩和平精英 25 个高频问题:延迟高、跳伞瞬移、刚枪飘,一篇讲明白](docs/guides/peacekeeper-elite-overseas-25-faq-high-ping-guide.md)
 
 - [挪德卡莱开了、少女也复刻了:海外党跟原神版本不掉队的网络指南](docs/guides/genshin-impact-overseas-nod-krai-version-network-guide.md)

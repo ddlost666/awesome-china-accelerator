@@ -336,6 +336,8 @@
 
 ### 🎮 国服游戏
 
+- [私信问爆了，我直接写一篇：海外打王者荣耀延迟高到底怎么办](docs/guides/honor-of-kings-overseas-high-latency-direct-answer-guide.md)
+
 - [在北美打原神国服，我折腾了大半年才想明白这些](docs/guides/genshin-impact-cn-server-north-america-lag-troubleshooting-guide.md)
 
 - [海外党聊原神国服：那些没人提前告诉你的事](docs/guides/genshin-impact-cn-server-overseas-things-to-know-guide.md)

@@ -387,6 +387,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [在英国读研这两年，我是怎么把王者荣耀延迟从280ms打到能上分的](guides/honor-of-kings-uk-high-ping-graduate-student-experience-guide.md)
+
 - [私信问爆了，我直接写一篇：海外打王者荣耀延迟高到底怎么办](guides/honor-of-kings-overseas-high-latency-direct-answer-guide.md)
 
 - [在北美打原神国服，我折腾了大半年才想明白这些](guides/genshin-impact-cn-server-north-america-lag-troubleshooting-guide.md)

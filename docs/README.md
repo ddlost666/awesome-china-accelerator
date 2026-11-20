@@ -387,6 +387,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外党聊原神国服：那些没人提前告诉你的事](guides/genshin-impact-cn-server-overseas-things-to-know-guide.md)
+
 - [手机配置拉满还是被秒？海外玩和平精英，选对低延迟加速器才叫真丝滑](guides/peacekeeper-elite-overseas-low-latency-accelerator-guide.md)
 
 - [海外玩和平精英 25 个高频问题:延迟高、跳伞瞬移、刚枪飘,一篇讲明白](guides/peacekeeper-elite-overseas-25-faq-high-ping-guide.md)

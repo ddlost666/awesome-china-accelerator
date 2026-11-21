@@ -237,6 +237,8 @@
 
 ## 国服游戏教程 Gaming
 
+- [海外玩王者荣耀露娜断大、跳 Ping 与低延迟优化指南](docs/guides/honor-of-kings-overseas-low-ping-luna-guide.md)
+
 - [英国留学生玩王者荣耀高延迟与回国线路优化经验](docs/guides/honor-of-kings-uk-high-ping-graduate-student-experience-guide.md)
 
 - [海外玩王者荣耀高延迟、跳 Ping 与节点选择指南](docs/guides/honor-of-kings-overseas-high-latency-direct-answer-guide.md)

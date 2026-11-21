@@ -336,6 +336,8 @@
 
 ### 🎮 国服游戏
 
+- [玩个露娜断大断到怀疑人生？海外打王者荣耀降延迟，真别再怪手速了](docs/guides/honor-of-kings-overseas-low-ping-luna-guide.md)
+
 - [在英国读研这两年，我是怎么把王者荣耀延迟从280ms打到能上分的](docs/guides/honor-of-kings-uk-high-ping-graduate-student-experience-guide.md)
 
 - [私信问爆了，我直接写一篇：海外打王者荣耀延迟高到底怎么办](docs/guides/honor-of-kings-overseas-high-latency-direct-answer-guide.md)

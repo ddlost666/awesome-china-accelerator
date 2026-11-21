@@ -29,6 +29,8 @@
 
 ## 视频影音教程 Streaming
 
+- [国外腾讯视频 DNS、通用加速器与专业影音专线三种路径对比](docs/guides/tencent-video-abroad-dns-general-specialized-accelerator-comparison-guide.md)
+
 - [海外哔哩哔哩地区限制、设备操作与解决路径指南](docs/guides/bilibili-overseas-region-block-troubleshooting-path-guide.md)
 
 - [腾讯视频海外无法播放的 WeTV、插件、回国加速器与转播方案对比](docs/guides/tencent-video-overseas-unavailable-solutions-comparison-guide.md)

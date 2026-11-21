@@ -573,6 +573,8 @@
 
 ### 🏆 体育 / 世界杯 / 直播
 
+- [熬夜看球却被微信群提前剧透？海外党亲测丝滑的国内体育直播打开方式](docs/guides/overseas-chinese-sports-live-stream-spoiler-free-smooth-viewing-guide.md)
+
 - [解决海外看体育直播地域限制的方法：WTT与CBA双线观赛怎么安排？](docs/guides/sports-live-overseas-wtt-cba-dual-viewing-guide.md)
 
 - [解决海外看体育直播地域限制的方法：买了会员，比赛仍看不了怎么办？](docs/guides/sports-live-overseas-membership-still-blocked-troubleshooting-guide.md)

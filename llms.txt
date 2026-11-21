@@ -243,6 +243,8 @@
 
 ## 国服游戏教程 Gaming
 
+- [海外看视频流畅但王者荣耀国服卡顿的网络与设备排查指南](docs/guides/honor-of-kings-overseas-video-smooth-game-lag-guide.md)
+
 - [海外王者荣耀加速器、延迟测试与常见问题统一解答](docs/guides/honor-of-kings-overseas-accelerator-private-message-faq-guide.md)
 
 - [海外玩王者荣耀露娜断大、跳 Ping 与低延迟优化指南](docs/guides/honor-of-kings-overseas-low-ping-luna-guide.md)

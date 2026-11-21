@@ -342,6 +342,8 @@
 
 ### 🎮 国服游戏
 
+- [海外玩王者荣耀延迟高怎么办？看视频很顺，为什么国服还是卡？](docs/guides/honor-of-kings-overseas-video-smooth-game-lag-guide.md)
+
 - [海外党打王者荣耀加速器:这一年我收到的私信,统一答一下](docs/guides/honor-of-kings-overseas-accelerator-private-message-faq-guide.md)
 
 - [玩个露娜断大断到怀疑人生？海外打王者荣耀降延迟，真别再怪手速了](docs/guides/honor-of-kings-overseas-low-ping-luna-guide.md)

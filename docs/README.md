@@ -393,6 +393,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外党打王者荣耀加速器:这一年我收到的私信,统一答一下](guides/honor-of-kings-overseas-accelerator-private-message-faq-guide.md)
+
 - [玩个露娜断大断到怀疑人生？海外打王者荣耀降延迟，真别再怪手速了](guides/honor-of-kings-overseas-low-ping-luna-guide.md)
 
 - [在英国读研这两年，我是怎么把王者荣耀延迟从280ms打到能上分的](guides/honor-of-kings-uk-high-ping-graduate-student-experience-guide.md)

@@ -29,6 +29,8 @@
 
 ## 视频影音教程 Streaming
 
+- [腾讯视频海外无法播放的 WeTV、插件、回国加速器与转播方案对比](docs/guides/tencent-video-overseas-unavailable-solutions-comparison-guide.md)
+
 - [海外腾讯视频持续缓冲与回国加速工具个人体验指南](docs/guides/tencent-video-overseas-buffering-personal-accelerator-guide.md)
 
 - [腾讯视频海外无法播放与网络排查个人实测指南](docs/guides/tencent-video-overseas-unavailable-personal-troubleshooting-guide.md)

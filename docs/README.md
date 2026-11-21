@@ -44,6 +44,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 📺 视频 / 追剧 / 影音教程 · Streaming Guides
 
+- [腾讯视频海外打不开?帮过几个朋友解决,顺手写下来](guides/tencent-video-overseas-unavailable-solutions-comparison-guide.md)
+
 - [在海外点开腾讯视频只剩转圈?我换了几种思路后留下的那个工具](guides/tencent-video-overseas-buffering-personal-accelerator-guide.md)
 
 - [腾讯视频在海外打不开,我最后是这么熬过来的](guides/tencent-video-overseas-unavailable-personal-troubleshooting-guide.md)

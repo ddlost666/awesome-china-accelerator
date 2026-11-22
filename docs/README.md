@@ -393,6 +393,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [打个王者荣耀差点被队友当成“演员”？海外党告别高延迟的真实避坑记](guides/honor-of-kings-overseas-high-latency-actor-pitfall-experience-guide.md)
+
 - [海外玩王者荣耀延迟高怎么办？看视频很顺，为什么国服还是卡？](guides/honor-of-kings-overseas-video-smooth-game-lag-guide.md)
 
 - [海外党打王者荣耀加速器:这一年我收到的私信,统一答一下](guides/honor-of-kings-overseas-accelerator-private-message-faq-guide.md)

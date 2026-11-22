@@ -243,6 +243,7 @@
 
 ## 国服游戏教程 Gaming
 
+- [海外选择降低国服游戏 Ping 值软件与避免跳 Ping 的实测指南](docs/guides/chinese-games-ping-software-selection-guide.md)
 - [海外千兆宽带玩国服仍然 460、高延迟和跳 Ping 的优化指南](docs/guides/overseas-chinese-games-gigabit-broadband-460-ping-guide.md)
 - [海外王者荣耀 460 红字、高延迟与低延迟优化实用指南](docs/guides/honor-of-kings-overseas-460-high-ping-practical-guide.md)
 - [海外王者荣耀高延迟与队友误会的真实避坑经验](docs/guides/honor-of-kings-overseas-high-latency-actor-pitfall-experience-guide.md)

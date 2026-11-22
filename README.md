@@ -270,6 +270,7 @@
 
 ### 🎵 音乐
 
+- [在海外打开网易云音乐歌单变灰听不了？留学生亲测好用的听歌网络优化方案](docs/guides/netease-cloud-music-grey-playlist-student-network-optimization-guide.md)
 - [海外党听网易云音乐全是灰歌？别再清缓存了，这招网络优化亲测管用](docs/guides/netease-cloud-music-grey-songs-overseas-network-optimization-guide.md)
 
 - [出国前没人跟我说这事——网易云歌单怎么落地就废了](docs/guides/netease-music-gray-playlist-overseas-student-experience-guide.md)

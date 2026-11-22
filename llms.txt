@@ -171,6 +171,7 @@
 
 ## 音乐教程 Music
 
+- [海外网易云音乐歌单变灰、无法播放与留学生网络优化实测指南](docs/guides/netease-cloud-music-grey-playlist-student-network-optimization-guide.md)
 - [海外网易云音乐灰歌、加载失败与网络优化指南](docs/guides/netease-cloud-music-grey-songs-overseas-network-optimization-guide.md)
 
 - [海外网易云音乐歌单变灰、版权地区限制与恢复方案体验指南](docs/guides/netease-music-gray-playlist-overseas-student-experience-guide.md)

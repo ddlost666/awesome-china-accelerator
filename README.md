@@ -342,6 +342,7 @@
 
 ### 🎮 国服游戏
 
+- [千兆宽带打国服照样460？聊聊海外党真正离不开的降Ping神器](docs/guides/overseas-chinese-games-gigabit-broadband-460-ping-guide.md)
 - [海外玩王者荣耀延迟高怎么办？告别460红字卡顿的实用指南](docs/guides/honor-of-kings-overseas-460-high-ping-practical-guide.md)
 - [打个王者荣耀差点被队友当成“演员”？海外党告别高延迟的真实避坑记](docs/guides/honor-of-kings-overseas-high-latency-actor-pitfall-experience-guide.md)
 

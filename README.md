@@ -128,6 +128,7 @@
 
 ### 📺 视频 / 追剧 / 影音
 
+- [海外看腾讯视频,亲测过几种方法,最后只留下了这一个](docs/guides/tencent-video-overseas-four-methods-comparison-guide.md)
 - [在国外打开腾讯视频一直转圈？别瞎折腾了，老海漂的丝滑追剧指南](docs/guides/tencent-video-overseas-buffering-veteran-guide.md)
 - [国外腾讯视频看不了？试过三条路之后，我决定把这次折腾写下来](docs/guides/tencent-video-abroad-dns-general-specialized-accelerator-comparison-guide.md)
 

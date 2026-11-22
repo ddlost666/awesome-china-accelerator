@@ -29,6 +29,7 @@
 
 ## 视频影音教程 Streaming
 
+- [海外腾讯视频持续转圈、播放异常与丝滑追剧网络优化指南](docs/guides/tencent-video-overseas-buffering-veteran-guide.md)
 - [国外腾讯视频 DNS、通用加速器与专业影音专线三种路径对比](docs/guides/tencent-video-abroad-dns-general-specialized-accelerator-comparison-guide.md)
 
 - [海外哔哩哔哩地区限制、设备操作与解决路径指南](docs/guides/bilibili-overseas-region-block-troubleshooting-path-guide.md)

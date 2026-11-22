@@ -345,6 +345,7 @@
 
 ### 🎮 国服游戏
 
+- [海外党连国服王者荣耀都打不开?460ms飘红这事我折腾到凌晨四点才解决](docs/guides/honor-of-kings-overseas-460ms-lag-late-night-fix-guide.md)
 - [别再当海外“移动快递”了！打和平精英真正稳的低延迟加速器分享](docs/guides/game-for-peace-overseas-low-latency-mobile-courier-guide.md)
 - [降低国服游戏Ping值的软件怎么选？海外党告别红字跳Ping的实测指南](docs/guides/chinese-games-ping-software-selection-guide.md)
 - [千兆宽带打国服照样460？聊聊海外党真正离不开的降Ping神器](docs/guides/overseas-chinese-games-gigabit-broadband-460-ping-guide.md)

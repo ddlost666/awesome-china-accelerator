@@ -351,6 +351,8 @@
 
 ### 🎮 国服游戏
 
+- [海外玩王者荣耀延迟高怎么办？和国内朋友开黑前，先把这几步做好](docs/guides/how-to-fix-high-ping-in-honor-of-kings-overseas-3.md)
+
 - [海外玩国服魔兽世界无限，下载慢和游戏延迟高该怎么分别处理？](docs/guides/play-wow-china-server-overseas-fix-ping-and-download.md)
 
 - [适合玩和平精英的低延迟加速器怎么选？四排转点，更要看整局稳定性](docs/guides/game-for-peace-overseas-squad-rotation-stability-guide.md)

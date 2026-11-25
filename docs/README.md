@@ -402,6 +402,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩国服魔兽世界无限，下载慢和游戏延迟高该怎么分别处理？](guides/play-wow-china-server-overseas-fix-ping-and-download.md)
+
 - [适合玩和平精英的低延迟加速器怎么选？四排转点，更要看整局稳定性](guides/game-for-peace-overseas-squad-rotation-stability-guide.md)
 
 - [海外玩王者荣耀延迟高怎么办？更新后突然变卡，先别急着重装](guides/honor-of-kings-overseas-lag-after-update-guide.md)

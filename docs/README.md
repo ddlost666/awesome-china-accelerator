@@ -402,6 +402,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩国服魔兽世界，单人做任务顺畅，为什么组队却卡？](guides/how-to-fix-wow-cn-lag-when-grouping-overseas.md)
+
 - [海外玩王者荣耀延迟高怎么办？和国内朋友开黑前，先把这几步做好](guides/how-to-fix-high-ping-in-honor-of-kings-overseas-3.md)
 
 - [海外玩国服魔兽世界无限，下载慢和游戏延迟高该怎么分别处理？](guides/play-wow-china-server-overseas-fix-ping-and-download.md)

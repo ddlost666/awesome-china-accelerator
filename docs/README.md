@@ -396,6 +396,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外打国服总被队友嫌弃卡？聊聊真正能把Ping值压稳的实用软件](guides/play-chinese-games-overseas-ping-booster.md)
+
 - [海外党连国服王者荣耀都打不开?460ms飘红这事我折腾到凌晨四点才解决](guides/honor-of-kings-overseas-460ms-lag-late-night-fix-guide.md)
 - [别再当海外“移动快递”了！打和平精英真正稳的低延迟加速器分享](guides/game-for-peace-overseas-low-latency-mobile-courier-guide.md)
 - [降低国服游戏Ping值的软件怎么选？海外党告别红字跳Ping的实测指南](guides/chinese-games-ping-software-selection-guide.md)

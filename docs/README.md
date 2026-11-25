@@ -398,6 +398,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [海外玩王者荣耀延迟高怎么办？更新后突然变卡，先别急着重装](guides/honor-of-kings-overseas-lag-after-update-guide.md)
+
 - [适合玩和平精英的低延迟加速器怎么选？回到宿舍就卡，先看网络环境](guides/game-for-peace-overseas-dorm-network-low-latency-guide.md)
 
 - [海外打国服总被队友嫌弃卡？聊聊真正能把Ping值压稳的实用软件](guides/play-chinese-games-overseas-ping-booster.md)

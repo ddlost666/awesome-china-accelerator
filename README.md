@@ -593,6 +593,8 @@
 
 ### 🏆 体育 / 世界杯 / 直播
 
+- [人在海外看球总慢半拍？老球迷私藏的高清中文直播网络优化法](docs/guides/watch-chinese-sports-live-overseas-accelerator.md)
+
 - [熬夜看球却被微信群提前剧透？海外党亲测丝滑的国内体育直播打开方式](docs/guides/overseas-chinese-sports-live-stream-spoiler-free-smooth-viewing-guide.md)
 
 - [解决海外看体育直播地域限制的方法：WTT与CBA双线观赛怎么安排？](docs/guides/sports-live-overseas-wtt-cba-dual-viewing-guide.md)

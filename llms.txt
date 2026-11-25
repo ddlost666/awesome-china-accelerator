@@ -494,6 +494,8 @@
 
 ## 体育直播教程 Sports
 
+- [人在海外看球总慢半拍？老球迷私藏的高清中文直播网络优化法](docs/guides/watch-chinese-sports-live-overseas-accelerator.md)
+
 - [海外观看国内体育直播延迟、防剧透与流畅观赛指南](docs/guides/overseas-chinese-sports-live-stream-spoiler-free-smooth-viewing-guide.md)
 
 - [海外WTT与CBA双线直播回看观赛清单指南](docs/guides/sports-live-overseas-wtt-cba-dual-viewing-guide.md)

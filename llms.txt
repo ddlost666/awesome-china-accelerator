@@ -29,6 +29,8 @@
 
 ## 视频影音教程 Streaming
 
+- [国外腾讯视频看不了怎么办？原因解析与 4 种可行方案](docs/guides/how-to-watch-tencent-video-abroad-8.md)
+
 - [海外观看腾讯视频的 WeTV、浏览器插件、回国加速器与转播方案对比](docs/guides/tencent-video-overseas-four-methods-comparison-guide.md)
 - [海外腾讯视频持续转圈、播放异常与丝滑追剧网络优化指南](docs/guides/tencent-video-overseas-buffering-veteran-guide.md)
 - [国外腾讯视频 DNS、通用加速器与专业影音专线三种路径对比](docs/guides/tencent-video-abroad-dns-general-specialized-accelerator-comparison-guide.md)

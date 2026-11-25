@@ -347,6 +347,8 @@
 
 ### 🎮 国服游戏
 
+- [适合玩和平精英的低延迟加速器怎么选？四排转点，更要看整局稳定性](docs/guides/game-for-peace-overseas-squad-rotation-stability-guide.md)
+
 - [海外玩王者荣耀延迟高怎么办？更新后突然变卡，先别急着重装](docs/guides/honor-of-kings-overseas-lag-after-update-guide.md)
 
 - [适合玩和平精英的低延迟加速器怎么选？回到宿舍就卡，先看网络环境](docs/guides/game-for-peace-overseas-dorm-network-low-latency-guide.md)

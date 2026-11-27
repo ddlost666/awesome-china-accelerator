@@ -286,6 +286,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎵 音乐教程 · Music Guides
 
+- [刚出国打开网易云歌单灰了一片？别急着换软件，老海漂教你一招搞定](guides/fix-netease-cloud-music-gray-playlist-overseas.md)
+
 - [汽水音乐出国后彻底成摆设了？别急着卸载，海外党亲测管用的听歌解法](guides/how-to-use-qishui-music-overseas.md)
 
 - [海外如何解除网易云音乐地区限制？通勤歌单播不完整，加速器怎么选？](guides/how-to-unblock-netease-cloud-music-overseas-7.md)

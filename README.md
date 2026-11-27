@@ -128,6 +128,8 @@
 
 ### 📺 视频 / 追剧 / 影音
 
+- [充着腾讯视频VIP在国外却看不了？别白交冤枉钱，老海漂的省心解法](docs/guides/how-to-watch-tencent-video-overseas-11.md)
+
 - [看腻了外语剧想刷部腾讯视频下饭？海外党亲测丝滑的追剧打开方式](docs/guides/how-to-watch-tencent-video-overseas-10.md)
 
 - [海外如何解除哔哩哔哩地区限制？手机能看，电脑打不开怎么办？](docs/guides/how-to-bypass-bilibili-geo-restriction-on-pc.md)

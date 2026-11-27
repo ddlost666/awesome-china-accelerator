@@ -404,6 +404,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [别再重启路由器了！海外打王者荣耀国服，把红字延迟压稳的实在经验](guides/play-honor-of-kings-chinese-server-overseas.md)
+
 - [海外玩国服魔兽世界，单人做任务顺畅，为什么组队却卡？](guides/how-to-fix-wow-cn-lag-when-grouping-overseas.md)
 
 - [海外玩王者荣耀延迟高怎么办？和国内朋友开黑前，先把这几步做好](guides/how-to-fix-high-ping-in-honor-of-kings-overseas-3.md)

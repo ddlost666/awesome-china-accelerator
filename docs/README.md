@@ -406,6 +406,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [好不容易凑齐时差开黑，却被460按在地上摩擦？海外党降延迟的实在办法](guides/how-to-fix-high-ping-for-overseas-gamers.md)
+
 - [别再重启路由器了！海外打王者荣耀国服，把红字延迟压稳的实在经验](guides/play-honor-of-kings-chinese-server-overseas.md)
 
 - [海外玩国服魔兽世界，单人做任务顺畅，为什么组队却卡？](guides/how-to-fix-wow-cn-lag-when-grouping-overseas.md)

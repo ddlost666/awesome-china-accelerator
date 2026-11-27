@@ -276,6 +276,8 @@
 
 ### 🎵 音乐
 
+- [汽水音乐出国后彻底成摆设了？别急着卸载，海外党亲测管用的听歌解法](docs/guides/how-to-use-qishui-music-overseas.md)
+
 - [海外如何解除网易云音乐地区限制？通勤歌单播不完整，加速器怎么选？](docs/guides/how-to-unblock-netease-cloud-music-overseas-7.md)
 
 - [在海外打开网易云音乐歌单变灰听不了？留学生亲测好用的听歌网络优化方案](docs/guides/netease-cloud-music-grey-playlist-student-network-optimization-guide.md)

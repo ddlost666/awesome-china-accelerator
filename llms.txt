@@ -181,6 +181,8 @@
 
 ## 音乐教程 Music
 
+- [切歌切得像抽奖？海外党顺畅听网易云音乐的真实心得](docs/guides/netease-cloud-music-overseas-smooth-playback-experience.md)
+
 - [刚出国打开网易云歌单灰了一片？别急着换软件，老海漂教你一招搞定](docs/guides/fix-netease-cloud-music-gray-playlist-overseas.md)
 
 - [汽水音乐出国后彻底成摆设了？别急着卸载，海外党亲测管用的听歌解法](docs/guides/how-to-use-qishui-music-overseas.md)

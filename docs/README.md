@@ -44,6 +44,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 📺 视频 / 追剧 / 影音教程 · Streaming Guides
 
+- [群里都在聊腾讯视频新剧，我却只能对着加载圈干瞪眼？海外党省心追剧法](guides/tencent-video-overseas-loading-circle-streaming-guide.md)
+
 - [充着腾讯视频VIP在国外却看不了？别白交冤枉钱，老海漂的省心解法](guides/how-to-watch-tencent-video-overseas-11.md)
 
 - [看腻了外语剧想刷部腾讯视频下饭？海外党亲测丝滑的追剧打开方式](guides/how-to-watch-tencent-video-overseas-10.md)

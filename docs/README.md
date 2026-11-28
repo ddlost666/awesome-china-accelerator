@@ -414,6 +414,8 @@ A complete index of all 50+ reviews, comparisons, guides, and FAQ articles on Ch
 
 ## 🎮 国服游戏教程 · Gaming Guides
 
+- [在国外玩王者荣耀总卡成慢动作？聊点实在的，怎么把国服延迟压稳](guides/honor-of-kings-overseas-slow-motion-latency-guide.md)
+
 - [在国外打王者荣耀老被系统扣信誉分？别忍了，这招延迟优化真管用](guides/honor-of-kings-overseas-credit-score-latency-guide.md)
 
 - [好不容易凑齐时差开黑，却被460按在地上摩擦？海外党降延迟的实在办法](guides/how-to-fix-high-ping-for-overseas-gamers.md)
